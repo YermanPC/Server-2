@@ -460,8 +460,10 @@
     "criteria": {
       "entered_stables": "2024-12-09 20:32:28 +0000",
       "entered_pillager_camp": "2024-12-10 01:30:36 +0000",
+      "entered_fishing_ship": "2024-12-10 23:15:19 +0000",
       "entered_deep_crypt": "2024-12-09 23:26:17 +0000",
-      "entered_dungeon_variant": "2024-12-10 18:59:27 +0000"
+      "entered_dungeon_variant": "2024-12-10 18:59:27 +0000",
+      "entered_ruined_building": "2024-12-10 23:03:50 +0000"
     },
     "done": false
   },
@@ -589,8 +591,10 @@
     "criteria": {
       "muskeg": "2024-12-10 02:59:33 +0000",
       "shrubland": "2024-12-09 18:07:42 +0000",
+      "rocky_shrubland": "2024-12-10 23:28:07 +0000",
       "scrubland": "2024-12-10 19:59:28 +0000",
       "erupting_inferno": "2024-12-10 02:30:55 +0000",
+      "highland": "2024-12-10 23:27:48 +0000",
       "mystic_grove": "2024-12-10 01:15:22 +0000",
       "cold_desert": "2024-12-09 03:35:31 +0000",
       "maple_woods": "2024-12-10 04:08:07 +0000",
@@ -807,12 +811,6 @@
       "hasItem": "2024-12-10 00:41:03 +0000"
     },
     "done": true
-  },
-  "incendium:technical/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-10 20:02:32 +0000"
-    },
-    "done": false
   },
   "ic2:tfbp_recipe_advancement": {
     "criteria": {
@@ -1077,12 +1075,6 @@
       "hasItem": "2024-12-10 18:26:05 +0000"
     },
     "done": true
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-10 20:02:32 +0000"
-    },
-    "done": false
   },
   "ic2:cfoam_slabs_light_gray_1_recipe_advancement": {
     "criteria": {
@@ -1390,12 +1382,6 @@
     },
     "done": true
   },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-10 20:02:32 +0000"
-    },
-    "done": false
-  },
   "ic2:aluminum_axe_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-09 02:50:23 +0000"
@@ -1456,12 +1442,6 @@
     },
     "done": true
   },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-10 20:02:32 +0000"
-    },
-    "done": false
-  },
   "enigmaticlegacy:book/enchantments/generic": {
     "criteria": {
       "has_items": "2024-12-10 01:13:39 +0000"
@@ -1480,6 +1460,7 @@
       "minecraft:taiga": "2024-12-09 20:30:20 +0000",
       "minecraft:deep_ocean": "2024-12-09 23:09:17 +0000",
       "minecraft:frozen_river": "2024-12-09 03:03:27 +0000",
+      "minecraft:sunflower_plains": "2024-12-10 23:22:39 +0000",
       "minecraft:birch_forest": "2024-12-10 01:11:11 +0000",
       "minecraft:windswept_hills": "2024-12-10 02:58:04 +0000",
       "minecraft:beach": "2024-12-09 18:07:26 +0000",
@@ -1549,12 +1530,6 @@
       "hasItem": "2024-12-09 03:03:06 +0000"
     },
     "done": true
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-10 20:02:32 +0000"
-    },
-    "done": false
   },
   "ic2:efficient_sawblade_upgrade_recipe_advancement": {
     "criteria": {
@@ -1861,12 +1836,6 @@
       "hasItem": "2024-12-09 18:15:16 +0000"
     },
     "done": true
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-10 20:02:32 +0000"
-    },
-    "done": false
   },
   "ic2:memory_expansion_recipe_advancement": {
     "criteria": {
@@ -2550,12 +2519,6 @@
     },
     "done": true
   },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-10 20:02:32 +0000"
-    },
-    "done": false
-  },
   "ic2:generator_1_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-09 03:00:50 +0000"
@@ -2759,12 +2722,6 @@
     },
     "done": true
   },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-10 20:02:32 +0000"
-    },
-    "done": false
-  },
   "tombstone:adventure/first_knowledge": {
     "criteria": {
       "coded_trigger": "2024-12-09 03:18:29 +0000"
@@ -2836,12 +2793,6 @@
       "hasItem": "2024-12-09 18:22:51 +0000"
     },
     "done": true
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-10 20:02:32 +0000"
-    },
-    "done": false
   },
   "enigmaticlegacy:recipes/generic/the_twist": {
     "criteria": {
@@ -3523,12 +3474,6 @@
     },
     "done": true
   },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-10 20:02:32 +0000"
-    },
-    "done": false
-  },
   "dungeons_enhanced:seven_world_wonders": {
     "criteria": {
       "entered_deep_crypt": "2024-12-09 23:26:17 +0000"
@@ -3559,12 +3504,6 @@
     },
     "done": true
   },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-10 20:02:32 +0000"
-    },
-    "done": false
-  },
   "enigmaticlegacy:recipes/generic/cursed_scroll": {
     "criteria": {
       "has_parent_recipe": "2024-12-09 23:23:34 +0000"
@@ -3576,12 +3515,6 @@
       "hasItem": "2024-12-09 02:50:26 +0000"
     },
     "done": true
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-10 20:02:32 +0000"
-    },
-    "done": false
   },
   "corail_dt:recipes/corail_dt/disk_4_1": {
     "criteria": {
