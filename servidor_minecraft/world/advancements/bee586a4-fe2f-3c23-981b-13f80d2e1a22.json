@@ -1,7 +1,19 @@
 {
+  "ic2:coffee_cake_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 19:57:27 +0000"
+    },
+    "done": true
+  },
   "ic2:lapatron_crystal_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-10 19:42:52 +0000"
+    },
+    "done": true
+  },
+  "ic2:chainsaw_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 19:49:13 +0000"
     },
     "done": true
   },
@@ -60,6 +72,12 @@
     },
     "done": true
   },
+  "ic2:plasma_cable_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 19:49:13 +0000"
+    },
+    "done": true
+  },
   "ic2:trade_o_mat_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-11 19:34:29 +0000"
@@ -81,6 +99,12 @@
   "ic2:tfbp_biome_forestification_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-11 19:38:53 +0000"
+    },
+    "done": true
+  },
+  "ic2:vent_steam_overclocked_0_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 19:45:35 +0000"
     },
     "done": true
   },
@@ -120,6 +144,12 @@
     },
     "done": true
   },
+  "ic2:wave_generator_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 19:49:13 +0000"
+    },
+    "done": true
+  },
   "enigmaticlegacy:recipes/generic/the_acknowledgment": {
     "criteria": {
       "has_iron_ingot": "2024-12-10 19:14:42 +0000"
@@ -150,6 +180,12 @@
     },
     "done": true
   },
+  "ic2:iron_scaffold_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 19:49:13 +0000"
+    },
+    "done": true
+  },
   "ic2:painter_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-10 19:38:43 +0000"
@@ -177,6 +213,12 @@
   "ic2:muffler_upgrade_1_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-11 00:32:54 +0000"
+    },
+    "done": true
+  },
+  "ic2:speed_tube_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 19:45:35 +0000"
     },
     "done": true
   },
@@ -345,6 +387,12 @@
     },
     "done": true
   },
+  "ic2:wind_turbine_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 19:49:13 +0000"
+    },
+    "done": true
+  },
   "ic2:memory_stick_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-11 00:08:39 +0000"
@@ -354,6 +402,12 @@
   "ic2:glass_to_splash_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-10 19:38:04 +0000"
+    },
+    "done": true
+  },
+  "ic2:lemon_cake_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 19:57:27 +0000"
     },
     "done": true
   },
@@ -417,6 +471,18 @@
     },
     "done": true
   },
+  "ic2:2x_insulated_gold_cable_2_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 19:45:35 +0000"
+    },
+    "done": true
+  },
+  "ic2:ocean_generator_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 19:49:13 +0000"
+    },
+    "done": true
+  },
   "ic2:filtered_fluid_scanner_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-11 19:34:29 +0000"
@@ -453,6 +519,12 @@
     },
     "done": true
   },
+  "ic2:electric_hoe_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 19:49:13 +0000"
+    },
+    "done": true
+  },
   "ic2:hover_tube_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-11 00:08:39 +0000"
@@ -477,9 +549,21 @@
     },
     "done": true
   },
+  "ic2:mowing_tool_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 19:49:13 +0000"
+    },
+    "done": true
+  },
   "ic2:aluminum_shovel_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-10 19:20:36 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/accessories/golden_ring": {
+    "criteria": {
+      "has_the_recipe": "2024-12-11 19:45:35 +0000"
     },
     "done": true
   },
@@ -519,11 +603,29 @@
     },
     "done": false
   },
+  "enigmaticlegacy:recipes/generic/desolation_ring": {
+    "criteria": {
+      "has_parent_recipe": "2024-12-11 19:45:35 +0000"
+    },
+    "done": false
+  },
   "ic2:lv_flux_generator_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-10 19:38:43 +0000"
     },
     "done": true
+  },
+  "ic2:acquire_refined_iron": {
+    "criteria": {
+      "hasItem": "2024-12-11 19:49:13 +0000"
+    },
+    "done": true
+  },
+  "corail_dt:recipes/corail_dt/disk_1_4": {
+    "criteria": {
+      "requirement1": "2024-12-11 19:45:35 +0000"
+    },
+    "done": false
   },
   "takesapillage:root": {
     "criteria": {
@@ -555,6 +657,18 @@
     },
     "done": true
   },
+  "ic2:iron_rotor_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 19:49:13 +0000"
+    },
+    "done": true
+  },
+  "ic2:gold_cable_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 19:45:35 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
       "muskeg": "2024-12-11 00:40:45 +0000",
@@ -573,6 +687,24 @@
   "minecraft:story/mine_stone": {
     "criteria": {
       "get_stone": "2024-12-10 19:27:35 +0000"
+    },
+    "done": true
+  },
+  "ic2:electric_blast_furnace_upgrade_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 19:53:22 +0000"
+    },
+    "done": true
+  },
+  "ic2:wood_gassifier_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 19:51:27 +0000"
+    },
+    "done": true
+  },
+  "ic2:electric_pipe_pump_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 19:49:13 +0000"
     },
     "done": true
   },
@@ -660,6 +792,12 @@
     },
     "done": true
   },
+  "ic2:generator_0_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 19:49:13 +0000"
+    },
+    "done": true
+  },
   "ic2:macerator_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-10 19:27:35 +0000"
@@ -720,6 +858,12 @@
     },
     "done": true
   },
+  "ic2:iron_cable_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 19:49:13 +0000"
+    },
+    "done": true
+  },
   "ic2:wooden_scaffold_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-10 19:20:31 +0000"
@@ -732,6 +876,12 @@
     },
     "done": false
   },
+  "ic2:macerator_upgrade_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 19:49:13 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:main/root": {
     "criteria": {
       "seeds": "2024-12-10 19:14:42 +0000"
@@ -741,6 +891,12 @@
   "ic2:mv_battery_station_bronze_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-10 19:20:31 +0000"
+    },
+    "done": true
+  },
+  "ic2:tesla_coil_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 19:49:13 +0000"
     },
     "done": true
   },
@@ -780,6 +936,12 @@
     },
     "done": false
   },
+  "corail_dt:recipes/corail_dt/disk_0_4": {
+    "criteria": {
+      "requirement1": "2024-12-11 19:45:35 +0000"
+    },
+    "done": false
+  },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2024-12-11 00:17:46 +0000",
@@ -805,6 +967,18 @@
   "ic2:bronze_axe_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-10 19:20:36 +0000"
+    },
+    "done": true
+  },
+  "ic2:mv_unloader_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 19:49:13 +0000"
+    },
+    "done": true
+  },
+  "ic2:luminator_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 19:49:13 +0000"
     },
     "done": true
   },
@@ -847,6 +1021,12 @@
   "ic2:dynamite_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-10 19:25:09 +0000"
+    },
+    "done": true
+  },
+  "ic2:vent_heat_overclocked_0_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 19:45:35 +0000"
     },
     "done": true
   },
@@ -910,6 +1090,12 @@
     },
     "done": true
   },
+  "ic2:vent_heat_0_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 19:49:13 +0000"
+    },
+    "done": true
+  },
   "ic2:fluid_scanner_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-11 00:20:20 +0000"
@@ -919,6 +1105,12 @@
   "ic2:cfoam_wool_white_2_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-11 00:32:54 +0000"
+    },
+    "done": true
+  },
+  "ic2:2x_insulated_iron_cable_0_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 19:49:13 +0000"
     },
     "done": true
   },
@@ -958,6 +1150,12 @@
     },
     "done": true
   },
+  "ic2:advanced_alloy_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 19:49:13 +0000"
+    },
+    "done": true
+  },
   "corail_dt:recipes/corail_dt/disk_3_0": {
     "criteria": {
       "requirement1": "2024-12-10 19:20:31 +0000"
@@ -988,6 +1186,18 @@
     },
     "done": false
   },
+  "ic2:fuel_jetpack_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 19:49:13 +0000"
+    },
+    "done": true
+  },
+  "corail_dt:recipes/corail_dt/disk_3_4": {
+    "criteria": {
+      "requirement1": "2024-12-11 19:45:35 +0000"
+    },
+    "done": false
+  },
   "corail_dt:recipes/corail_dt/disk_3_3": {
     "criteria": {
       "requirement1": "2024-12-11 00:08:39 +0000"
@@ -1009,6 +1219,18 @@
   "ic2:teleporter_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-11 00:08:39 +0000"
+    },
+    "done": true
+  },
+  "ic2:electric_jetpack_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 19:49:13 +0000"
+    },
+    "done": true
+  },
+  "ic2:geothermal_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 19:49:13 +0000"
     },
     "done": true
   },
@@ -1036,6 +1258,12 @@
     },
     "done": true
   },
+  "ic2:drill_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 19:49:13 +0000"
+    },
+    "done": true
+  },
   "ic2:mv_charging_bench_bronze_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-10 19:20:31 +0000"
@@ -1045,6 +1273,12 @@
   "ic2:mv_charging_bench_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-10 19:20:31 +0000"
+    },
+    "done": true
+  },
+  "ic2:mv_loader_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 19:49:13 +0000"
     },
     "done": true
   },
@@ -1102,6 +1336,12 @@
     },
     "done": true
   },
+  "ic2:thermal_generator_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 19:49:13 +0000"
+    },
+    "done": true
+  },
   "ic2:terraformer_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-10 19:27:27 +0000"
@@ -1111,6 +1351,12 @@
   "ic2:solar_helmet_0_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-10 19:38:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2024-12-11 19:59:33 +0000"
     },
     "done": true
   },
@@ -1132,6 +1378,18 @@
     },
     "done": true
   },
+  "ic2:turbine_blade_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 19:49:13 +0000"
+    },
+    "done": true
+  },
+  "ic2:honey_cake_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 19:57:27 +0000"
+    },
+    "done": true
+  },
   "corail_dt:recipes/corail_dt/disk_2_1": {
     "criteria": {
       "requirement1": "2024-12-10 19:27:35 +0000"
@@ -1140,9 +1398,10 @@
   },
   "enigmaticlegacy:recipes/generic/golden_ring": {
     "criteria": {
-      "has_parent_recipe": "2024-12-10 19:38:43 +0000"
+      "has_parent_recipe": "2024-12-10 19:38:43 +0000",
+      "has_items": "2024-12-11 19:45:35 +0000"
     },
-    "done": false
+    "done": true
   },
   "ic2:crop_harvester_recipe_advancement": {
     "criteria": {
@@ -1183,6 +1442,12 @@
   "corail_dt:recipes/corail_dt/disk_2_2": {
     "criteria": {
       "requirement1": "2024-12-10 19:38:43 +0000"
+    },
+    "done": false
+  },
+  "corail_dt:recipes/corail_dt/disk_2_4": {
+    "criteria": {
+      "requirement1": "2024-12-11 19:45:35 +0000"
     },
     "done": false
   },
@@ -1330,6 +1595,12 @@
     },
     "done": true
   },
+  "ic2:insulated_gold_cable_0_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 19:45:35 +0000"
+    },
+    "done": true
+  },
   "ic2:tfbp_cultivation_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-10 19:22:53 +0000"
@@ -1342,9 +1613,21 @@
     },
     "done": true
   },
+  "ic2:heat_exchanger_spread_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 19:45:35 +0000"
+    },
+    "done": true
+  },
   "ic2:reactor_planner_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-11 19:34:29 +0000"
+    },
+    "done": true
+  },
+  "ic2:iron_fence_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 19:49:13 +0000"
     },
     "done": true
   },
@@ -1363,6 +1646,24 @@
   "ic2:nuke_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-10 19:38:04 +0000"
+    },
+    "done": true
+  },
+  "ic2:machine_block_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 19:49:13 +0000"
+    },
+    "done": true
+  },
+  "ic2:refined_iron_block_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 19:49:13 +0000"
+    },
+    "done": true
+  },
+  "ic2:circuit_1_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 19:49:13 +0000"
     },
     "done": true
   },
@@ -1564,9 +1865,21 @@
     },
     "done": true
   },
+  "ic2:mining_pipe_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 19:49:13 +0000"
+    },
+    "done": true
+  },
   "ic2:iv_battery_station_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-10 19:20:31 +0000"
+    },
+    "done": true
+  },
+  "ic2:circuit_0_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 19:49:13 +0000"
     },
     "done": true
   },
@@ -1581,6 +1894,12 @@
       "requirement1": "2024-12-10 19:20:31 +0000"
     },
     "done": false
+  },
+  "ic2:player_detector_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 19:51:27 +0000"
+    },
+    "done": true
   },
   "corail_dt:recipes/corail_dt/disk_4_3": {
     "criteria": {
@@ -1599,6 +1918,12 @@
       "hasItem": "2024-12-11 00:14:36 +0000"
     },
     "done": true
+  },
+  "corail_dt:recipes/corail_dt/disk_4_4": {
+    "criteria": {
+      "requirement1": "2024-12-11 19:45:35 +0000"
+    },
+    "done": false
   },
   "dungeons_arise:wda_root": {
     "criteria": {
@@ -1693,6 +2018,12 @@
   "ic2:root": {
     "criteria": {
       "hasCrafting": "2024-12-10 19:20:36 +0000"
+    },
+    "done": true
+  },
+  "ic2:insulated_iron_cable_0_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 19:49:13 +0000"
     },
     "done": true
   },

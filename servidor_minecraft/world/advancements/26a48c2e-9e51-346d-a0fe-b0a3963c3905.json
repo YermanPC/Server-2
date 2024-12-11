@@ -1220,6 +1220,12 @@
     },
     "done": true
   },
+  "ic2:build_compressor": {
+    "criteria": {
+      "hasItem": "2024-12-11 19:43:42 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/christmas": {
     "criteria": {
       "coded_trigger": "2024-12-09 02:46:24 +0000"
@@ -1379,6 +1385,12 @@
   "ic2:filter_tube_upgrade_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-10 03:12:22 +0000"
+    },
+    "done": true
+  },
+  "ic2:carbon_mesh_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 19:45:12 +0000"
     },
     "done": true
   },
