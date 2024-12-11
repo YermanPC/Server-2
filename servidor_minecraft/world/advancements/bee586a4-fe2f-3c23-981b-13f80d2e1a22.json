@@ -35,6 +35,12 @@
     },
     "done": true
   },
+  "ic2:gunpowder_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 20:02:46 +0000"
+    },
+    "done": true
+  },
   "enigmaticlegacy:recipes/generic/magnet_ring": {
     "criteria": {
       "has_parent_recipe": "2024-12-10 19:38:43 +0000",
@@ -186,6 +192,12 @@
     },
     "done": true
   },
+  "ic2:wet_cfoam_0_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 20:02:46 +0000"
+    },
+    "done": true
+  },
   "ic2:painter_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-10 19:38:43 +0000"
@@ -312,6 +324,12 @@
     },
     "done": true
   },
+  "ic2:energy_o_mat_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 20:02:46 +0000"
+    },
+    "done": true
+  },
   "ic2:iv_battery_station_kit_indirect_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-10 19:20:31 +0000"
@@ -369,6 +387,12 @@
   "mutantmonsters:root": {
     "criteria": {
       "killed_something": "2024-12-10 19:22:49 +0000"
+    },
+    "done": true
+  },
+  "ic2:detector_cable_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 20:02:46 +0000"
     },
     "done": true
   },
@@ -480,6 +504,12 @@
   "ic2:ocean_generator_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-11 19:49:13 +0000"
+    },
+    "done": true
+  },
+  "ic2:condensator_lap_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 20:02:46 +0000"
     },
     "done": true
   },
@@ -645,6 +675,12 @@
     },
     "done": false
   },
+  "ic2:re_battery_0_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 20:02:46 +0000"
+    },
+    "done": true
+  },
   "ic2:monitor_card_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-11 00:10:55 +0000"
@@ -750,6 +786,12 @@
     },
     "done": true
   },
+  "ic2:wet_cfoam_1_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 20:02:46 +0000"
+    },
+    "done": true
+  },
   "ic2:tfbp_flatificator_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-10 19:27:27 +0000"
@@ -765,6 +807,12 @@
   "ic2:hv_battery_station_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-10 19:20:31 +0000"
+    },
+    "done": true
+  },
+  "ic2:raw_uranium_block_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 20:04:27 +0000"
     },
     "done": true
   },
@@ -795,6 +843,12 @@
   "ic2:generator_0_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-11 19:49:13 +0000"
+    },
+    "done": true
+  },
+  "ic2:quarry_scanner_0_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 20:02:46 +0000"
     },
     "done": true
   },
@@ -882,6 +936,12 @@
     },
     "done": true
   },
+  "ic2:tfbp_biome_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 20:02:46 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:main/root": {
     "criteria": {
       "seeds": "2024-12-10 19:14:42 +0000"
@@ -936,6 +996,12 @@
     },
     "done": false
   },
+  "ic2:stacking_tube_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 20:02:46 +0000"
+    },
+    "done": true
+  },
   "corail_dt:recipes/corail_dt/disk_0_4": {
     "criteria": {
       "requirement1": "2024-12-11 19:45:35 +0000"
@@ -964,6 +1030,12 @@
     },
     "done": true
   },
+  "ic2:tfbp_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 20:02:46 +0000"
+    },
+    "done": true
+  },
   "ic2:bronze_axe_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-10 19:20:36 +0000"
@@ -982,6 +1054,12 @@
     },
     "done": true
   },
+  "enemyexpansion:troll_hunter": {
+    "criteria": {
+      "troll_hunter": "2024-12-11 20:01:25 +0000"
+    },
+    "done": true
+  },
   "ic2:cropmatron_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-11 19:34:29 +0000"
@@ -991,6 +1069,12 @@
   "ic2:glass_cold_fruit_tea_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-11 00:45:54 +0000"
+    },
+    "done": true
+  },
+  "ic2:su_battery_5_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 20:02:46 +0000"
     },
     "done": true
   },
@@ -1084,6 +1168,12 @@
     },
     "done": true
   },
+  "ic2:redstone_tube_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 20:02:46 +0000"
+    },
+    "done": true
+  },
   "ic2:cfoam_wool_white_3_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-11 00:32:54 +0000"
@@ -1096,9 +1186,21 @@
     },
     "done": true
   },
+  "ic2:su_battery_2_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 20:02:46 +0000"
+    },
+    "done": true
+  },
   "ic2:fluid_scanner_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-11 00:20:20 +0000"
+    },
+    "done": true
+  },
+  "ic2:su_battery_7_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 20:02:46 +0000"
     },
     "done": true
   },
@@ -1114,11 +1216,47 @@
     },
     "done": true
   },
+  "ic2:su_battery_6_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 20:02:46 +0000"
+    },
+    "done": true
+  },
   "enigmaticlegacy:recipes/generic/the_twist": {
     "criteria": {
       "has_parent_recipe": "2024-12-10 19:14:42 +0000"
     },
     "done": false
+  },
+  "ic2:su_battery_0_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 20:02:46 +0000"
+    },
+    "done": true
+  },
+  "ic2:su_battery_1_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 20:02:46 +0000"
+    },
+    "done": true
+  },
+  "ic2:su_battery_4_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 20:02:46 +0000"
+    },
+    "done": true
+  },
+  "ic2:detector_pipe_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 20:02:46 +0000"
+    },
+    "done": true
+  },
+  "ic2:su_battery_3_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 20:02:46 +0000"
+    },
+    "done": true
   },
   "ic2:filtered_scanner_recipe_advancement": {
     "criteria": {
@@ -1222,6 +1360,12 @@
     },
     "done": true
   },
+  "ic2:splitter_pipe_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 20:02:46 +0000"
+    },
+    "done": true
+  },
   "ic2:electric_jetpack_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-11 19:49:13 +0000"
@@ -1315,6 +1459,18 @@
   "ic2:cobblegen_upgrade_1_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-11 00:24:02 +0000"
+    },
+    "done": true
+  },
+  "ic2:magnetizer_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 20:02:46 +0000"
+    },
+    "done": true
+  },
+  "ic2:mining_laser_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 20:02:46 +0000"
     },
     "done": true
   },
@@ -1463,6 +1619,12 @@
     },
     "done": true
   },
+  "ic2:glowstone_dust_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 20:02:46 +0000"
+    },
+    "done": true
+  },
   "ic2:composite_boots_1_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-10 19:14:43 +0000"
@@ -1541,6 +1703,12 @@
     },
     "done": true
   },
+  "ic2:electric_furnace_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 20:02:46 +0000"
+    },
+    "done": true
+  },
   "ic2:mug_cocoa_0_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-11 19:34:58 +0000"
@@ -1580,6 +1748,12 @@
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2024-12-10 19:20:35 +0000"
+    },
+    "done": true
+  },
+  "ic2:condensator_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 20:02:46 +0000"
     },
     "done": true
   },
@@ -1799,6 +1973,12 @@
     },
     "done": true
   },
+  "ic2:comparing_cable_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 20:02:46 +0000"
+    },
+    "done": true
+  },
   "ic2:muffler_upgrade_0_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-11 00:32:54 +0000"
@@ -1826,6 +2006,12 @@
   "ic2:base_teleporter_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-11 00:10:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2024-12-11 20:00:36 +0000"
     },
     "done": true
   },
@@ -1871,6 +2057,12 @@
     },
     "done": true
   },
+  "ic2:crop_analyzer_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 20:02:46 +0000"
+    },
+    "done": true
+  },
   "ic2:iv_battery_station_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-10 19:20:31 +0000"
@@ -1880,6 +2072,12 @@
   "ic2:circuit_0_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-11 19:49:13 +0000"
+    },
+    "done": true
+  },
+  "ic2:electric_smoker_upgrade_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 20:02:46 +0000"
     },
     "done": true
   },
@@ -1898,6 +2096,12 @@
   "ic2:player_detector_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-11 19:51:27 +0000"
+    },
+    "done": true
+  },
+  "ic2:weedex_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 20:02:46 +0000"
     },
     "done": true
   },
@@ -1985,9 +2189,21 @@
     },
     "done": true
   },
+  "ic2:condensator_lap_repair_redstone_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 20:02:46 +0000"
+    },
+    "done": true
+  },
   "ic2:wooden_rotor_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-10 19:20:36 +0000"
+    },
+    "done": true
+  },
+  "ic2:condensator_repair_redstone_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 20:02:46 +0000"
     },
     "done": true
   },
@@ -2048,6 +2264,12 @@
   "ic2:chocolate_cake_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-11 19:34:58 +0000"
+    },
+    "done": true
+  },
+  "ic2:splitter_cable_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 20:02:46 +0000"
     },
     "done": true
   },

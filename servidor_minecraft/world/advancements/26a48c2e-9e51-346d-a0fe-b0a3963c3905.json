@@ -486,6 +486,12 @@
     },
     "done": true
   },
+  "ic2:windmill_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 20:06:48 +0000"
+    },
+    "done": true
+  },
   "ic2:rubberwood_slab_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-09 21:30:29 +0000"
