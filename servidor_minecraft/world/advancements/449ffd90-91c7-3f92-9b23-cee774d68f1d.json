@@ -96,6 +96,12 @@
     },
     "done": true
   },
+  "ic2:cfoam_0_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 19:27:10 +0000"
+    },
+    "done": true
+  },
   "ic2:static_boots_1_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-09 03:23:53 +0000"
@@ -189,6 +195,12 @@
   "lootr:1chest": {
     "criteria": {
       "opened_chest": "2024-12-09 03:37:38 +0000"
+    },
+    "done": true
+  },
+  "ic2:tfbp_irrigation_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 00:32:41 +0000"
     },
     "done": true
   },
@@ -400,6 +412,12 @@
     },
     "done": true
   },
+  "ic2:coolant_cell_10_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 00:32:41 +0000"
+    },
+    "done": true
+  },
   "enigmaticlegacy:recipes/generic/redstonelamps": {
     "criteria": {
       "has_core_block": "2024-12-09 19:58:19 +0000"
@@ -517,6 +535,12 @@
   "minecraft:adventure/sleep_in_bed": {
     "criteria": {
       "slept_in_bed": "2024-12-09 18:11:03 +0000"
+    },
+    "done": true
+  },
+  "dungeons_plus:adventure/find_warped_garden": {
+    "criteria": {
+      "in_structure": "2024-12-11 00:11:59 +0000"
     },
     "done": true
   },
@@ -658,7 +682,8 @@
       "minecraft:cave_spider": "2024-12-10 18:59:55 +0000",
       "minecraft:enderman": "2024-12-09 04:09:39 +0000",
       "minecraft:vex": "2024-12-09 17:52:46 +0000",
-      "minecraft:zombie": "2024-12-09 03:20:35 +0000"
+      "minecraft:zombie": "2024-12-09 03:20:35 +0000",
+      "minecraft:drowned": "2024-12-11 00:12:35 +0000"
     },
     "done": false
   },
@@ -679,12 +704,6 @@
       "hasItem": "2024-12-10 03:12:27 +0000"
     },
     "done": true
-  },
-  "incendium:technical/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-10 19:42:26 +0000"
-    },
-    "done": false
   },
   "ic2:tfbp_recipe_advancement": {
     "criteria": {
@@ -824,6 +843,12 @@
     },
     "done": true
   },
+  "ic2:extinguish_module_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 00:32:41 +0000"
+    },
+    "done": true
+  },
   "ic2:su_battery_2_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-09 03:58:53 +0000"
@@ -913,12 +938,6 @@
       "inv_changed-netherite": "2024-12-09 03:16:18 +0000"
     },
     "done": true
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-10 19:42:26 +0000"
-    },
-    "done": false
   },
   "ic2:magnetizer_recipe_advancement": {
     "criteria": {
@@ -1070,6 +1089,12 @@
     },
     "done": true
   },
+  "ic2:hydrated_coal_dust_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 00:32:41 +0000"
+    },
+    "done": true
+  },
   "ic2:ranged_ov_scanner_0_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-09 04:01:43 +0000"
@@ -1142,12 +1167,6 @@
     },
     "done": true
   },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-10 19:42:26 +0000"
-    },
-    "done": false
-  },
   "ic2:aluminum_axe_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-09 03:28:23 +0000"
@@ -1202,12 +1221,6 @@
     },
     "done": true
   },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-10 19:42:26 +0000"
-    },
-    "done": false
-  },
   "enigmaticlegacy:book/enchantments/generic": {
     "criteria": {
       "has_items": "2024-12-09 04:08:02 +0000"
@@ -1247,17 +1260,17 @@
     },
     "done": true
   },
+  "ic2:hydrated_charcoal_dust_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 00:32:41 +0000"
+    },
+    "done": true
+  },
   "ic2:composite_leggings_1_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-09 19:58:58 +0000"
     },
     "done": true
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-10 19:42:26 +0000"
-    },
-    "done": false
   },
   "ic2:normal_nano_armor_helmet_recipe_advancement": {
     "criteria": {
@@ -1451,6 +1464,12 @@
     },
     "done": true
   },
+  "ic2:glass_cold_dark_coffee_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 00:32:41 +0000"
+    },
+    "done": true
+  },
   "ic2:vent_steam_core_1_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-10 02:53:53 +0000"
@@ -1499,11 +1518,11 @@
     },
     "done": true
   },
-  "incendium:technical/on_block": {
+  "ic2:mug_cold_green_tea_recipe_advancement": {
     "criteria": {
-      "log_spam_fixer": "2024-12-10 19:42:26 +0000"
+      "hasItem": "2024-12-11 00:32:41 +0000"
     },
-    "done": false
+    "done": true
   },
   "ic2:memory_expansion_recipe_advancement": {
     "criteria": {
@@ -1753,9 +1772,11 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2024-12-11 00:28:31 +0000",
       "chicken": "2024-12-10 04:10:24 +0000",
       "cooked_beef": "2024-12-10 18:26:36 +0000",
       "beef": "2024-12-10 18:07:49 +0000",
+      "baked_potato": "2024-12-11 00:35:04 +0000",
       "porkchop": "2024-12-10 04:11:21 +0000",
       "apple": "2024-12-09 03:54:33 +0000",
       "potato": "2024-12-10 18:09:27 +0000",
@@ -1763,8 +1784,11 @@
       "bread": "2024-12-09 03:21:18 +0000",
       "golden_apple": "2024-12-09 18:22:57 +0000",
       "suspicious_stew": "2024-12-09 18:07:32 +0000",
+      "cookie": "2024-12-11 00:55:50 +0000",
       "golden_carrot": "2024-12-10 18:09:20 +0000",
-      "enchanted_golden_apple": "2024-12-09 18:04:50 +0000"
+      "cooked_chicken": "2024-12-11 00:24:32 +0000",
+      "enchanted_golden_apple": "2024-12-09 18:04:50 +0000",
+      "cooked_salmon": "2024-12-11 00:52:29 +0000"
     },
     "done": false
   },
@@ -1834,6 +1858,12 @@
     },
     "done": true
   },
+  "ic2:mug_cold_dark_coffee_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 00:32:41 +0000"
+    },
+    "done": true
+  },
   "ic2:ranged_ov_scanner_1_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-09 04:01:43 +0000"
@@ -1888,6 +1918,12 @@
     },
     "done": true
   },
+  "ic2:tfbp_desertification_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 19:27:10 +0000"
+    },
+    "done": true
+  },
   "ic2:mass_fabricator_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-09 04:01:43 +0000"
@@ -1909,6 +1945,12 @@
   "ic2:rocket_miner_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-09 20:00:50 +0000"
+    },
+    "done": true
+  },
+  "ic2:glass_cold_black_tea_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 00:32:41 +0000"
     },
     "done": true
   },
@@ -2008,6 +2050,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:book/brewing/haste_potion": {
+    "criteria": {
+      "has_items": "2024-12-11 00:13:21 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/strong_or_careful": {
     "criteria": {
       "coded_trigger": "2024-12-10 19:38:58 +0000"
@@ -2079,12 +2127,6 @@
       "hasItem": "2024-12-09 03:28:23 +0000"
     },
     "done": true
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-10 19:42:26 +0000"
-    },
-    "done": false
   },
   "ic2:generator_1_recipe_advancement": {
     "criteria": {
@@ -2194,6 +2236,12 @@
     },
     "done": true
   },
+  "ic2:hydrated_coal_dust_mass_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 00:32:41 +0000"
+    },
+    "done": true
+  },
   "ic2:induction_smoker_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-09 17:57:03 +0000"
@@ -2260,12 +2308,6 @@
     },
     "done": true
   },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-10 19:42:26 +0000"
-    },
-    "done": false
-  },
   "tombstone:adventure/first_knowledge": {
     "criteria": {
       "coded_trigger": "2024-12-09 03:22:35 +0000"
@@ -2302,6 +2344,12 @@
     },
     "done": true
   },
+  "ic2:mug_cold_black_tea_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 00:32:41 +0000"
+    },
+    "done": true
+  },
   "ic2:fluid_scanner_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-09 03:24:51 +0000"
@@ -2319,12 +2367,6 @@
       "hasItem": "2024-12-09 03:58:53 +0000"
     },
     "done": true
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-10 19:42:26 +0000"
-    },
-    "done": false
   },
   "enigmaticlegacy:recipes/generic/the_twist": {
     "criteria": {
@@ -2786,6 +2828,12 @@
     },
     "done": true
   },
+  "casinocraft:recipes/decorations/item_quartz": {
+    "criteria": {
+      "has_quartz": "2024-12-11 00:13:21 +0000"
+    },
+    "done": true
+  },
   "enigmaticlegacy:book/relics/the_cube": {
     "criteria": {
       "has_item_1": "2024-12-10 19:29:27 +0000"
@@ -2925,6 +2973,12 @@
     },
     "done": true
   },
+  "ic2:glass_cold_green_tea_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 00:32:41 +0000"
+    },
+    "done": true
+  },
   "ironfurnaces:coal": {
     "criteria": {
       "rainbowcoal": "2024-12-09 03:16:18 +0000"
@@ -2936,12 +2990,6 @@
       "shot_arrow": "2024-12-09 17:51:55 +0000"
     },
     "done": true
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-10 19:42:26 +0000"
-    },
-    "done": false
   },
   "ic2:bronze_sword_recipe_advancement": {
     "criteria": {
@@ -2967,11 +3015,11 @@
     },
     "done": true
   },
-  "incendium:technical/on_kill": {
+  "ic2:hydrated_charcoal_dust_mass_recipe_advancement": {
     "criteria": {
-      "log_spam_fixer": "2024-12-10 19:42:26 +0000"
+      "hasItem": "2024-12-11 00:32:41 +0000"
     },
-    "done": false
+    "done": true
   },
   "enigmaticlegacy:recipes/generic/cursed_scroll": {
     "criteria": {
@@ -2982,13 +3030,6 @@
   "ic2:iv_battery_station_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-09 03:28:14 +0000"
-    },
-    "done": true
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "requirement": "2024-12-10 19:42:31 +0000",
-      "log_spam_fixer": "2024-12-10 19:42:26 +0000"
     },
     "done": true
   },
@@ -3037,6 +3078,12 @@
   "ic2:silver_sign_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-09 03:28:23 +0000"
+    },
+    "done": true
+  },
+  "ic2:cfoam_1_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 19:27:10 +0000"
     },
     "done": true
   },

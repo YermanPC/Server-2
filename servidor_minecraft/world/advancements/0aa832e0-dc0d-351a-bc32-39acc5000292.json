@@ -90,6 +90,12 @@
     },
     "done": true
   },
+  "aquamirae:recipes/oxygelium": {
+    "criteria": {
+      "has_item": "2024-12-11 00:24:38 +0000"
+    },
+    "done": true
+  },
   "ic2:cfoam_stairs_red_1_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-10 18:26:05 +0000"
@@ -595,6 +601,8 @@
       "scrubland": "2024-12-10 19:59:28 +0000",
       "erupting_inferno": "2024-12-10 02:30:55 +0000",
       "highland": "2024-12-10 23:27:48 +0000",
+      "bamboo_grove": "2024-12-10 23:59:22 +0000",
+      "clover_patch": "2024-12-10 23:47:09 +0000",
       "mystic_grove": "2024-12-10 01:15:22 +0000",
       "cold_desert": "2024-12-09 03:35:31 +0000",
       "maple_woods": "2024-12-10 04:08:07 +0000",
@@ -603,6 +611,7 @@
       "lavender_forest": "2024-12-10 01:24:40 +0000",
       "coniferous_forest": "2024-12-09 18:02:11 +0000",
       "forested_field": "2024-12-09 18:53:24 +0000",
+      "spider_nest": "2024-12-11 00:01:47 +0000",
       "redwood_forest": "2024-12-10 01:07:15 +0000",
       "cherry_blossom_grove": "2024-12-10 01:11:18 +0000",
       "seasonal_orchard": "2024-12-09 18:00:20 +0000",
@@ -661,6 +670,12 @@
   "ic2:cfoam_wall_red_1_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-10 18:26:05 +0000"
+    },
+    "done": true
+  },
+  "dungeons_plus:adventure/find_warped_garden": {
+    "criteria": {
+      "in_structure": "2024-12-11 00:24:32 +0000"
     },
     "done": true
   },
@@ -1469,15 +1484,20 @@
       "minecraft:snowy_plains": "2024-12-09 02:47:02 +0000",
       "minecraft:stony_shore": "2024-12-10 03:05:44 +0000",
       "minecraft:snowy_taiga": "2024-12-10 02:58:54 +0000",
+      "minecraft:grove": "2024-12-11 00:12:45 +0000",
       "minecraft:cold_ocean": "2024-12-09 20:53:59 +0000",
       "minecraft:forest": "2024-12-09 03:47:47 +0000",
       "minecraft:deep_cold_ocean": "2024-12-09 22:47:54 +0000",
       "minecraft:ice_spikes": "2024-12-09 03:28:27 +0000",
       "minecraft:frozen_ocean": "2024-12-10 03:05:47 +0000",
       "minecraft:windswept_forest": "2024-12-10 03:09:15 +0000",
+      "minecraft:deep_frozen_ocean": "2024-12-11 00:23:28 +0000",
       "minecraft:ocean": "2024-12-09 23:49:33 +0000",
       "minecraft:snowy_beach": "2024-12-10 03:08:14 +0000",
       "minecraft:windswept_savanna": "2024-12-10 01:19:08 +0000",
+      "minecraft:frozen_peaks": "2024-12-11 00:12:30 +0000",
+      "minecraft:old_growth_birch_forest": "2024-12-11 00:16:35 +0000",
+      "minecraft:meadow": "2024-12-11 00:04:14 +0000",
       "minecraft:windswept_gravelly_hills": "2024-12-10 03:00:09 +0000",
       "minecraft:plains": "2024-12-09 02:50:41 +0000"
     },
@@ -2109,9 +2129,11 @@
       "baked_potato": "2024-12-10 01:32:53 +0000",
       "apple": "2024-12-09 18:16:30 +0000",
       "bread": "2024-12-09 02:51:50 +0000",
+      "golden_apple": "2024-12-11 01:10:31 +0000",
       "glow_berries": "2024-12-09 22:58:51 +0000",
       "salmon": "2024-12-09 17:58:16 +0000",
       "melon_slice": "2024-12-10 02:41:48 +0000",
+      "enchanted_golden_apple": "2024-12-11 00:53:22 +0000",
       "cod": "2024-12-09 18:11:47 +0000",
       "carrot": "2024-12-10 03:55:05 +0000"
     },
@@ -2453,6 +2475,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:book/brewing/haste_potion": {
+    "criteria": {
+      "has_items": "2024-12-11 00:26:03 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/strong_or_careful": {
     "criteria": {
       "coded_trigger": "2024-12-09 19:43:01 +0000"
@@ -2492,6 +2520,12 @@
   "ic2:mug_tea_0_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-10 00:30:59 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:adventure/find_ice_maze": {
+    "criteria": {
+      "deep_frozen_ocean": "2024-12-11 00:23:28 +0000"
     },
     "done": true
   },
@@ -3293,6 +3327,12 @@
     },
     "done": true
   },
+  "casinocraft:recipes/decorations/item_quartz": {
+    "criteria": {
+      "has_quartz": "2024-12-11 00:26:03 +0000"
+    },
+    "done": true
+  },
   "ic2:redstone_inverter_upgrade_1_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-10 01:41:53 +0000"
@@ -3471,6 +3511,12 @@
   "ironfurnaces:coal": {
     "criteria": {
       "rainbowcoal": "2024-12-09 02:47:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2024-12-11 00:50:01 +0000"
     },
     "done": true
   },

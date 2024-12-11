@@ -1472,6 +1472,12 @@
     },
     "done": true
   },
+  "tconstruct:tools/tinker_tool": {
+    "criteria": {
+      "crafted_tool": "2024-12-11 00:10:43 +0000"
+    },
+    "done": true
+  },
   "ic2:weedex_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-09 03:47:47 +0000"
@@ -1501,6 +1507,13 @@
       "hasItem": "2024-12-09 02:49:25 +0000"
     },
     "done": true
+  },
+  "tconstruct:tools/material_master": {
+    "criteria": {
+      "enderslime_vine": "2024-12-11 00:10:43 +0000",
+      "wood": "2024-12-11 00:10:43 +0000"
+    },
+    "done": false
   },
   "ic2:hv_battery_station_kit_indirect_recipe_advancement": {
     "criteria": {
@@ -2439,6 +2452,14 @@
     },
     "done": true
   },
+  "tconstruct:smeltery/melter": {
+    "criteria": {
+      "seared_fuel_tank": "2024-12-11 00:11:41 +0000",
+      "seared_basin": "2024-12-11 00:31:50 +0000",
+      "seared_faucet": "2024-12-11 00:30:52 +0000"
+    },
+    "done": false
+  },
   "ic2:mud_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-09 02:48:05 +0000"
@@ -2555,7 +2576,7 @@
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "requirement": "2024-12-10 23:31:36 +0000"
+      "requirement": "2024-12-11 19:31:22 +0000"
     },
     "done": false
   },
@@ -2680,6 +2701,12 @@
     },
     "done": false
   },
+  "farmersdelight:main/use_cutting_board": {
+    "criteria": {
+      "cutting_board": "2024-12-11 19:25:18 +0000"
+    },
+    "done": true
+  },
   "enigmaticlegacy:recipes/generic/escape_scroll": {
     "criteria": {
       "has_parent_recipe": "2024-12-09 18:05:54 +0000"
@@ -2695,6 +2722,12 @@
   "tombstone:adventure/ashes_and_bones": {
     "criteria": {
       "coded_trigger": "2024-12-09 03:48:01 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:smeltery/structure": {
+    "criteria": {
+      "open_smeltery": "2024-12-11 00:29:10 +0000"
     },
     "done": true
   },
@@ -3197,6 +3230,12 @@
       "hasItem": "2024-12-09 18:26:04 +0000"
     },
     "done": true
+  },
+  "tconstruct:smeltery/tool_forge": {
+    "criteria": {
+      "longbow": "2024-12-11 00:10:43 +0000"
+    },
+    "done": false
   },
   "ironfurnaces:coal": {
     "criteria": {
