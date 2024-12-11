@@ -155,6 +155,12 @@
     },
     "done": true
   },
+  "ic2:silver_dust_1_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 20:44:02 +0000"
+    },
+    "done": true
+  },
   "ic2:planter_pot_sand_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-10 03:51:13 +0000"
@@ -254,6 +260,12 @@
   "undead_unleashed:shards_of_the_past": {
     "criteria": {
       "shards_of_the_past": "2024-12-09 03:02:08 +0000"
+    },
+    "done": true
+  },
+  "ic2:bronze_cable_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 20:44:36 +0000"
     },
     "done": true
   },
@@ -426,6 +438,12 @@
       "hasItem": "2024-12-09 21:30:29 +0000"
     },
     "done": true
+  },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-11 20:51:22 +0000"
+    },
+    "done": false
   },
   "ic2:tfbp_recipe_advancement": {
     "criteria": {
@@ -612,6 +630,12 @@
       "hasItem": "2024-12-11 20:38:59 +0000"
     },
     "done": true
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-11 20:51:22 +0000"
+    },
+    "done": false
   },
   "ic2:lap_pack_recipe_advancement": {
     "criteria": {
@@ -853,6 +877,12 @@
     },
     "done": true
   },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-11 20:51:22 +0000"
+    },
+    "done": false
+  },
   "ic2:iron_furnace_upgrade_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-09 02:48:52 +0000"
@@ -1024,6 +1054,12 @@
   "ic2:hv_flux_generator_0_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-09 03:12:19 +0000"
+    },
+    "done": true
+  },
+  "cisco_mod:sleeping_sword": {
+    "criteria": {
+      "sleeping_sword": "2024-12-11 20:41:30 +0000"
     },
     "done": true
   },
@@ -1651,6 +1687,12 @@
     },
     "done": true
   },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-11 20:51:22 +0000"
+    },
+    "done": false
+  },
   "minecraft:story/upgrade_tools": {
     "criteria": {
       "stone_pickaxe": "2024-12-09 02:48:48 +0000"
@@ -1716,6 +1758,12 @@
       "hasItem": "2024-12-09 03:33:02 +0000"
     },
     "done": true
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-11 20:51:22 +0000"
+    },
+    "done": false
   },
   "ic2:su_battery_0_recipe_advancement": {
     "criteria": {
@@ -2036,6 +2084,12 @@
     },
     "done": true
   },
+  "ic2:bronze_dust_to_block_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 20:44:02 +0000"
+    },
+    "done": true
+  },
   "ic2:empty_cell_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-10 01:04:06 +0000"
@@ -2246,6 +2300,12 @@
       "hasItem": "2024-12-09 02:47:31 +0000"
     },
     "done": true
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-11 20:51:22 +0000"
+    },
+    "done": false
   },
   "ic2:player_detector_recipe_advancement": {
     "criteria": {
@@ -3508,6 +3568,12 @@
     },
     "done": true
   },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-11 20:51:22 +0000"
+    },
+    "done": false
+  },
   "ic2:trash_expansion_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-11 20:38:59 +0000"
@@ -3544,11 +3610,23 @@
     },
     "done": true
   },
+  "ic2:bronze_helmet_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 20:44:36 +0000"
+    },
+    "done": true
+  },
   "ic2:composite_leggings_1_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-09 03:31:07 +0000"
     },
     "done": true
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-11 20:51:22 +0000"
+    },
+    "done": false
   },
   "ic2:esu_recipe_advancement": {
     "criteria": {
@@ -3580,6 +3658,12 @@
     },
     "done": true
   },
+  "ic2:bronze_boots_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 20:44:36 +0000"
+    },
+    "done": true
+  },
   "ic2:tin_sign_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-09 02:47:29 +0000"
@@ -3601,6 +3685,12 @@
   "ic2:reinforced_glass_0_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-10 14:57:40 +0000"
+    },
+    "done": true
+  },
+  "ic2:bronze_leggings_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 20:44:36 +0000"
     },
     "done": true
   },
@@ -3766,6 +3856,12 @@
     },
     "done": true
   },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-11 20:51:22 +0000"
+    },
+    "done": false
+  },
   "ic2:uranium_ender_dual_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-11 20:23:34 +0000"
@@ -3811,6 +3907,12 @@
   "ic2:parachute_module_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-09 02:47:29 +0000"
+    },
+    "done": true
+  },
+  "ic2:tin_dust_to_block_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 20:43:56 +0000"
     },
     "done": true
   },
@@ -3975,6 +4077,12 @@
     },
     "done": true
   },
+  "ic2:silver_dust_0_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 20:44:02 +0000"
+    },
+    "done": true
+  },
   "ic2:simple_import_upgrade_0_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-10 01:03:08 +0000"
@@ -3996,6 +4104,12 @@
   "ic2:2x_insulated_gold_cable_2_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-09 03:50:36 +0000"
+    },
+    "done": true
+  },
+  "ic2:wrench_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 20:44:36 +0000"
     },
     "done": true
   },
@@ -4167,6 +4281,12 @@
     },
     "done": true
   },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-11 20:51:22 +0000"
+    },
+    "done": false
+  },
   "ic2:generator_1_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-09 02:48:52 +0000"
@@ -4194,6 +4314,12 @@
   "tombstone:adventure/mysterious_gift": {
     "criteria": {
       "coded_trigger": "2024-12-09 19:43:10 +0000"
+    },
+    "done": true
+  },
+  "ic2:bronze_chest_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 20:44:36 +0000"
     },
     "done": true
   },
@@ -4417,6 +4543,12 @@
   "ic2:piston_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-09 02:47:31 +0000"
+    },
+    "done": true
+  },
+  "ic2:bronze_block_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 20:44:36 +0000"
     },
     "done": true
   },
@@ -4745,6 +4877,12 @@
     },
     "done": true
   },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-11 20:51:22 +0000"
+    },
+    "done": false
+  },
   "enigmaticlegacy:recipes/generic/berserk_charm": {
     "criteria": {
       "has_parent_recipe": "2024-12-10 01:11:46 +0000"
@@ -4768,6 +4906,12 @@
       "hasItem": "2024-12-10 01:56:50 +0000"
     },
     "done": true
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-11 20:51:22 +0000"
+    },
+    "done": false
   },
   "enigmaticlegacy:recipes/generic/cursed_scroll": {
     "criteria": {

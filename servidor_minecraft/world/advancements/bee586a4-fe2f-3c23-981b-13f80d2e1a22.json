@@ -198,6 +198,12 @@
     },
     "done": true
   },
+  "ic2:singularity_compressor_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 20:41:25 +0000"
+    },
+    "done": true
+  },
   "ic2:aluminum_sword_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-10 19:20:36 +0000"
@@ -246,6 +252,12 @@
     },
     "done": true
   },
+  "ic2:battery_belt_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 20:51:11 +0000"
+    },
+    "done": true
+  },
   "ic2:ev_charging_bench_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-10 19:20:31 +0000"
@@ -290,6 +302,7 @@
   },
   "dungeons_enhanced:ambitious_explorer": {
     "criteria": {
+      "entered_stables": "2024-12-11 20:50:59 +0000",
       "entered_deep_crypt": "2024-12-11 00:21:42 +0000"
     },
     "done": false
@@ -389,6 +402,7 @@
       "snowy_coniferous_forest": "2024-12-11 00:41:59 +0000",
       "snowy_fir_clearing": "2024-12-11 00:40:49 +0000",
       "tundra": "2024-12-10 19:26:40 +0000",
+      "glowing_grotto": "2024-12-11 20:45:56 +0000",
       "snowy_maple_woods": "2024-12-11 00:44:28 +0000"
     },
     "done": false
@@ -781,6 +795,12 @@
     },
     "done": true
   },
+  "ic2:vent_steam_overclocked_1_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 20:43:23 +0000"
+    },
+    "done": true
+  },
   "ic2:copper_sign_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-10 19:20:36 +0000"
@@ -823,6 +843,12 @@
     },
     "done": true
   },
+  "ic2:coal_chunk_0_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 20:41:25 +0000"
+    },
+    "done": true
+  },
   "bossominium:loot_bosses_a": {
     "criteria": {
       "loot_bosses_a": "2024-12-10 19:14:42 +0000"
@@ -850,6 +876,12 @@
   "ic2:iron_fence_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-11 19:49:13 +0000"
+    },
+    "done": true
+  },
+  "ic2:hazmat_helmet_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 20:43:23 +0000"
     },
     "done": true
   },
@@ -1104,6 +1136,12 @@
     },
     "done": true
   },
+  "ic2:vent_steam_core_1_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 20:43:23 +0000"
+    },
+    "done": true
+  },
   "ic2:rubber_boat_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-10 19:31:19 +0000"
@@ -1230,6 +1268,12 @@
     },
     "done": true
   },
+  "ic2:heat_spreader_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 20:43:23 +0000"
+    },
+    "done": true
+  },
   "enigmaticlegacy:recipes/generic/infernal_shield": {
     "criteria": {
       "has_parent_recipe": "2024-12-10 19:14:42 +0000"
@@ -1347,6 +1391,12 @@
     },
     "done": true
   },
+  "ic2:vent_steam_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 20:43:23 +0000"
+    },
+    "done": true
+  },
   "ic2:2x_insulated_gold_cable_2_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-11 19:45:35 +0000"
@@ -1362,6 +1412,12 @@
   "ic2:filtered_fluid_scanner_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-11 19:34:29 +0000"
+    },
+    "done": true
+  },
+  "ic2:pickup_tube_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 20:41:25 +0000"
     },
     "done": true
   },
@@ -1739,7 +1795,7 @@
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "requirement": "2024-12-11 20:40:47 +0000"
+      "requirement": "2024-12-11 20:51:21 +0000"
     },
     "done": false
   },
@@ -2050,6 +2106,12 @@
     },
     "done": true
   },
+  "ic2:vent_steam_adv_1_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 20:43:23 +0000"
+    },
+    "done": true
+  },
   "ic2:composite_helmet_0_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-11 00:51:01 +0000"
@@ -2083,6 +2145,12 @@
   "ic2:insulated_gold_cable_0_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-11 19:45:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2024-12-11 20:41:25 +0000"
     },
     "done": true
   },
