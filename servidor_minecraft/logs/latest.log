@@ -4380,3 +4380,31 @@ Reason: Banned by an operator.
 [11Dec2024 21:14:00.815] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
 [11Dec2024 21:14:57.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ClementePicaro has made the advancement [Close Quarters]
 [11Dec2024 21:16:20.655] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/material/MaterialColor$Brightness
+[11Dec2024 21:17:08.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ClementePicaro> T
+[11Dec2024 21:17:38.195] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2861ms or 57 ticks behind
+[11Dec2024 21:18:00.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AssaGM was doomed to fall by Phantom
+[11Dec2024 21:18:01.036] [Server thread/INFO] [tombstone/]: The player AssaGM has successfully been saved
+[11Dec2024 21:18:02.747] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[11Dec2024 21:18:06.823] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2340ms or 46 ticks behind
+[11Dec2024 21:18:43.781] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2448ms or 48 ticks behind
+[11Dec2024 21:19:57.996] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2812ms or 56 ticks behind
+[11Dec2024 21:20:13.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AssaGM has made the advancement [Hot Stuff]
+[11Dec2024 21:20:34.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AssaGM> t
+[11Dec2024 21:20:44.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <YermanPC> fsaf
+[11Dec2024 21:20:49.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <YermanPC> fasf
+[11Dec2024 21:21:08.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <YermanPC> fsaf
+[11Dec2024 21:21:10.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <YermanPC> dsgfd
+[11Dec2024 21:21:13.030] [Server Watchdog/ERROR] [net.minecraft.server.dedicated.ServerWatchdog/FATAL]: A single server tick took 60.50 seconds (should be max 0.05)
+[11Dec2024 21:21:13.033] [Server Watchdog/ERROR] [net.minecraft.server.dedicated.ServerWatchdog/FATAL]: Considering it to be crashed, server will forcibly shutdown.
+[11Dec2024 21:21:13.985] [Server Watchdog/FATAL] [net.minecraftforge.common.ForgeMod/]: Preparing crash report with UUID 7ef675eb-eb80-4c19-8824-ca77b51702f9
+[11Dec2024 21:21:14.064] [Server Watchdog/FATAL] [net.minecraftforge.common.ForgeMod/]: Preparing crash report with UUID 14452510-7814-488a-9189-8687cdc6937c
+[11Dec2024 21:21:14.068] [Server Watchdog/ERROR] [net.minecraft.server.dedicated.ServerWatchdog/]: This crash report has been saved to: /workspaces/Server-2/servidor_minecraft/./crash-reports/crash-2024-12-11_21.21.14-server.txt
+[11Dec2024 21:21:16.438] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/helper/SupportStructures
+[11Dec2024 21:21:16.459] [Server thread/INFO] [HammerLib/]: Purging cache from 0 HL recipe registries.
+[11Dec2024 21:21:16.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[11Dec2024 21:21:16.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[11Dec2024 21:21:19.149] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: YermanPC lost connection: Server closed
+[11Dec2024 21:21:19.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YermanPC left the game
+[11Dec2024 21:21:19.242] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AssaGM lost connection: Server closed
+[11Dec2024 21:21:19.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AssaGM left the game
+[11Dec2024 21:21:19.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
