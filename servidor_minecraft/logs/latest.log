@@ -4132,3 +4132,12 @@ Reason: Banned by an operator.
 [11Dec2024 20:11:23.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [YermanPC: Teleported YermanPC to -74.500000, 106.500000, -304.500000]
 [11Dec2024 20:12:06.745] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-55, y=18, z=-105} BlockPos{x=-55, y=15, z=-106}
 [11Dec2024 20:12:24.041] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VeinGoblinTraderEntity['Opal'/34341, l='ServerLevel[world]', x=-54.75, y=18.00, z=-101.25] died: Opal was slain by AssaGM
+[11Dec2024 20:16:08.691] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ClementePicaro lost connection: Disconnected
+[11Dec2024 20:16:08.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ClementePicaro left the game
+[11Dec2024 20:16:17.603] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Cory'/35679, l='ServerLevel[world]', x=213.63, y=40.95, z=-812.70] died, message: 'Cory was slain by Swarmer'
+[11Dec2024 20:16:17.604] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Cory'/35679, l='ServerLevel[world]', x=213.63, y=40.95, z=-812.70] died: Cory was slain by Swarmer
+[11Dec2024 20:17:14.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <YermanPC> safas
+[11Dec2024 20:17:56.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AssaGM has reached the goal [Sleeping Giant]
+[11Dec2024 20:19:28.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [YermanPC: Gave 64    [Block of Lapis Lazuli] to YermanPC]
+[11Dec2024 20:23:58.319] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AssaGM lost connection: Disconnected
+[11Dec2024 20:23:58.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AssaGM left the game

@@ -988,6 +988,12 @@
     },
     "done": true
   },
+  "ic2:lap_pack_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 20:19:30 +0000"
+    },
+    "done": true
+  },
   "ic2:magnetizer_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-09 03:47:47 +0000"

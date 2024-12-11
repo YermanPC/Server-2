@@ -108,6 +108,12 @@
     },
     "done": true
   },
+  "ic2:hv_unloader_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 20:20:37 +0000"
+    },
+    "done": true
+  },
   "ic2:uranium_redstone_isotopic_0_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-11 19:24:33 +0000"
@@ -426,6 +432,12 @@
     },
     "done": true
   },
+  "ic2:nano_toolbox_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 20:20:37 +0000"
+    },
+    "done": true
+  },
   "ic2:ev_charging_bench_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-09 02:47:31 +0000"
@@ -701,6 +713,12 @@
   "minecraft:adventure/sleep_in_bed": {
     "criteria": {
       "slept_in_bed": "2024-12-09 02:57:36 +0000"
+    },
+    "done": true
+  },
+  "ic2:carbon_boat_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 20:20:37 +0000"
     },
     "done": true
   },
@@ -1226,6 +1244,12 @@
     },
     "done": true
   },
+  "ic2:uesc_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 20:20:37 +0000"
+    },
+    "done": true
+  },
   "ic2:build_compressor": {
     "criteria": {
       "hasItem": "2024-12-11 19:43:42 +0000"
@@ -1748,6 +1772,12 @@
     },
     "done": true
   },
+  "ic2:pesd_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 20:20:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:frozen_river": "2024-12-10 01:12:18 +0000",
@@ -1919,6 +1949,12 @@
   "ic2:machine_buffer_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-10 03:11:00 +0000"
+    },
+    "done": true
+  },
+  "ic2:quantum_overclocker_upgrade_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 20:20:37 +0000"
     },
     "done": true
   },
@@ -2503,6 +2539,12 @@
     },
     "done": true
   },
+  "ic2:hv_chargepad_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 20:20:37 +0000"
+    },
+    "done": true
+  },
   "ic2:vent_steam_adv_0_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-09 03:07:35 +0000"
@@ -2842,6 +2884,12 @@
   "enigmaticlegacy:recipes/generic/thicc_scroll": {
     "criteria": {
       "has_items": "2024-12-10 01:11:46 +0000"
+    },
+    "done": true
+  },
+  "ic2:lapotronic_upgrade_kit_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 20:20:37 +0000"
     },
     "done": true
   },
@@ -3422,6 +3470,12 @@
     },
     "done": true
   },
+  "ic2:uncompressed_super_cable_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 20:20:37 +0000"
+    },
+    "done": true
+  },
   "ic2:dropping_tube_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-10 01:04:06 +0000"
@@ -3952,6 +4006,18 @@
     },
     "done": true
   },
+  "ic2:precision_wrench_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 20:20:37 +0000"
+    },
+    "done": true
+  },
+  "ic2:hv_loader_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 20:20:37 +0000"
+    },
+    "done": true
+  },
   "ic2:plant_ball_seed_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-09 02:47:29 +0000"
@@ -4340,6 +4406,12 @@
   "ic2:bronze_shovel_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-09 02:47:29 +0000"
+    },
+    "done": true
+  },
+  "ic2:big_quantum_accumulator_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 20:20:37 +0000"
     },
     "done": true
   },
