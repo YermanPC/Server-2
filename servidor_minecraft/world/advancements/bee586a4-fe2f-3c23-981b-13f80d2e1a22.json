@@ -535,9 +535,12 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2024-12-11 20:56:10 +0000",
       "minecraft:skeleton": "2024-12-11 00:17:46 +0000",
+      "minecraft:vindicator": "2024-12-11 20:55:54 +0000",
       "minecraft:spider": "2024-12-10 19:25:04 +0000",
       "minecraft:creeper": "2024-12-10 19:38:02 +0000",
+      "minecraft:phantom": "2024-12-11 21:02:28 +0000",
       "minecraft:enderman": "2024-12-11 00:10:39 +0000",
       "minecraft:zombie": "2024-12-10 19:41:52 +0000"
     },
@@ -998,6 +1001,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:recipes/generic/avarice_scroll": {
+    "criteria": {
+      "has_parent_recipe": "2024-12-11 21:01:54 +0000"
+    },
+    "done": false
+  },
   "ic2:base_teleporter_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-11 00:10:55 +0000"
@@ -1160,6 +1169,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/ambush": {
+    "criteria": {
+      "coded_trigger": "2024-12-11 20:55:54 +0000"
+    },
+    "done": true
+  },
   "ic2:coffee_cake_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-11 19:57:27 +0000"
@@ -1280,6 +1295,12 @@
     },
     "done": false
   },
+  "enigmaticlegacy:recipes/generic/heaven_scroll": {
+    "criteria": {
+      "has_parent_recipe": "2024-12-11 21:01:54 +0000"
+    },
+    "done": false
+  },
   "dungeons_arise:find_abandoned_temple": {
     "criteria": {
       "location0": "2024-12-11 00:45:00 +0000"
@@ -1316,6 +1337,18 @@
     },
     "done": true
   },
+  "enigmaticlegacy:book/accessories/arcane_scrolls": {
+    "criteria": {
+      "has_the_recipe": "2024-12-11 21:01:54 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/bone_crusher": {
+    "criteria": {
+      "coded_trigger": "2024-12-11 21:02:28 +0000"
+    },
+    "done": true
+  },
   "enigmaticlegacy:book/accessories/magnet_ring": {
     "criteria": {
       "has_the_recipe": "2024-12-11 00:08:39 +0000"
@@ -1343,6 +1376,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2024-12-11 01:01:32 +0000",
+      "baked_potato": "2024-12-11 20:51:34 +0000",
       "bread": "2024-12-10 19:29:18 +0000",
       "rotten_flesh": "2024-12-10 19:25:19 +0000",
       "melon_slice": "2024-12-10 19:24:35 +0000"
@@ -1541,6 +1575,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:recipes/generic/thicc_scroll": {
+    "criteria": {
+      "has_items": "2024-12-11 21:01:54 +0000"
+    },
+    "done": true
+  },
   "ic2:wet_cfoam_1_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-11 20:02:46 +0000"
@@ -1556,6 +1596,12 @@
   "ic2:hv_battery_station_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-10 19:20:31 +0000"
+    },
+    "done": true
+  },
+  "lootr:10loot": {
+    "criteria": {
+      "loot_stat": "2024-12-11 20:52:16 +0000"
     },
     "done": true
   },
@@ -1793,12 +1839,6 @@
     },
     "done": true
   },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "requirement": "2024-12-11 20:51:21 +0000"
-    },
-    "done": false
-  },
   "enigmaticlegacy:recipes/generic/the_twist": {
     "criteria": {
       "has_parent_recipe": "2024-12-10 19:14:42 +0000"
@@ -1808,6 +1848,18 @@
   "ic2:su_battery_0_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-11 20:02:46 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:recipes/generic/xp_scroll": {
+    "criteria": {
+      "has_parent_recipe": "2024-12-11 21:01:54 +0000"
+    },
+    "done": false
+  },
+  "enigmaticlegacy:recipes/generic/lore_fragment": {
+    "criteria": {
+      "has_items": "2024-12-11 21:01:54 +0000"
     },
     "done": true
   },
@@ -1880,6 +1932,12 @@
   "corail_dt:recipes/corail_dt/disk_3_3": {
     "criteria": {
       "requirement1": "2024-12-11 00:08:39 +0000"
+    },
+    "done": false
+  },
+  "enigmaticlegacy:recipes/generic/escape_scroll": {
+    "criteria": {
+      "has_parent_recipe": "2024-12-11 21:01:54 +0000"
     },
     "done": false
   },
@@ -2202,9 +2260,21 @@
     },
     "done": true
   },
+  "enigmaticlegacy:book/accessories/insignia": {
+    "criteria": {
+      "has_the_recipe": "2024-12-11 21:01:53 +0000"
+    },
+    "done": true
+  },
   "undead_unleashed:undead_unleashed": {
     "criteria": {
       "undead_unleashed": "2024-12-10 19:14:42 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:recipes/generic/insignia": {
+    "criteria": {
+      "has_iron_ingot": "2024-12-11 21:01:53 +0000"
     },
     "done": true
   },
@@ -2268,6 +2338,18 @@
       "hasItem": "2024-12-10 19:20:36 +0000"
     },
     "done": true
+  },
+  "enigmaticlegacy:recipes/generic/berserk_charm": {
+    "criteria": {
+      "has_parent_recipe": "2024-12-11 21:01:54 +0000"
+    },
+    "done": false
+  },
+  "enigmaticlegacy:recipes/generic/cursed_scroll": {
+    "criteria": {
+      "has_parent_recipe": "2024-12-11 21:01:54 +0000"
+    },
+    "done": false
   },
   "ic2:iv_battery_station_recipe_advancement": {
     "criteria": {

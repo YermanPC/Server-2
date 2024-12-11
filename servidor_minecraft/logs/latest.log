@@ -4298,3 +4298,48 @@ Reason: Banned by an operator.
 [11Dec2024 20:54:42.239] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
 [11Dec2024 20:55:25.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AssaGM> t
 [11Dec2024 20:55:40.289] [Worker-Main-2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/Panda$Gene
+[11Dec2024 20:55:49.639] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[11Dec2024 20:55:52.946] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/axolotl/Axolotl$Variant
+[11Dec2024 20:55:54.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ClementePicaro has made the advancement [Ambush]
+[11Dec2024 20:56:11.569] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6936ms or 138 ticks behind
+[11Dec2024 20:56:13.218] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[11Dec2024 20:56:13.225] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[11Dec2024 20:56:31.899] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5366ms or 107 ticks behind
+[11Dec2024 20:56:36.269] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[11Dec2024 20:56:45.085] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-343, y=107, z=-140}
+[11Dec2024 20:56:45.098] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-335, y=107, z=-140}
+[11Dec2024 20:56:45.101] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-334, y=117, z=-140}
+[11Dec2024 20:56:45.101] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-332, y=117, z=-142}
+[11Dec2024 20:56:49.245] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2362ms or 47 ticks behind
+[11Dec2024 20:57:09.646] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5413ms or 108 ticks behind
+[11Dec2024 20:57:27.393] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2760ms or 55 ticks behind
+[11Dec2024 20:57:32.787] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-71, y=-48, z=-26}
+[11Dec2024 20:57:34.212] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/level/PistonEvent$PistonMoveType
+[11Dec2024 20:57:34.216] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting vazkii/quark/api/ICollateralMover$MoveResult
+[11Dec2024 20:57:46.669] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4285ms or 85 ticks behind
+[11Dec2024 20:58:04.230] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2596ms or 51 ticks behind
+[11Dec2024 20:58:22.412] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3229ms or 64 ticks behind
+[11Dec2024 20:59:55.902] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=46, y=-58, z=-81}
+[11Dec2024 20:59:55.903] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=45, y=-57, z=-79}
+[11Dec2024 20:59:55.903] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=47, y=-58, z=-78}
+[11Dec2024 21:00:18.176] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[11Dec2024 21:00:18.176] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[11Dec2024 21:00:18.177] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[11Dec2024 21:00:18.177] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[11Dec2024 21:00:35.335] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-71, y=-48, z=-26}
+[11Dec2024 21:00:51.173] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[11Dec2024 21:01:53.456] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14773ms or 295 ticks behind
+[11Dec2024 21:02:12.055] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2022ms or 40 ticks behind
+[11Dec2024 21:02:16.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AssaGM> t
+[11Dec2024 21:02:28.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ClementePicaro has reached the goal [Bone Crusher]
+[11Dec2024 21:02:33.706] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6672ms or 133 ticks behind
+[11Dec2024 21:02:58.121] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-71, y=-48, z=-26}
+[11Dec2024 21:03:01.958] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3925ms or 78 ticks behind
+[11Dec2024 21:03:04.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AssaGM has made the advancement [The Imperial March]
+[11Dec2024 21:03:15.710] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[11Dec2024 21:03:15.714] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[11Dec2024 21:03:32.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AssaGM was slain by Hoglin
+[11Dec2024 21:03:32.820] [Server thread/INFO] [tombstone/]: The player AssaGM has successfully been saved
+[11Dec2024 21:03:36.729] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[11Dec2024 21:03:36.743] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2610ms or 52 ticks behind
+[11Dec2024 21:04:23.835] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
