@@ -300,9 +300,21 @@
     },
     "done": true
   },
+  "ic2:cfoam_wall_blue_1_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 19:33:08 +0000"
+    },
+    "done": true
+  },
   "ic2:glass_to_splash_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-09 03:56:25 +0000"
+    },
+    "done": true
+  },
+  "ic2:cfoam_wool_blue_1_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 19:33:08 +0000"
     },
     "done": true
   },
@@ -363,6 +375,12 @@
   "ic2:chips_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-09 03:28:23 +0000"
+    },
+    "done": true
+  },
+  "ic2:cfoam_blue_0_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 19:33:08 +0000"
     },
     "done": true
   },
@@ -535,6 +553,18 @@
   "minecraft:adventure/sleep_in_bed": {
     "criteria": {
       "slept_in_bed": "2024-12-09 18:11:03 +0000"
+    },
+    "done": true
+  },
+  "ic2:fuel_boiler_structure_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 19:31:40 +0000"
+    },
+    "done": true
+  },
+  "ic2:cfoam_surface_blue_0_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 19:33:08 +0000"
     },
     "done": true
   },
@@ -744,6 +774,12 @@
   "ic2:rubberwood_planks_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-10 03:10:46 +0000"
+    },
+    "done": true
+  },
+  "ic2:cfoam_wool_carpet_blue_1_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 19:33:08 +0000"
     },
     "done": true
   },
@@ -1101,6 +1137,12 @@
     },
     "done": true
   },
+  "ic2:cfoam_blue_1_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 19:33:08 +0000"
+    },
+    "done": true
+  },
   "ic2:condensator_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-09 03:58:53 +0000"
@@ -1392,6 +1434,12 @@
     },
     "done": true
   },
+  "ic2:cfoam_panel_blue_0_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 19:33:08 +0000"
+    },
+    "done": true
+  },
   "ic2:hv_battery_station_kit_indirect_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-09 03:28:14 +0000"
@@ -1473,6 +1521,12 @@
   "ic2:vent_steam_core_1_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-10 02:53:53 +0000"
+    },
+    "done": true
+  },
+  "ic2:cfoam_stairs_blue_1_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 19:33:08 +0000"
     },
     "done": true
   },
@@ -1764,6 +1818,12 @@
     },
     "done": true
   },
+  "ic2:color_filter_tube_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 19:33:08 +0000"
+    },
+    "done": true
+  },
   "ic2:detector_cable_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-09 03:58:53 +0000"
@@ -1906,6 +1966,12 @@
     },
     "done": true
   },
+  "ic2:painter_blue_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 19:33:08 +0000"
+    },
+    "done": true
+  },
   "ic2:filtered_fluid_scanner_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-09 03:42:16 +0000"
@@ -1978,6 +2044,12 @@
     },
     "done": true
   },
+  "ic2:cfoam_slabs_blue_2_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 19:33:08 +0000"
+    },
+    "done": true
+  },
   "ic2:scrap_metal_blade_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-09 04:14:53 +0000"
@@ -2038,15 +2110,33 @@
     },
     "done": true
   },
+  "ic2:cfoam_wool_blue_0_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 19:33:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/mine_stone": {
     "criteria": {
       "get_stone": "2024-12-09 03:28:55 +0000"
     },
     "done": true
   },
+  "ic2:cfoam_wall_blue_2_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 19:33:08 +0000"
+    },
+    "done": true
+  },
   "ic2:electric_blast_furnace_upgrade_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-09 03:58:53 +0000"
+    },
+    "done": true
+  },
+  "ic2:wood_gassifier_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 19:31:40 +0000"
     },
     "done": true
   },
@@ -2128,6 +2218,12 @@
     },
     "done": true
   },
+  "ic2:generator_0_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 19:31:40 +0000"
+    },
+    "done": true
+  },
   "ic2:generator_1_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-09 17:57:14 +0000"
@@ -2173,6 +2269,12 @@
   "ic2:planter_pot_mycelium_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-09 18:54:29 +0000"
+    },
+    "done": true
+  },
+  "ic2:cfoam_slabs_blue_1_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 19:33:08 +0000"
     },
     "done": true
   },
@@ -2567,6 +2669,12 @@
     },
     "done": true
   },
+  "ic2:cfoam_surface_blue_1_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 19:33:08 +0000"
+    },
+    "done": true
+  },
   "ic2:rail_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-09 03:28:23 +0000"
@@ -2912,6 +3020,12 @@
     },
     "done": true
   },
+  "ic2:cfoam_carpet_blue_3_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 19:33:08 +0000"
+    },
+    "done": true
+  },
   "undead_unleashed:undead_unleashed": {
     "criteria": {
       "undead_unleashed": "2024-12-09 03:16:18 +0000"
@@ -2927,6 +3041,12 @@
   "ic2:plant_ball_seed_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-09 03:24:38 +0000"
+    },
+    "done": true
+  },
+  "ic2:cfoam_panel_blue_1_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 19:33:08 +0000"
     },
     "done": true
   },
@@ -3156,6 +3276,12 @@
   "enigmaticlegacy:main/root": {
     "criteria": {
       "flower": "2024-12-09 03:16:18 +0000"
+    },
+    "done": true
+  },
+  "ic2:cfoam_stairs_blue_2_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 19:33:08 +0000"
     },
     "done": true
   },

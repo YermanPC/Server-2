@@ -17,6 +17,12 @@
     },
     "done": true
   },
+  "ic2:plant_ball_sapling_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 19:38:53 +0000"
+    },
+    "done": true
+  },
   "enigmaticlegacy:recipes/generic/magnet_ring": {
     "criteria": {
       "has_parent_recipe": "2024-12-10 19:38:43 +0000",
@@ -54,6 +60,12 @@
     },
     "done": true
   },
+  "ic2:trade_o_mat_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 19:34:29 +0000"
+    },
+    "done": true
+  },
   "ulterlands:the_ulterlands": {
     "criteria": {
       "the_ulterlands": "2024-12-10 19:14:42 +0000"
@@ -63,6 +75,12 @@
   "ic2:composite_boots_0_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-10 19:14:43 +0000"
+    },
+    "done": true
+  },
+  "ic2:tfbp_biome_forestification_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 19:38:53 +0000"
     },
     "done": true
   },
@@ -105,6 +123,12 @@
   "enigmaticlegacy:recipes/generic/the_acknowledgment": {
     "criteria": {
       "has_iron_ingot": "2024-12-10 19:14:42 +0000"
+    },
+    "done": true
+  },
+  "casinocraft:recipes/decorations/item_prismarine": {
+    "criteria": {
+      "has_prismarine": "2024-12-11 19:41:46 +0000"
     },
     "done": true
   },
@@ -270,6 +294,12 @@
     },
     "done": true
   },
+  "ic2:glass_cocoa_0_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 19:34:58 +0000"
+    },
+    "done": true
+  },
   "ic2:lv_battery_station_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-10 19:20:31 +0000"
@@ -384,6 +414,18 @@
   "ic2:chips_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-10 19:20:36 +0000"
+    },
+    "done": true
+  },
+  "ic2:filtered_fluid_scanner_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 19:34:29 +0000"
+    },
+    "done": true
+  },
+  "ic2:hopper_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 19:34:29 +0000"
     },
     "done": true
   },
@@ -766,6 +808,12 @@
     },
     "done": true
   },
+  "ic2:cropmatron_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 19:34:29 +0000"
+    },
+    "done": true
+  },
   "ic2:glass_cold_fruit_tea_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-11 00:45:54 +0000"
@@ -874,17 +922,17 @@
     },
     "done": true
   },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "requirement": "2024-12-11 19:31:22 +0000"
-    },
-    "done": false
-  },
   "enigmaticlegacy:recipes/generic/the_twist": {
     "criteria": {
       "has_parent_recipe": "2024-12-10 19:14:42 +0000"
     },
     "done": false
+  },
+  "ic2:filtered_scanner_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 19:34:29 +0000"
+    },
+    "done": true
   },
   "ic2:chunkloader_recipe_advancement": {
     "criteria": {
@@ -927,6 +975,12 @@
       "requirement1": "2024-12-10 19:38:43 +0000"
     },
     "done": false
+  },
+  "ic2:glass_cocoa_1_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 19:34:58 +0000"
+    },
+    "done": true
   },
   "corail_dt:recipes/corail_dt/disk_3_1": {
     "criteria": {
@@ -1030,6 +1084,12 @@
     },
     "done": true
   },
+  "ic2:personal_chest_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 19:34:29 +0000"
+    },
+    "done": true
+  },
   "ic2:ev_battery_station_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-10 19:20:31 +0000"
@@ -1060,6 +1120,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/get_fd_seed": {
+    "criteria": {
+      "rice": "2024-12-11 19:34:58 +0000"
+    },
+    "done": true
+  },
   "corail_dt:recipes/essence": {
     "criteria": {
       "requirement_1": "2024-12-10 19:14:42 +0000"
@@ -1077,6 +1143,12 @@
       "has_parent_recipe": "2024-12-10 19:38:43 +0000"
     },
     "done": false
+  },
+  "ic2:crop_harvester_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 19:34:29 +0000"
+    },
+    "done": true
   },
   "tombstone:adventure/root": {
     "criteria": {
@@ -1117,6 +1189,12 @@
   "irons_spellbooks:grant_patchouli": {
     "criteria": {
       "tick": "2024-12-10 19:14:42 +0000"
+    },
+    "done": true
+  },
+  "ic2:toolbox_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 19:34:29 +0000"
     },
     "done": true
   },
@@ -1198,6 +1276,12 @@
     },
     "done": true
   },
+  "ic2:mug_cocoa_0_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 19:34:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/iron_tools": {
     "criteria": {
       "iron_pickaxe": "2024-12-10 19:39:01 +0000"
@@ -1255,6 +1339,12 @@
   "ic2:directional_tube_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-10 19:38:43 +0000"
+    },
+    "done": true
+  },
+  "ic2:reactor_planner_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 19:34:29 +0000"
     },
     "done": true
   },
@@ -1339,6 +1429,12 @@
   "enigmaticlegacy:book/enchantments/generic": {
     "criteria": {
       "has_items": "2024-12-11 00:45:21 +0000"
+    },
+    "done": true
+  },
+  "ic2:mug_cocoa_1_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 19:34:58 +0000"
     },
     "done": true
   },
@@ -1618,6 +1714,12 @@
     },
     "done": true
   },
+  "ic2:chocolate_cake_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 19:34:58 +0000"
+    },
+    "done": true
+  },
   "ic2:ev_charge_bench_kit_indirect_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-10 19:20:31 +0000"
@@ -1639,6 +1741,12 @@
   "ic2:iron_furnace_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-10 19:38:43 +0000"
+    },
+    "done": true
+  },
+  "ic2:upgrade_container_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 19:34:29 +0000"
     },
     "done": true
   },
