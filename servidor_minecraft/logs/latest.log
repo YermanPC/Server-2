@@ -4343,3 +4343,40 @@ Reason: Banned by an operator.
 [11Dec2024 21:03:36.729] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
 [11Dec2024 21:03:36.743] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2610ms or 52 ticks behind
 [11Dec2024 21:04:23.835] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[11Dec2024 21:06:52.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [YermanPC: Whitelist is now turned off]
+[11Dec2024 21:09:51.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AssaGM was doomed to fall
+[11Dec2024 21:09:51.837] [Server thread/INFO] [tombstone/]: The player AssaGM has successfully been saved
+[11Dec2024 21:09:54.165] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[11Dec2024 21:10:00.512] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AssaGM lost connection: Disconnected
+[11Dec2024 21:10:00.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AssaGM left the game
+[11Dec2024 21:11:15.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ClementePicaro has made the advancement [A Seedy Place]
+[11Dec2024 21:12:11.296] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 94
+[11Dec2024 21:12:11.297] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 95
+[11Dec2024 21:12:11.420] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 96
+[11Dec2024 21:12:11.458] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 97
+[11Dec2024 21:12:11.459] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 98
+[11Dec2024 21:12:11.501] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 99
+[11Dec2024 21:12:11.558] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 100
+[11Dec2024 21:12:11.605] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 101
+[11Dec2024 21:12:11.681] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 102
+[11Dec2024 21:12:11.707] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 103
+[11Dec2024 21:12:11.708] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 104
+[11Dec2024 21:12:11.820] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 105
+[11Dec2024 21:12:11.822] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 106
+[11Dec2024 21:12:11.881] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 107
+[11Dec2024 21:12:12.023] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 108
+[11Dec2024 21:12:12.155] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@35c94c18
+[11Dec2024 21:12:12.190] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: AssaGM[/127.61.57.82:49357] logged in with entity id 64140 at (-3141.5, 98.0625, -6733.5)
+[11Dec2024 21:12:12.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AssaGM joined the game
+[11Dec2024 21:12:12.308] [Server thread/INFO] [Jade/]: Syncing config to AssaGM (0aa832e0-dc0d-351a-bc32-39acc5000292)
+[11Dec2024 21:12:12.350] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to AssaGM...
+[11Dec2024 21:12:12.351] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[11Dec2024 21:12:12.352] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to AssaGM
+[11Dec2024 21:12:15.930] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3747ms or 74 ticks behind
+[11Dec2024 21:13:28.825] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ClementePicaro has made the advancement [Battle Towers?]
+[11Dec2024 21:13:30.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ClementePicaro has made the advancement [Barrel Booty]
+[11Dec2024 21:13:59.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AssaGM was burnt to a crisp whilst fighting Phantom
+[11Dec2024 21:13:59.096] [Server thread/INFO] [tombstone/]: The player AssaGM has successfully been saved
+[11Dec2024 21:14:00.815] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[11Dec2024 21:14:57.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ClementePicaro has made the advancement [Close Quarters]
+[11Dec2024 21:16:20.655] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/material/MaterialColor$Brightness

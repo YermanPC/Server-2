@@ -30,6 +30,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_heavenly_challenger": {
+    "criteria": {
+      "location0": "2024-12-11 21:03:04 +0000"
+    },
+    "done": true
+  },
   "naturescompass:natures_compass": {
     "criteria": {
       "has_compass": "2024-12-09 02:47:01 +0000"
@@ -827,7 +833,9 @@
       "minecraft:spider": "2024-12-09 18:09:12 +0000",
       "minecraft:creeper": "2024-12-09 03:31:07 +0000",
       "minecraft:evoker": "2024-12-10 00:53:32 +0000",
+      "minecraft:slime": "2024-12-11 21:09:09 +0000",
       "minecraft:witch": "2024-12-10 01:12:34 +0000",
+      "minecraft:wither_skeleton": "2024-12-11 21:09:16 +0000",
       "minecraft:silverfish": "2024-12-10 00:52:59 +0000",
       "minecraft:enderman": "2024-12-10 01:04:34 +0000",
       "minecraft:endermite": "2024-12-10 00:50:59 +0000",
@@ -1577,6 +1585,12 @@
   "ic2:hydrated_charcoal_dust_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-09 18:15:16 +0000"
+    },
+    "done": true
+  },
+  "ic2:cfoam_wool_gray_3_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 21:05:53 +0000"
     },
     "done": true
   },
@@ -3094,6 +3108,12 @@
     },
     "done": true
   },
+  "ic2:cfoam_wool_gray_2_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 21:05:53 +0000"
+    },
+    "done": true
+  },
   "ic2:ev_battery_station_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-09 02:50:26 +0000"
@@ -3117,6 +3137,12 @@
       "hasItem": "2024-12-10 02:28:06 +0000"
     },
     "done": true
+  },
+  "enigmaticlegacy:recipes/generic/shroomlamps": {
+    "criteria": {
+      "has_core_block": "2024-12-11 21:06:39 +0000"
+    },
+    "done": false
   },
   "ic2:solar_helmet_0_recipe_advancement": {
     "criteria": {
@@ -3308,6 +3334,12 @@
   "ic2:vent_steam_adv_1_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-09 23:36:25 +0000"
+    },
+    "done": true
+  },
+  "casinocraft:recipes/decorations/wool_gray": {
+    "criteria": {
+      "has_wool": "2024-12-11 21:05:53 +0000"
     },
     "done": true
   },
