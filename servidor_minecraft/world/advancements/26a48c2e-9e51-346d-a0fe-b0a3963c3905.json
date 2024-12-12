@@ -379,7 +379,9 @@
   },
   "tconstruct:world/slime_collector": {
     "criteria": {
-      "earth": "2024-12-09 19:53:11 +0000"
+      "magma_cream": "2024-12-12 21:24:48 +0000",
+      "earth": "2024-12-09 19:53:11 +0000",
+      "ichor": "2024-12-12 21:25:03 +0000"
     },
     "done": false
   },
@@ -490,6 +492,12 @@
   "ic2:rubberwood_pressure_plate_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-09 21:30:29 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:world/blood_island": {
+    "criteria": {
+      "found_island": "2024-12-12 21:24:40 +0000"
     },
     "done": true
   },
@@ -1183,6 +1191,12 @@
     },
     "done": true
   },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:basalt_deltas": "2024-12-12 21:14:20 +0000"
+    },
+    "done": false
+  },
   "ic2:item_limiter_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-09 20:59:26 +0000"
@@ -1210,6 +1224,12 @@
   "ic2:glass_cold_dark_coffee_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-10 01:56:50 +0000"
+    },
+    "done": true
+  },
+  "incendium:root": {
+    "criteria": {
+      "requirement": "2024-12-12 21:13:51 +0000"
     },
     "done": true
   },
@@ -1276,6 +1296,12 @@
   "ic2:vent_steam_overclocked_0_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-09 03:50:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2024-12-12 21:13:51 +0000"
     },
     "done": true
   },
@@ -1353,6 +1379,8 @@
   },
   "tconstruct:smeltery/cast_collector": {
     "criteria": {
+      "large_plate": "2024-12-12 21:20:20 +0000",
+      "hammer_head": "2024-12-12 21:20:14 +0000",
       "ingot": "2024-12-11 19:17:08 +0000"
     },
     "done": false
@@ -1721,6 +1749,12 @@
   "farmersdelight:main/root": {
     "criteria": {
       "seeds": "2024-12-09 02:46:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2024-12-12 21:13:51 +0000"
     },
     "done": true
   },
@@ -3149,6 +3183,7 @@
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
       "muskeg": "2024-12-10 01:26:47 +0000",
+      "erupting_inferno": "2024-12-12 21:14:05 +0000",
       "highland": "2024-12-12 13:27:00 +0000",
       "cold_desert": "2024-12-10 01:10:48 +0000",
       "maple_woods": "2024-12-10 14:29:47 +0000",

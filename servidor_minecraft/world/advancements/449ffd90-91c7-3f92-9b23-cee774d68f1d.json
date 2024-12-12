@@ -126,6 +126,12 @@
     },
     "done": true
   },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_helmet": "2024-12-12 21:25:45 +0000"
+    },
+    "done": true
+  },
   "ic2:aluminum_sign_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-09 03:28:23 +0000"
@@ -414,6 +420,7 @@
       "entered_stables": "2024-12-09 03:37:25 +0000",
       "entered_pirate_ship": "2024-12-10 19:31:52 +0000",
       "entered_tall_witch_hut": "2024-12-10 18:15:49 +0000",
+      "entered_castle": "2024-12-12 21:21:34 +0000",
       "entered_watch_tower": "2024-12-09 19:57:58 +0000",
       "entered_ruined_building": "2024-12-09 03:53:40 +0000"
     },
@@ -531,6 +538,7 @@
       "coniferous_forest": "2024-12-09 03:23:25 +0000",
       "forested_field": "2024-12-09 03:48:53 +0000",
       "spider_nest": "2024-12-10 18:56:48 +0000",
+      "old_growth_dead_forest": "2024-12-12 21:16:57 +0000",
       "seasonal_orchard": "2024-12-10 03:56:43 +0000",
       "seasonal_forest": "2024-12-09 03:51:24 +0000",
       "auroral_garden": "2024-12-09 17:59:42 +0000",
@@ -1531,6 +1539,12 @@
     },
     "done": true
   },
+  "lootr:100loot": {
+    "criteria": {
+      "loot_stat": "2024-12-12 21:26:10 +0000"
+    },
+    "done": true
+  },
   "ic2:item_limiter_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-09 03:44:35 +0000"
@@ -2153,6 +2167,12 @@
     },
     "done": true
   },
+  "dungeons_enhanced:wars_and_kingdoms": {
+    "criteria": {
+      "entered_castle": "2024-12-12 21:21:34 +0000"
+    },
+    "done": true
+  },
   "ic2:cfoam_wool_blue_0_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-11 19:33:08 +0000"
@@ -2408,6 +2428,12 @@
   "ic2:cropmatron_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-09 03:42:16 +0000"
+    },
+    "done": true
+  },
+  "ic2:construction_light_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-12 21:26:39 +0000"
     },
     "done": true
   },
@@ -3171,6 +3197,12 @@
       "shot_arrow": "2024-12-09 17:51:55 +0000"
     },
     "done": true
+  },
+  "dungeons_enhanced:seven_world_wonders": {
+    "criteria": {
+      "entered_castle": "2024-12-12 21:21:34 +0000"
+    },
+    "done": false
   },
   "ic2:bronze_sword_recipe_advancement": {
     "criteria": {

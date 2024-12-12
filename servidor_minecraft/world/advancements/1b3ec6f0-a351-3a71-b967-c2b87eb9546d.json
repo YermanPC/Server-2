@@ -805,6 +805,12 @@
     },
     "done": true
   },
+  "ic2:mfsu_upgrade_kit_indirect_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-12 21:17:08 +0000"
+    },
+    "done": true
+  },
   "tconstruct:world/slime_collector": {
     "criteria": {
       "sky": "2024-12-10 00:29:09 +0000",
@@ -1245,6 +1251,12 @@
   "ic2:insulated_copper_cable_1_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-09 20:54:15 +0000"
+    },
+    "done": true
+  },
+  "ic2:ev_charge_bench_kit_direct_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-12 21:17:08 +0000"
     },
     "done": true
   },
@@ -1752,6 +1764,12 @@
     },
     "done": true
   },
+  "ic2:mfsu_upgrade_kit_direct_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-12 21:17:08 +0000"
+    },
+    "done": true
+  },
   "ic2:composite_helmet_1_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-09 03:17:28 +0000"
@@ -1855,6 +1873,12 @@
   "ic2:electric_wood_gassifier_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-12 05:22:48 +0000"
+    },
+    "done": true
+  },
+  "ic2:hv_charge_bench_kit_direct_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-12 21:17:08 +0000"
     },
     "done": true
   },
@@ -2047,6 +2071,12 @@
   "ic2:hv_flux_generator_0_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-09 03:15:53 +0000"
+    },
+    "done": true
+  },
+  "ic2:mfe_upgrade_kit_indirect_gold_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-12 21:17:08 +0000"
     },
     "done": true
   },
@@ -2622,6 +2652,12 @@
     },
     "done": true
   },
+  "ic2:mv_battery_station_kit_direct_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-12 21:17:08 +0000"
+    },
+    "done": true
+  },
   "ic2:energy_crystal_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-09 03:47:47 +0000"
@@ -2772,6 +2808,12 @@
     },
     "done": true
   },
+  "ic2:mv_charge_bench_kit_direct_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-12 21:17:08 +0000"
+    },
+    "done": true
+  },
   "ic2:glass_cold_black_tea_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-09 18:26:04 +0000"
@@ -2838,6 +2880,12 @@
     },
     "done": true
   },
+  "ic2:iv_charge_bench_kit_direct_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-12 21:17:08 +0000"
+    },
+    "done": true
+  },
   "ic2:scrap_metal_blade_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-09 03:48:08 +0000"
@@ -2873,6 +2921,12 @@
     "criteria": {
       "requirement1": "2024-12-09 02:50:00 +0000",
       "requirement0": "2024-12-12 16:54:32 +0000"
+    },
+    "done": true
+  },
+  "ic2:iv_battery_station_kit_direct_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-12 21:17:08 +0000"
     },
     "done": true
   },
@@ -2978,6 +3032,12 @@
   "tconstruct:foundry/encyclopedia": {
     "criteria": {
       "crafted_book": "2024-12-10 19:03:16 +0000"
+    },
+    "done": true
+  },
+  "ic2:hv_battery_station_kit_direct_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-12 21:17:08 +0000"
     },
     "done": true
   },
@@ -3640,6 +3700,12 @@
     },
     "done": true
   },
+  "ic2:ev_battery_station_kit_direct_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-12 21:17:08 +0000"
+    },
+    "done": true
+  },
   "ic2:simple_crop_library_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-12 17:28:13 +0000"
@@ -3741,6 +3807,12 @@
     },
     "done": true
   },
+  "ic2:mfe_upgrade_kit_direct_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-12 21:17:08 +0000"
+    },
+    "done": true
+  },
   "corail_dt:recipes/corail_dt/disk_2_2": {
     "criteria": {
       "requirement1": "2024-12-09 03:15:53 +0000",
@@ -3826,6 +3898,12 @@
       "has_parent_recipe": "2024-12-09 18:51:04 +0000"
     },
     "done": false
+  },
+  "ic2:mfe_upgrade_kit_indirect_bronze_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-12 21:17:08 +0000"
+    },
+    "done": true
   },
   "ic2:insulated_bronze_cable_2_recipe_advancement": {
     "criteria": {
