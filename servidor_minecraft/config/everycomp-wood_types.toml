@@ -47,17 +47,17 @@
 		[types.wood_type.cataclysm]
 			chorus = true
 
-		[types.wood_type.forbidden_arcanus]
-			fungyss = true
-			cherry = true
-			aurum = true
-			edelwood = true
-
 		[types.wood_type.tconstruct]
 			greenheart = true
 			skyroot = true
 			bloodshroom = true
 			enderbark = true
+
+		[types.wood_type.forbidden_arcanus]
+			fungyss = true
+			cherry = true
+			aurum = true
+			edelwood = true
 
 	[types.leaves_type]
 
@@ -89,11 +89,19 @@
 		[types.leaves_type.iter_rpg]
 			sacred = true
 
+		[types.leaves_type.ic2]
+			rubber = true
+
 		[types.leaves_type.phantasm]
 			pream = true
 
 		[types.leaves_type.ad_astra]
 			glacian = true
+
+		[types.leaves_type.tconstruct]
+			earth_slime = true
+			sky_slime = true
+			ender_slime = true
 
 		[types.leaves_type.quark]
 			ancient = true
@@ -108,14 +116,6 @@
 			cherry = true
 			aurum = true
 			nuggety_aurum = true
-
-		[types.leaves_type.ic2]
-			rubber = true
-
-		[types.leaves_type.tconstruct]
-			earth_slime = true
-			sky_slime = true
-			ender_slime = true
 
 [entries]
 

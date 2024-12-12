@@ -973,7 +973,7 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2024-12-12 13:48:23 +0000"
+      "log_spam_fixer": "2024-12-12 15:16:17 +0000"
     },
     "done": false
   },
@@ -1277,6 +1277,12 @@
     },
     "done": true
   },
+  "ulterlands:calm_void": {
+    "criteria": {
+      "calm_void": "2024-12-12 15:16:08 +0000"
+    },
+    "done": true
+  },
   "ic2:cfoam_wool_light_gray_1_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-10 18:53:17 +0000"
@@ -1309,7 +1315,7 @@
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2024-12-12 13:48:23 +0000"
+      "log_spam_fixer": "2024-12-12 15:16:17 +0000"
     },
     "done": false
   },
@@ -1645,7 +1651,7 @@
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2024-12-12 13:48:23 +0000"
+      "log_spam_fixer": "2024-12-12 15:16:17 +0000"
     },
     "done": false
   },
@@ -1723,7 +1729,7 @@
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2024-12-12 13:48:23 +0000"
+      "log_spam_fixer": "2024-12-12 15:16:17 +0000"
     },
     "done": false
   },
@@ -1736,6 +1742,12 @@
   "ic2:cfoam_carpet_red_3_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-10 18:26:05 +0000"
+    },
+    "done": true
+  },
+  "ulterlands:adv_godbutcher": {
+    "criteria": {
+      "adv_godbutcher": "2024-12-12 15:15:03 +0000"
     },
     "done": true
   },
@@ -1837,7 +1849,7 @@
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2024-12-12 13:48:23 +0000"
+      "log_spam_fixer": "2024-12-12 15:16:17 +0000"
     },
     "done": false
   },
@@ -2186,7 +2198,7 @@
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2024-12-12 13:48:23 +0000"
+      "log_spam_fixer": "2024-12-12 15:16:17 +0000"
     },
     "done": false
   },
@@ -2653,6 +2665,12 @@
     },
     "done": true
   },
+  "ulterlands:hollow_expanses": {
+    "criteria": {
+      "hollow_expanses": "2024-12-12 15:11:38 +0000"
+    },
+    "done": true
+  },
   "ic2:painter_blue_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-10 18:12:26 +0000"
@@ -2973,7 +2991,7 @@
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2024-12-12 13:48:23 +0000"
+      "log_spam_fixer": "2024-12-12 15:16:17 +0000"
     },
     "done": false
   },
@@ -3218,7 +3236,7 @@
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2024-12-12 13:48:23 +0000"
+      "log_spam_fixer": "2024-12-12 15:16:17 +0000"
     },
     "done": false
   },
@@ -3302,7 +3320,7 @@
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2024-12-12 13:48:23 +0000"
+      "log_spam_fixer": "2024-12-12 15:16:17 +0000"
     },
     "done": false
   },
@@ -4141,7 +4159,7 @@
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2024-12-12 13:48:23 +0000"
+      "log_spam_fixer": "2024-12-12 15:16:17 +0000"
     },
     "done": false
   },
@@ -4184,7 +4202,7 @@
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2024-12-12 13:48:23 +0000"
+      "log_spam_fixer": "2024-12-12 15:16:17 +0000"
     },
     "done": false
   },
@@ -4209,10 +4227,9 @@
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "requirement": "2024-12-12 13:48:23 +0000",
-      "log_spam_fixer": "2024-12-12 13:48:23 +0000"
+      "log_spam_fixer": "2024-12-12 15:16:17 +0000"
     },
-    "done": true
+    "done": false
   },
   "corail_dt:recipes/corail_dt/disk_4_1": {
     "criteria": {
