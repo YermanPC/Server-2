@@ -3976,3 +3976,9 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [12Dec2024 05:35:26.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [YermanPC: Gave 64    [Bottle o' Enchanting] to YermanPC]
 [12Dec2024 05:35:28.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [YermanPC: Gave 64    [Bottle o' Enchanting] to YermanPC]
 [12Dec2024 05:41:58.131] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ic2/core/inventory/slot/IGhostSlot$GhostType
+[12Dec2024 05:45:36.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YermanPC has made the advancement [Suitable Power]
+[12Dec2024 05:46:28.097] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ic2/core/block/base/tiles/impls/machine/single/BaseMachineTileEntity$RecipeResult
+[12Dec2024 05:48:39.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [YermanPC: Set own game mode to Creative Mode]
+[12Dec2024 05:48:50.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [YermanPC: Set own game mode to Survival Mode]
+[12Dec2024 05:49:49.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [YermanPC: Gave 64    [Overclocker Upgrade] to YermanPC]
+[12Dec2024 05:54:49.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YermanPC has made the advancement [Epic Squeeze]
