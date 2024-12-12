@@ -2539,6 +2539,12 @@
     },
     "done": false
   },
+  "ic2:construction_light_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-12 04:07:09 +0000"
+    },
+    "done": true
+  },
   "ic2:mud_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-09 02:48:05 +0000"
