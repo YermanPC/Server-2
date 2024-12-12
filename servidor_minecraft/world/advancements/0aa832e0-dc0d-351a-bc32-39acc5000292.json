@@ -977,6 +977,12 @@
     },
     "done": true
   },
+  "ic2:planter_pot_rooted_dirt_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-12 03:44:30 +0000"
+    },
+    "done": true
+  },
   "ic2:bronze_axe_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-09 02:50:23 +0000"
@@ -1118,6 +1124,12 @@
   "ic2:time_card_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-09 03:50:09 +0000"
+    },
+    "done": true
+  },
+  "ic2:planter_pot_soul_sand_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-12 03:44:30 +0000"
     },
     "done": true
   },
@@ -1571,6 +1583,12 @@
     },
     "done": true
   },
+  "ic2:planter_pot_coarse_dirt_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-12 03:44:30 +0000"
+    },
+    "done": true
+  },
   "ic2:personal_tank_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-12 03:29:47 +0000"
@@ -1908,6 +1926,12 @@
     },
     "done": true
   },
+  "ic2:tap_pot_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-12 03:44:30 +0000"
+    },
+    "done": true
+  },
   "ic2:hv_flux_generator_0_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-09 03:02:01 +0000"
@@ -2181,6 +2205,12 @@
   "ic2:void_tube_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-09 18:17:51 +0000"
+    },
+    "done": true
+  },
+  "ic2:planter_pot_podzol_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-12 03:44:30 +0000"
     },
     "done": true
   },
@@ -2493,6 +2523,12 @@
   "ic2:painter_white_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-10 18:53:34 +0000"
+    },
+    "done": true
+  },
+  "ic2:planter_pot_soul_soil_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-12 03:44:30 +0000"
     },
     "done": true
   },
@@ -2928,6 +2964,12 @@
     },
     "done": true
   },
+  "ic2:planter_pot_mycelium_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-12 03:44:30 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:main/root": {
     "criteria": {
       "seeds": "2024-12-09 02:47:01 +0000"
@@ -3229,6 +3271,12 @@
     },
     "done": true
   },
+  "ic2:planter_pot_warped_nylium_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-12 03:44:30 +0000"
+    },
+    "done": true
+  },
   "ic2:chunkloader_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-10 00:41:03 +0000"
@@ -3325,6 +3373,12 @@
       "has_parent_recipe": "2024-12-09 23:23:34 +0000"
     },
     "done": false
+  },
+  "ic2:planter_pot_wet_sponge_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-12 03:44:30 +0000"
+    },
+    "done": true
   },
   "dungeons_arise:find_small_blimp": {
     "criteria": {
@@ -3807,6 +3861,12 @@
     },
     "done": true
   },
+  "ic2:planter_pot_mud_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-12 03:44:30 +0000"
+    },
+    "done": true
+  },
   "ic2:circuit_1_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-09 18:22:51 +0000"
@@ -3828,6 +3888,12 @@
   "ic2:raw_tin_block_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-09 02:58:24 +0000"
+    },
+    "done": true
+  },
+  "ic2:planter_pot_crimson_nylium_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-12 03:44:30 +0000"
     },
     "done": true
   },
@@ -3940,6 +4006,12 @@
     },
     "done": true
   },
+  "ic2:planter_pot_sponge_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-12 03:44:30 +0000"
+    },
+    "done": true
+  },
   "ic2:comparing_cable_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-09 18:22:51 +0000"
@@ -4006,6 +4078,12 @@
       "has_items2": "2024-12-11 20:02:36 +0000"
     },
     "done": false
+  },
+  "ic2:planter_pot_red_sand_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-12 03:44:30 +0000"
+    },
+    "done": true
   },
   "ic2:diamond_drill_silk_recipe_advancement": {
     "criteria": {
