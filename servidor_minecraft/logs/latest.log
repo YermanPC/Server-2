@@ -4362,3 +4362,18 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [12Dec2024 22:37:49.338] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to FlacoSchiavi
 [12Dec2024 22:38:36.362] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/settings/main/Context
 [12Dec2024 22:39:39.360] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[12Dec2024 22:41:01.335] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2030ms or 40 ticks behind
+[12Dec2024 22:42:49.260] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[12Dec2024 22:43:11.298] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FlacoSchiavi was killed by Uzsahe the Endborn using magic
+[12Dec2024 22:43:11.376] [Server thread/INFO] [tombstone/]: The player FlacoSchiavi has successfully been saved
+[12Dec2024 22:43:13.688] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[12Dec2024 22:43:27.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FlacoSchiavi was slain by Uzsahe the Endborn
+[12Dec2024 22:43:27.310] [Server thread/INFO] [tombstone/]: The player FlacoSchiavi has successfully been saved
+[12Dec2024 22:43:28.983] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[12Dec2024 22:43:40.735] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vindicator['Uzsahe the Endborn'/95213, l='ServerLevel[world]', x=-1800.52, y=67.00, z=2110.25] died: Uzsahe the Endborn was slain by FlacoSchiavi
+[12Dec2024 22:46:30.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AssaGM> zzzzzzzzzzzzzz
+[12Dec2024 22:47:55.745] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2040ms or 40 ticks behind
+[12Dec2024 22:48:14.658] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[12Dec2024 22:49:01.457] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[12Dec2024 22:49:41.607] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[12Dec2024 22:50:28.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <FlacoSchiavi> -1787 75 2144
