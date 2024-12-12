@@ -3848,3 +3848,7 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [12Dec2024 03:03:47.614] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Murray'/1456, l='ServerLevel[world]', x=204.48, y=38.00, z=-813.92] died: Murray was slain by Zombie
 [12Dec2024 03:04:33.871] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/vehicle/Boat$Status
 [12Dec2024 03:10:20.043] [Netty Epoll Server IO #6/INFO] [com.teampotato.redirector.Redirector/]: Redirecting xyz/przemyk/simpleplanes/network/ChangeThrottlePacket$Type
+[12Dec2024 03:15:05.357] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Alfred'/1424, l='ServerLevel[world]', x=225.84, y=40.00, z=-814.11] died, message: 'Alfred was slain by Zombie'
+[12Dec2024 03:15:05.358] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Alfred'/1424, l='ServerLevel[world]', x=225.84, y=40.00, z=-814.11] died: Alfred was slain by Zombie
+[12Dec2024 03:19:39.744] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Ruth'/1434, l='ServerLevel[world]', x=222.50, y=54.05, z=-819.30] died, message: 'Ruth drowned'
+[12Dec2024 03:19:39.745] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Ruth'/1434, l='ServerLevel[world]', x=222.50, y=54.05, z=-819.30] died: Ruth drowned
