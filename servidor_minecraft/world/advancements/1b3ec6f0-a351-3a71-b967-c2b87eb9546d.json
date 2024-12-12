@@ -17,6 +17,12 @@
     },
     "done": true
   },
+  "ic2:acquire_resin": {
+    "criteria": {
+      "hasItem": "2024-12-12 02:07:43 +0000"
+    },
+    "done": true
+  },
   "enigmaticlegacy:recipes/generic/magnet_ring": {
     "criteria": {
       "has_parent_recipe": "2024-12-09 03:15:53 +0000",
@@ -45,6 +51,12 @@
   "ic2:bio_ball_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-09 02:48:30 +0000"
+    },
+    "done": true
+  },
+  "ic2:sticky_dynamite_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-12 02:07:43 +0000"
     },
     "done": true
   },
@@ -225,6 +237,12 @@
   "ic2:teleport_valve_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-09 18:51:04 +0000"
+    },
+    "done": true
+  },
+  "ic2:lag_card_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-12 02:07:43 +0000"
     },
     "done": true
   },
@@ -458,6 +476,12 @@
       "log_spam_fixer": "2024-12-09 02:46:04 +0000"
     },
     "done": false
+  },
+  "ic2:rubberwood_stripped_planks_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-12 02:08:03 +0000"
+    },
+    "done": true
   },
   "enigmaticlegacy:recipes/generic/desolation_ring": {
     "criteria": {
@@ -776,6 +800,12 @@
   "ic2:bronze_axe_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-09 02:49:49 +0000"
+    },
+    "done": true
+  },
+  "ic2:rubberwood_planks_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-12 02:07:08 +0000"
     },
     "done": true
   },
@@ -1561,6 +1591,12 @@
   "ic2:condensator_lap_repair_redstone_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-09 03:47:47 +0000"
+    },
+    "done": true
+  },
+  "ic2:bio_mesh_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-12 02:07:43 +0000"
     },
     "done": true
   },
@@ -2699,6 +2735,12 @@
   "ic2:fuel_jetpack_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-09 03:47:47 +0000"
+    },
+    "done": true
+  },
+  "ic2:rubberwood_log_bark_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-12 02:07:08 +0000"
     },
     "done": true
   },
