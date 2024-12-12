@@ -4341,6 +4341,12 @@
     },
     "done": true
   },
+  "tconstruct:tools/make_part": {
+    "criteria": {
+      "crafted_part": "2024-12-12 12:41:15 +0000"
+    },
+    "done": true
+  },
   "ic2:generator_1_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-09 02:48:52 +0000"
