@@ -3301,6 +3301,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2024-12-12 13:19:34 +0000",
+      "minecraft:blaze": "2024-12-12 21:31:29 +0000",
       "minecraft:skeleton": "2024-12-09 03:02:08 +0000",
       "minecraft:magma_cube": "2024-12-12 16:14:59 +0000",
       "minecraft:spider": "2024-12-09 03:44:52 +0000",
@@ -3308,6 +3309,7 @@
       "minecraft:slime": "2024-12-12 13:26:12 +0000",
       "quark:forgotten": "2024-12-09 03:18:24 +0000",
       "minecraft:phantom": "2024-12-12 01:45:33 +0000",
+      "minecraft:wither_skeleton": "2024-12-12 21:29:50 +0000",
       "minecraft:husk": "2024-12-09 03:36:38 +0000",
       "minecraft:cave_spider": "2024-12-09 03:07:56 +0000",
       "minecraft:enderman": "2024-12-09 19:50:35 +0000",
@@ -4895,6 +4897,12 @@
   "ic2:uranium_charcoal_single_0_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-11 19:24:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "in_better_fortress": "2024-12-12 21:27:45 +0000"
     },
     "done": true
   },
