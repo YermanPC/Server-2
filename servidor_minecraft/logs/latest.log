@@ -3847,3 +3847,50 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [12Dec2024 18:43:05.333] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
 [12Dec2024 18:43:13.027] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AssaGM lost connection: Disconnected
 [12Dec2024 18:43:13.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AssaGM left the game
+[12Dec2024 18:45:16.278] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 94
+[12Dec2024 18:45:16.326] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 95
+[12Dec2024 18:45:16.338] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 96
+[12Dec2024 18:45:16.463] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 97
+[12Dec2024 18:45:16.541] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 98
+[12Dec2024 18:45:16.581] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 99
+[12Dec2024 18:45:16.660] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 100
+[12Dec2024 18:45:16.753] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 101
+[12Dec2024 18:45:16.753] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 102
+[12Dec2024 18:45:16.754] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 103
+[12Dec2024 18:45:16.878] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 104
+[12Dec2024 18:45:16.926] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 105
+[12Dec2024 18:45:17.003] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 106
+[12Dec2024 18:45:17.004] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 107
+[12Dec2024 18:45:17.004] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 108
+[12Dec2024 18:45:17.154] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@71b53d67
+[12Dec2024 18:45:17.288] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: AssaGM[/127.61.57.82:53247] logged in with entity id 17510 at (457.5, 13.0625, 107.5)
+[12Dec2024 18:45:17.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AssaGM joined the game
+[12Dec2024 18:45:17.602] [Server thread/INFO] [Jade/]: Syncing config to AssaGM (0aa832e0-dc0d-351a-bc32-39acc5000292)
+[12Dec2024 18:45:17.661] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to AssaGM...
+[12Dec2024 18:45:17.661] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[12Dec2024 18:45:17.662] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to AssaGM
+[12Dec2024 18:45:20.229] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3124ms or 62 ticks behind
+[12Dec2024 18:45:33.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ClementePicaro> exploto muy fuerte ese crepeer?
+[12Dec2024 18:45:42.763] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[12Dec2024 18:46:00.163] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2058ms or 41 ticks behind
+[12Dec2024 18:46:09.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AssaGM> esto de ser pobre no me gusta
+[12Dec2024 18:46:32.241] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2136ms or 42 ticks behind
+[12Dec2024 18:46:40.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ClementePicaro> y la verdad que no es muy lindo
+[12Dec2024 18:47:03.031] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2076ms or 41 ticks behind
+[12Dec2024 18:47:15.848] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AssaGM> ya estan habilitadas las dimensiones
+[12Dec2024 18:47:22.144] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4139ms or 82 ticks behind
+[12Dec2024 18:47:38.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ClementePicaro> el end?
+[12Dec2024 18:47:39.756] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2651ms or 53 ticks behind
+[12Dec2024 18:47:56.793] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2037ms or 40 ticks behind
+[12Dec2024 18:47:58.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AssaGM> a mi me dijeron todo vale
+[12Dec2024 18:48:57.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ClementePicaro> explotar la casa de german?
+[12Dec2024 18:49:05.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AssaGM> eso siempre fue valido
+[12Dec2024 18:49:12.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ClementePicaro> banco
+[12Dec2024 18:51:17.774] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=515, y=18, z=141} BlockPos{x=515, y=18, z=139}
+[12Dec2024 18:52:41.617] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
+[12Dec2024 18:53:46.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AssaGM> yo estaba en esta dungeon cuando alvar estaba formateando su pc
+[12Dec2024 18:53:49.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AssaGM> y german comprandose el fifa
+[12Dec2024 18:54:00.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ClementePicaro> buenos recuerdos?
+[12Dec2024 18:54:01.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ClementePicaro has made the advancement [Penteconter]
+[12Dec2024 18:54:11.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AssaGM> el peor error de mi vida
+[12Dec2024 18:54:16.702] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting io/github/mortuusars/monobank/Thief$Offence
