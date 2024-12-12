@@ -1237,6 +1237,12 @@
     },
     "done": true
   },
+  "tconstruct:smeltery/tinkers_anvil": {
+    "criteria": {
+      "crafted_overworld": "2024-12-12 12:51:11 +0000"
+    },
+    "done": true
+  },
   "enigmaticlegacy:recipes/generic/iron_ring": {
     "criteria": {
       "has_recipe_result": "2024-12-09 03:08:33 +0000"
