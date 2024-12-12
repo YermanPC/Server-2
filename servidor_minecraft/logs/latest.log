@@ -3901,3 +3901,29 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [12Dec2024 19:24:07.024] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Maurice'/29544, l='ServerLevel[world]', x=241.49, y=44.92, z=-811.45] died: Maurice was slain by Zombie
 [12Dec2024 19:31:12.976] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/blay09/mods/waystones/core/WarpMode
 [12Dec2024 19:40:42.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AssaGM has made the advancement [What a Deal!]
+[12Dec2024 20:18:39.795] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=374, y=72, z=-916} BlockPos{x=375, y=70, z=-915}
+[12Dec2024 20:18:40.489] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=373, y=72, z=-913} BlockPos{x=373, y=70, z=-911}
+[12Dec2024 20:18:40.544] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=373, y=72, z=-913} BlockPos{x=373, y=70, z=-911}
+[12Dec2024 20:18:40.592] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=373, y=72, z=-913} BlockPos{x=373, y=70, z=-911}
+[12Dec2024 20:26:28.882] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 94
+[12Dec2024 20:26:28.898] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 95
+[12Dec2024 20:26:28.915] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 96
+[12Dec2024 20:26:28.915] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 97
+[12Dec2024 20:26:28.915] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 98
+[12Dec2024 20:26:28.915] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 99
+[12Dec2024 20:26:29.355] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 100
+[12Dec2024 20:26:29.355] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 101
+[12Dec2024 20:26:29.356] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 102
+[12Dec2024 20:26:29.356] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 103
+[12Dec2024 20:26:29.356] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 104
+[12Dec2024 20:26:29.356] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 105
+[12Dec2024 20:26:29.356] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 106
+[12Dec2024 20:26:29.357] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 107
+[12Dec2024 20:26:29.357] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 108
+[12Dec2024 20:26:29.435] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@84a6200
+[12Dec2024 20:26:29.464] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: YermanPC[/127.51.19.16:35403] logged in with entity id 39766 at (-76.16205200251923, 106.0, -303.3811755294307)
+[12Dec2024 20:26:29.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YermanPC joined the game
+[12Dec2024 20:26:29.556] [Server thread/INFO] [Jade/]: Syncing config to YermanPC (1b3ec6f0-a351-3a71-b967-c2b87eb9546d)
+[12Dec2024 20:26:29.581] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to YermanPC...
+[12Dec2024 20:26:29.582] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[12Dec2024 20:26:29.583] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to YermanPC
