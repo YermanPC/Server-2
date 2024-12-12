@@ -3899,3 +3899,4 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [12Dec2024 19:10:09.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ClementePicaro left the game
 [12Dec2024 19:24:07.023] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Maurice'/29544, l='ServerLevel[world]', x=241.49, y=44.92, z=-811.45] died, message: 'Maurice was slain by Zombie'
 [12Dec2024 19:24:07.024] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Maurice'/29544, l='ServerLevel[world]', x=241.49, y=44.92, z=-811.45] died: Maurice was slain by Zombie
+[12Dec2024 19:31:12.976] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/blay09/mods/waystones/core/WarpMode

@@ -1607,6 +1607,12 @@
     },
     "done": true
   },
+  "ic2:esu_minecart_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-12 19:31:31 +0000"
+    },
+    "done": true
+  },
   "ic2:exp_collector_upgrade_1_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-09 03:46:35 +0000"
@@ -1823,6 +1829,12 @@
     },
     "done": false
   },
+  "ic2:batbox_minecart_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-12 19:31:31 +0000"
+    },
+    "done": true
+  },
   "ic2:cfoam_wool_light_gray_3_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-10 19:33:22 +0000"
@@ -1980,6 +1992,12 @@
     },
     "done": true
   },
+  "ic2:mfe_minecart_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-12 19:31:31 +0000"
+    },
+    "done": true
+  },
   "ic2:composite_chest_1_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-09 03:02:09 +0000"
@@ -2001,6 +2019,12 @@
   "ic2:hv_flux_generator_0_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-09 03:02:01 +0000"
+    },
+    "done": true
+  },
+  "ic2:isu_minecart_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-12 19:31:31 +0000"
     },
     "done": true
   },
@@ -2253,6 +2277,12 @@
   "ic2:glass_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-12 03:29:47 +0000"
+    },
+    "done": true
+  },
+  "ic2:mfsu_minecart_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-12 19:31:31 +0000"
     },
     "done": true
   },
@@ -4290,6 +4320,12 @@
       "requirement1": "2024-12-09 18:04:39 +0000"
     },
     "done": false
+  },
+  "ic2:pesu_minecart_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-12 19:31:31 +0000"
+    },
+    "done": true
   },
   "ic2:villager_o_mat_recipe_advancement": {
     "criteria": {
