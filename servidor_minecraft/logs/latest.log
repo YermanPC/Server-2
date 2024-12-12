@@ -3789,3 +3789,8 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [12Dec2024 10:55:53.296] [Netty Epoll Server IO #6/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/chat/FilterMask$Type
 [12Dec2024 10:56:09.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ClementePicaro has made the advancement [Sunken City]
 [12Dec2024 10:57:06.536] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/player/Player$BedSleepingProblem
+[12Dec2024 11:03:03.525] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/structure/StructureCheckResult
+[12Dec2024 11:03:04.116] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/material/MaterialColor$Brightness
+[12Dec2024 11:03:22.647] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting vazkii/quark/base/handler/SortingHandler$ItemType
+[12Dec2024 11:05:51.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ClementePicaro has made the advancement [Magic Writing]
+[12Dec2024 11:08:12.094] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting slimeknights/tconstruct/smeltery/block/entity/tank/ISmelteryTankHandler$FluidChange

@@ -1757,6 +1757,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/create_magic_scroll": {
+    "criteria": {
+      "has_magic_scroll": "2024-12-12 11:05:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/root": {
     "criteria": {
       "consumed_item": "2024-12-10 19:24:35 +0000"
