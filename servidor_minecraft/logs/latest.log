@@ -3961,3 +3961,7 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [12Dec2024 20:36:28.313] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to YermanPC...
 [12Dec2024 20:36:28.313] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
 [12Dec2024 20:36:28.314] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to YermanPC
+[12Dec2024 20:37:50.682] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting slimeknights/tconstruct/smeltery/block/entity/tank/ISmelteryTankHandler$FluidChange
+[12Dec2024 20:41:46.533] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Georgeann'/39479, l='ServerLevel[world]', x=175.30, y=63.06, z=-843.50] died, message: 'Georgeann was slain by Zombie'
+[12Dec2024 20:41:46.534] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Georgeann'/39479, l='ServerLevel[world]', x=175.30, y=63.06, z=-843.50] died: Georgeann was slain by Zombie
+[12Dec2024 20:46:55.868] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombieVillager['Georgeann'/44415, l='ServerLevel[world]', x=175.30, y=62.61, z=-843.50] died: Georgeann burned to death
