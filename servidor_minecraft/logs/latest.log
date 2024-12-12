@@ -451,3 +451,17 @@
 [12Dec2024 01:42:49.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AssaGM> Chester
 [12Dec2024 01:45:33.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElCachita_HD has made the advancement [Ambush]
 [12Dec2024 01:53:22.929] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ic2/core/block/base/features/IClickable$ClickAction
+[12Dec2024 01:57:48.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YermanPC has made the advancement [Tunnel Treasures]
+[12Dec2024 01:58:47.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AssaGM was slain by Skeleton
+[12Dec2024 01:58:47.737] [Server thread/INFO] [tombstone/]: The player AssaGM has successfully been saved
+[12Dec2024 01:58:49.410] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[12Dec2024 01:58:49.723] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/gossip/GossipType
+[12Dec2024 01:59:09.346] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting gollorum/signpost/utils/ServerType
+[12Dec2024 01:59:10.277] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting gollorum/signpost/interactions/Interactable$InteractionResult
+[12Dec2024 01:59:10.280] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting gollorum/signpost/interactions/InteractionInfo$Type
+[12Dec2024 02:00:05.625] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElCachita_HD lost connection: Disconnected
+[12Dec2024 02:00:05.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElCachita_HD left the game
+[12Dec2024 02:04:59.439] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[12Dec2024 02:04:59.439] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[12Dec2024 02:04:59.440] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[12Dec2024 02:04:59.440] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:

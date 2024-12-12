@@ -210,6 +210,12 @@
     },
     "done": true
   },
+  "lootr:1cart": {
+    "criteria": {
+      "opened_cart": "2024-12-12 01:57:48 +0000"
+    },
+    "done": true
+  },
   "ic2:capacity_pipe_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-09 03:16:45 +0000"
@@ -677,7 +683,8 @@
   "lootr:social": {
     "criteria": {
       "opened_barrel": "2024-12-09 03:47:11 +0000",
-      "opened_chest": "2024-12-09 03:47:13 +0000"
+      "opened_chest": "2024-12-09 03:47:13 +0000",
+      "opened_cart": "2024-12-12 01:57:48 +0000"
     },
     "done": false
   },
