@@ -3360,6 +3360,12 @@
     },
     "done": false
   },
+  "ic2:diamond_drill_silk_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-12 05:01:55 +0000"
+    },
+    "done": true
+  },
   "ic2:hydrated_charcoal_dust_mass_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-09 18:26:04 +0000"
