@@ -84,6 +84,12 @@
     },
     "done": true
   },
+  "ic2:nightvision_goggles_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-12 05:20:32 +0000"
+    },
+    "done": true
+  },
   "ic2:tfbp_biome_forestification_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-09 04:02:22 +0000"
@@ -147,6 +153,12 @@
   "ic2:iron_scaffold_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-09 20:23:59 +0000"
+    },
+    "done": true
+  },
+  "ic2:2x_insulated_iron_cable_2x_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-12 05:20:32 +0000"
     },
     "done": true
   },
@@ -318,6 +330,12 @@
     },
     "done": true
   },
+  "ic2:insulated_bronze_cable_0_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-12 05:20:32 +0000"
+    },
+    "done": true
+  },
   "mutantmonsters:root": {
     "criteria": {
       "killed_something": "2024-12-09 02:49:07 +0000"
@@ -333,6 +351,12 @@
   "ic2:switch_tube_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-09 03:45:24 +0000"
+    },
+    "done": true
+  },
+  "ic2:insulated_copper_cable_2_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-12 05:20:32 +0000"
     },
     "done": true
   },
@@ -366,9 +390,21 @@
     },
     "done": true
   },
+  "ic2:4x_insulated_iron_cable_0_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-12 05:20:32 +0000"
+    },
+    "done": true
+  },
   "iter_rpg:iter_root": {
     "criteria": {
       "iter_root": "2024-12-09 02:46:02 +0000"
+    },
+    "done": true
+  },
+  "ic2:4x_insulated_iron_cable_2x_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-12 05:20:32 +0000"
     },
     "done": true
   },
@@ -411,6 +447,12 @@
   "ic2:hopper_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-10 00:39:19 +0000"
+    },
+    "done": true
+  },
+  "ic2:2x_insulated_gold_cable_1_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-12 05:20:32 +0000"
     },
     "done": true
   },
@@ -810,6 +852,12 @@
     },
     "done": true
   },
+  "ic2:8x_insulated_iron_cable_3x_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-12 05:20:32 +0000"
+    },
+    "done": true
+  },
   "ic2:bronze_axe_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-09 02:49:49 +0000"
@@ -834,6 +882,12 @@
     },
     "done": true
   },
+  "ic2:rubber_boat_repair_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-12 05:20:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/voluntary_exile": {
     "criteria": {
       "voluntary_exile": "2024-12-09 23:38:43 +0000"
@@ -843,6 +897,18 @@
   "ic2:su_battery_5_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-09 03:47:47 +0000"
+    },
+    "done": true
+  },
+  "ic2:1x_insulated_iron_cable_1x_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-12 05:20:32 +0000"
+    },
+    "done": true
+  },
+  "ic2:quantum_accumulator_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-12 05:20:32 +0000"
     },
     "done": true
   },
@@ -876,6 +942,12 @@
     },
     "done": true
   },
+  "ic2:8x_insulated_iron_cable_2x_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-12 05:20:32 +0000"
+    },
+    "done": true
+  },
   "vtubruhlotrmobs:dost_base": {
     "criteria": {
       "dost_base": "2024-12-09 02:46:03 +0000"
@@ -891,6 +963,12 @@
   "ic2:teleport_tube_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-09 18:51:04 +0000"
+    },
+    "done": true
+  },
+  "ic2:2x_insulated_aluminum_cable_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-12 05:20:32 +0000"
     },
     "done": true
   },
@@ -915,6 +993,12 @@
   "ic2:su_battery_2_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-09 03:47:47 +0000"
+    },
+    "done": true
+  },
+  "ic2:2x_insulated_iron_cable_2_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-12 05:20:32 +0000"
     },
     "done": true
   },
@@ -954,6 +1038,12 @@
     },
     "done": true
   },
+  "ic2:4x_insulated_iron_cable_1x_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-12 05:20:32 +0000"
+    },
+    "done": true
+  },
   "ic2:rare_earth_chunk_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-09 03:15:53 +0000"
@@ -963,6 +1053,12 @@
   "ic2:advanced_alloy_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-09 20:23:59 +0000"
+    },
+    "done": true
+  },
+  "ic2:2x_insulated_bronze_cable_0_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-12 05:20:32 +0000"
     },
     "done": true
   },
@@ -1056,6 +1152,12 @@
     },
     "done": true
   },
+  "ic2:mv_chargepad_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-12 05:20:32 +0000"
+    },
+    "done": true
+  },
   "ic2:mining_laser_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-09 03:47:47 +0000"
@@ -1110,6 +1212,12 @@
     },
     "done": true
   },
+  "ic2:8x_insulated_iron_cable_4x_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-12 05:20:32 +0000"
+    },
+    "done": true
+  },
   "ic2:crop_harvester_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-10 00:39:19 +0000"
@@ -1119,6 +1227,12 @@
   "ic2:barrel_0_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-09 02:47:55 +0000"
+    },
+    "done": true
+  },
+  "ic2:4x_insulated_iron_cable_3x_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-12 05:20:32 +0000"
     },
     "done": true
   },
@@ -1188,6 +1302,12 @@
     },
     "done": true
   },
+  "ic2:hazmat_leggings_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-12 05:20:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/iron_tools": {
     "criteria": {
       "iron_pickaxe": "2024-12-09 03:18:10 +0000"
@@ -1197,6 +1317,12 @@
   "undead_unleashed:boo": {
     "criteria": {
       "boo": "2024-12-09 03:43:51 +0000"
+    },
+    "done": true
+  },
+  "ic2:4x_insulated_iron_cable_1_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-12 05:20:32 +0000"
     },
     "done": true
   },
@@ -1230,9 +1356,21 @@
     },
     "done": true
   },
+  "ic2:hazmat_chest_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-12 05:20:32 +0000"
+    },
+    "done": true
+  },
   "ic2:exp_collector_upgrade_1_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-09 04:12:59 +0000"
+    },
+    "done": true
+  },
+  "ic2:insulated_gold_cable_1_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-12 05:20:32 +0000"
     },
     "done": true
   },
@@ -1269,6 +1407,12 @@
   "ic2:iron_fence_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-09 20:23:59 +0000"
+    },
+    "done": true
+  },
+  "ic2:2x_insulated_bronze_cable_2_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-12 05:20:32 +0000"
     },
     "done": true
   },
@@ -1323,6 +1467,12 @@
   "ic2:iron_furnace_upgrade_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-09 03:15:22 +0000"
+    },
+    "done": true
+  },
+  "ic2:insulated_bronze_cable_1_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-12 05:20:32 +0000"
     },
     "done": true
   },
@@ -1420,6 +1570,12 @@
     },
     "done": false
   },
+  "ic2:electric_wood_gassifier_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-12 05:22:48 +0000"
+    },
+    "done": true
+  },
   "incendium:technical/using/ragnarok": {
     "criteria": {
       "log_spam_fixer": "2024-12-09 02:46:04 +0000"
@@ -1465,6 +1621,12 @@
   "ic2:base_teleporter_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-09 21:18:44 +0000"
+    },
+    "done": true
+  },
+  "ic2:rare_earth_extractor_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-12 05:22:48 +0000"
     },
     "done": true
   },
@@ -1836,6 +1998,12 @@
     },
     "done": true
   },
+  "ic2:insulated_aluminum_cable_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-12 05:20:32 +0000"
+    },
+    "done": true
+  },
   "ic2:parachute_module_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-09 02:49:49 +0000"
@@ -2070,6 +2238,12 @@
     },
     "done": true
   },
+  "ic2:4x_insulated_iron_cable_2_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-12 05:20:32 +0000"
+    },
+    "done": true
+  },
   "ic2:mug_cold_dark_coffee_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-09 18:26:04 +0000"
@@ -2196,6 +2370,12 @@
     },
     "done": true
   },
+  "ic2:8x_insulated_iron_cable_1x_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-12 05:20:32 +0000"
+    },
+    "done": true
+  },
   "ic2:bronze_shield_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-09 02:46:03 +0000"
@@ -2307,6 +2487,12 @@
   "tombstone:adventure/create_magic_scroll": {
     "criteria": {
       "has_magic_scroll": "2024-12-10 01:48:44 +0000"
+    },
+    "done": true
+  },
+  "ic2:uranium_enricher_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-12 05:22:48 +0000"
     },
     "done": true
   },
@@ -2648,6 +2834,12 @@
     },
     "done": true
   },
+  "ic2:2x_insulated_iron_cable_1_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-12 05:20:32 +0000"
+    },
+    "done": true
+  },
   "ic2:fluid_scanner_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-09 03:16:45 +0000"
@@ -2657,6 +2849,12 @@
   "ic2:su_battery_7_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-09 03:47:47 +0000"
+    },
+    "done": true
+  },
+  "ic2:build_extractor": {
+    "criteria": {
+      "hasItem": "2024-12-12 05:22:48 +0000"
     },
     "done": true
   },
@@ -3059,6 +3257,12 @@
     },
     "done": false
   },
+  "ic2:insulated_bronze_cable_2_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-12 05:20:32 +0000"
+    },
+    "done": true
+  },
   "ic2:static_boots_0_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-09 02:49:25 +0000"
@@ -3140,6 +3344,12 @@
   "ic2:insulated_gold_cable_0_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-09 03:49:33 +0000"
+    },
+    "done": true
+  },
+  "ic2:2x_insulated_gold_cable_0_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-12 05:20:32 +0000"
     },
     "done": true
   },
@@ -3242,6 +3452,12 @@
   "minecraft:adventure/ol_betsy": {
     "criteria": {
       "shot_crossbow": "2024-12-10 01:04:29 +0000"
+    },
+    "done": true
+  },
+  "ic2:rubber_sheet_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-12 05:20:32 +0000"
     },
     "done": true
   },
@@ -3366,6 +3582,12 @@
     },
     "done": true
   },
+  "ic2:2x_insulated_bronze_cable_3_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-12 05:20:32 +0000"
+    },
+    "done": true
+  },
   "ic2:hydrated_charcoal_dust_mass_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-09 18:26:04 +0000"
@@ -3420,11 +3642,23 @@
     },
     "done": false
   },
+  "ic2:2x_insulated_bronze_cable_1_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-12 05:20:32 +0000"
+    },
+    "done": true
+  },
   "corail_dt:recipes/corail_dt/disk_4_4": {
     "criteria": {
       "requirement1": "2024-12-09 03:49:33 +0000"
     },
     "done": false
+  },
+  "ic2:2x_insulated_iron_cable_1x_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-12 05:20:32 +0000"
+    },
+    "done": true
   },
   "ic2:silver_sign_recipe_advancement": {
     "criteria": {
@@ -3474,6 +3708,12 @@
     },
     "done": true
   },
+  "ic2:centrifugal_extractor_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-12 05:22:48 +0000"
+    },
+    "done": true
+  },
   "ic2:wooden_rotor_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-09 02:49:49 +0000"
@@ -3510,6 +3750,12 @@
     },
     "done": true
   },
+  "ic2:insulated_iron_cable_1_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-12 05:20:32 +0000"
+    },
+    "done": true
+  },
   "enigmaticlegacy:recipes/generic/animal_guidebook": {
     "criteria": {
       "has_items": "2024-12-09 03:48:08 +0000"
@@ -3531,6 +3777,12 @@
   "ic2:splitter_cable_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-09 03:45:24 +0000"
+    },
+    "done": true
+  },
+  "ic2:lv_chargepad_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-12 05:20:32 +0000"
     },
     "done": true
   },

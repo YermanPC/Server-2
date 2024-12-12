@@ -3971,3 +3971,5 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [12Dec2024 05:22:48.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YermanPC has made the advancement [Super Treetap]
 [12Dec2024 05:23:30.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [YermanPC: Set own game mode to Spectator Mode]
 [12Dec2024 05:23:56.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [YermanPC: Set own game mode to Survival Mode]
+[12Dec2024 05:27:29.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <YermanPC> fsaf
+[12Dec2024 05:32:23.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] fsaf
