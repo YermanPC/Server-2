@@ -4335,3 +4335,30 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [12Dec2024 22:25:26.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AssaGM has made the advancement [Knowledge raises the soul]
 [12Dec2024 22:26:14.650] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: FlacoSchiavi lost connection: Disconnected
 [12Dec2024 22:26:14.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FlacoSchiavi left the game
+[12Dec2024 22:31:27.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <YermanPC> fasf
+[12Dec2024 22:35:04.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AssaGM> no tengo ni idea
+[12Dec2024 22:35:12.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <YermanPC> 25 de febrero
+[12Dec2024 22:37:48.333] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 94
+[12Dec2024 22:37:48.407] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 95
+[12Dec2024 22:37:48.468] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 96
+[12Dec2024 22:37:48.480] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 97
+[12Dec2024 22:37:48.602] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 98
+[12Dec2024 22:37:48.603] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 99
+[12Dec2024 22:37:48.797] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 100
+[12Dec2024 22:37:48.797] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 101
+[12Dec2024 22:37:48.798] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 102
+[12Dec2024 22:37:48.798] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 103
+[12Dec2024 22:37:48.956] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 104
+[12Dec2024 22:37:48.998] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 105
+[12Dec2024 22:37:48.998] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 106
+[12Dec2024 22:37:48.998] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 107
+[12Dec2024 22:37:49.110] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 108
+[12Dec2024 22:37:49.187] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@d7bd7c8
+[12Dec2024 22:37:49.221] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: FlacoSchiavi[/127.142.187.145:59783] logged in with entity id 95157 at (-1823.6825564569679, 65.0, 2088.6648127959593)
+[12Dec2024 22:37:49.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FlacoSchiavi joined the game
+[12Dec2024 22:37:49.304] [Server thread/INFO] [Jade/]: Syncing config to FlacoSchiavi (449ffd90-91c7-3f92-9b23-cee774d68f1d)
+[12Dec2024 22:37:49.337] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to FlacoSchiavi...
+[12Dec2024 22:37:49.338] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[12Dec2024 22:37:49.338] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to FlacoSchiavi
+[12Dec2024 22:38:36.362] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/settings/main/Context
+[12Dec2024 22:39:39.360] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
