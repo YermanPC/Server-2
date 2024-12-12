@@ -209,6 +209,12 @@
     },
     "done": true
   },
+  "tconstruct:tools/part_builder": {
+    "criteria": {
+      "crafted_block": "2024-12-12 12:36:59 +0000"
+    },
+    "done": true
+  },
   "casinocraft:recipes/decorations/wool_red": {
     "criteria": {
       "has_wool": "2024-12-12 01:34:15 +0000"
@@ -4621,6 +4627,12 @@
   "ic2:uncompressed_super_cable_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-11 20:20:37 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:tools/tinker_station": {
+    "criteria": {
+      "crafted_block": "2024-12-12 12:35:32 +0000"
     },
     "done": true
   },
