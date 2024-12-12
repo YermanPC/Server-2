@@ -659,6 +659,7 @@
       "field": "2024-12-09 18:02:28 +0000",
       "orchard": "2024-12-10 01:24:01 +0000",
       "lavender_forest": "2024-12-10 01:24:40 +0000",
+      "mediterranean_forest": "2024-12-12 00:47:26 +0000",
       "coniferous_forest": "2024-12-09 18:02:11 +0000",
       "forested_field": "2024-12-09 18:53:24 +0000",
       "spider_nest": "2024-12-11 00:01:47 +0000",
@@ -2997,6 +2998,12 @@
       "hasItem": "2024-12-09 18:22:51 +0000"
     },
     "done": true
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "requirement": "2024-12-12 00:52:17 +0000"
+    },
+    "done": false
   },
   "enigmaticlegacy:recipes/generic/the_twist": {
     "criteria": {

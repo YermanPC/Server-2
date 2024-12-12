@@ -179,3 +179,36 @@
 [12Dec2024 00:34:40.619] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
 [12Dec2024 00:36:47.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AssaGM> durisimo
 [12Dec2024 00:44:22.047] [Netty Epoll Server IO #6/INFO] [com.teampotato.redirector.Redirector/]: Redirecting xyz/przemyk/simpleplanes/network/ChangeThrottlePacket$Type
+[12Dec2024 00:46:48.391] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Yomach the Toxic'/13563, l='ServerLevel[world]', x=-605.67, y=-39.00, z=296.30] died: Yomach the Toxic was slain by ElCachita_HD
+[12Dec2024 00:47:40.958] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-71, y=-48, z=-26}
+[12Dec2024 00:48:26.762] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/citadel/animation/AnimationHandler
+[12Dec2024 00:49:37.430] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[12Dec2024 00:49:37.431] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[12Dec2024 00:49:37.431] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[12Dec2024 00:49:37.431] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[12Dec2024 00:49:47.314] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2473ms or 49 ticks behind
+[12Dec2024 00:49:55.269] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=35, y=-58, z=-32}
+[12Dec2024 00:51:17.966] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting slimeknights/tconstruct/smeltery/block/entity/tank/ISmelteryTankHandler$FluidChange
+[12Dec2024 00:53:07.870] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/server/commands/FillCommand$Mode
+[12Dec2024 00:53:13.105] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Helicopter (vehicle of AssaGM) moved wrongly! 0.2705170478157015
+[12Dec2024 00:53:39.861] [Worker-Main-2/WARN] [ModdingLegacy/StructureGel/]: [structure_gel] Empty or non-existent pool: minecraft:
+[12Dec2024 00:53:39.862] [Worker-Main-2/WARN] [ModdingLegacy/StructureGel/]: [structure_gel] Empty or non-existent pool: minecraft:
+[12Dec2024 00:53:39.863] [Worker-Main-2/WARN] [ModdingLegacy/StructureGel/]: [structure_gel] Empty or non-existent pool: minecraft:
+[12Dec2024 00:53:40.126] [Worker-Main-2/WARN] [ModdingLegacy/StructureGel/]: [structure_gel] Empty or non-existent pool: minecraft:
+[12Dec2024 00:53:56.653] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[12Dec2024 00:54:17.772] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[12Dec2024 00:54:17.773] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[12Dec2024 00:54:17.774] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[12Dec2024 00:54:17.774] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[12Dec2024 00:54:17.775] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[12Dec2024 00:54:17.776] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[12Dec2024 00:54:17.776] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[12Dec2024 00:54:17.776] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[12Dec2024 00:54:17.776] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[12Dec2024 00:54:17.776] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[12Dec2024 00:54:17.776] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[12Dec2024 00:54:27.337] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[12Dec2024 00:54:39.148] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[12Dec2024 00:54:39.149] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[12Dec2024 00:54:39.149] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[12Dec2024 00:54:39.149] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
