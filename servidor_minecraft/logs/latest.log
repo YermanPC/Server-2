@@ -4404,3 +4404,23 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [12Dec2024 23:05:02.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <FlacoSchiavi> AAAAAAAAAA
 [12Dec2024 23:07:39.022] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Jose'/107762, l='ServerLevel[world]', x=-2000.63, y=244.00, z=2100.69] died, message: 'Jose burned to death'
 [12Dec2024 23:07:39.023] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Jose'/107762, l='ServerLevel[world]', x=-2000.63, y=244.00, z=2100.69] died: Jose burned to death
+[12Dec2024 23:15:38.193] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Faustino'/104023, l='ServerLevel[world]', x=193.50, y=61.00, z=-840.43] died, message: 'Faustino suffocated in a wall'
+[12Dec2024 23:15:38.193] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Faustino'/104023, l='ServerLevel[world]', x=193.50, y=61.00, z=-840.43] died: Faustino suffocated in a wall
+[12Dec2024 23:16:25.451] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=163, y=63, z=-829} BlockPos{x=164, y=61, z=-829}
+[12Dec2024 23:16:25.452] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=163, y=63, z=-829} BlockPos{x=164, y=61, z=-829}
+[12Dec2024 23:16:25.453] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=163, y=63, z=-830} BlockPos{x=165, y=61, z=-829}
+[12Dec2024 23:16:25.474] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3769ms or 75 ticks behind
+[12Dec2024 23:16:27.055] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=168, y=63, z=-827} BlockPos{x=170, y=61, z=-826}
+[12Dec2024 23:16:30.575] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=180, y=64, z=-833} BlockPos{x=180, y=62, z=-833}
+[12Dec2024 23:16:30.625] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=180, y=64, z=-833} BlockPos{x=180, y=62, z=-833}
+[12Dec2024 23:16:32.707] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=181, y=64, z=-838} BlockPos{x=181, y=62, z=-838}
+[12Dec2024 23:16:42.717] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
+[12Dec2024 23:16:45.907] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: FlacoSchiavi lost connection: Disconnected
+[12Dec2024 23:16:45.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FlacoSchiavi left the game
+[12Dec2024 23:16:52.823] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=183, y=64, z=-833} BlockPos{x=185, y=62, z=-832}
+[12Dec2024 23:17:07.400] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2345ms or 46 ticks behind
+[12Dec2024 23:17:22.285] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AssaGM lost connection: Disconnected
+[12Dec2024 23:17:22.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AssaGM left the game
+[12Dec2024 23:17:49.372] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2267ms or 45 ticks behind
+[12Dec2024 23:18:31.166] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/level/NoteBlockEvent$Note
+[12Dec2024 23:18:31.169] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/level/NoteBlockEvent$Octave
