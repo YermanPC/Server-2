@@ -3918,3 +3918,5 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [12Dec2024 13:31:05.931] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElCachita_HD lost connection: Disconnected
 [12Dec2024 13:31:05.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElCachita_HD left the game
 [12Dec2024 13:32:31.115] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ulterlands:combustle but it was marked as removed already
+[12Dec2024 13:38:44.065] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ulterlands:combustle but it was marked as removed already
+[12Dec2024 13:40:11.521] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AssaGM has made the advancement [Roses Are Red, Rubies Are Too!]
