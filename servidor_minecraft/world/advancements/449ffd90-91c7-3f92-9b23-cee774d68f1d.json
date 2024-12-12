@@ -2229,6 +2229,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/create_magic_scroll": {
+    "criteria": {
+      "has_magic_scroll": "2024-12-12 22:17:57 +0000"
+    },
+    "done": true
+  },
   "enigmaticlegacy:book/brewing/haste_potion": {
     "criteria": {
       "has_items": "2024-12-11 00:13:21 +0000"
@@ -2920,6 +2926,12 @@
   "ic2:obscurator_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-10 18:05:10 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/ink_root": {
+    "criteria": {
+      "requirement": "2024-12-12 22:17:57 +0000"
     },
     "done": true
   },

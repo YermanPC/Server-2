@@ -4301,6 +4301,12 @@
     },
     "done": true
   },
+  "tconstruct:smeltery/structure": {
+    "criteria": {
+      "open_smeltery": "2024-12-12 22:13:06 +0000"
+    },
+    "done": true
+  },
   "ic2:geothermal_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-12 03:29:47 +0000"

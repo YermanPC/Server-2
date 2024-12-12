@@ -197,6 +197,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:book/materials/netherite": {
+    "criteria": {
+      "has_scrap": "2024-12-12 22:14:48 +0000"
+    },
+    "done": true
+  },
   "ic2:advanced_machine_block_1_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-10 03:11:00 +0000"
@@ -322,6 +328,12 @@
       "shards_of_the_past": "2024-12-09 03:02:08 +0000"
     },
     "done": true
+  },
+  "enigmaticlegacy:recipes/generic/soul_compass": {
+    "criteria": {
+      "has_items1": "2024-12-12 22:15:01 +0000"
+    },
+    "done": false
   },
   "ic2:bronze_cable_recipe_advancement": {
     "criteria": {
@@ -1792,6 +1804,12 @@
   "ic2:lv_solar_panel_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-11 19:25:26 +0000"
+    },
+    "done": true
+  },
+  "ic2:advanced_drill_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-12 22:15:01 +0000"
     },
     "done": true
   },
@@ -3388,9 +3406,21 @@
     },
     "done": true
   },
+  "enigmaticlegacy:book/tools/forbidden_axe": {
+    "criteria": {
+      "has_the_recipe": "2024-12-12 22:15:01 +0000"
+    },
+    "done": true
+  },
   "ic2:quantum_accumulator_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-10 01:00:01 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/materials/ancient_debris": {
+    "criteria": {
+      "has_scrap": "2024-12-12 22:14:48 +0000"
     },
     "done": true
   },
@@ -4281,7 +4311,8 @@
   },
   "enigmaticlegacy:recipes/generic/infernal_shield": {
     "criteria": {
-      "has_parent_recipe": "2024-12-09 02:46:24 +0000"
+      "has_parent_recipe": "2024-12-09 02:46:24 +0000",
+      "has_items2": "2024-12-12 22:15:01 +0000"
     },
     "done": false
   },
@@ -4418,6 +4449,12 @@
   "ic2:wrench_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-11 20:44:36 +0000"
+    },
+    "done": true
+  },
+  "ic2:advanced_tree_tap_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-12 22:15:01 +0000"
     },
     "done": true
   },
@@ -4715,6 +4752,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:recipes/generic/forbidden_axe": {
+    "criteria": {
+      "has_items": "2024-12-12 22:15:01 +0000"
+    },
+    "done": true
+  },
   "ic2:mv_unloader_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-10 01:02:52 +0000"
@@ -4730,6 +4773,12 @@
   "ic2:cropmatron_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-09 03:31:33 +0000"
+    },
+    "done": true
+  },
+  "ic2:advanced_hoe_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-12 22:15:01 +0000"
     },
     "done": true
   },
@@ -4807,7 +4856,8 @@
   },
   "enigmaticlegacy:recipes/generic/the_twist": {
     "criteria": {
-      "has_parent_recipe": "2024-12-09 02:46:24 +0000"
+      "has_parent_recipe": "2024-12-09 02:46:24 +0000",
+      "has_items3": "2024-12-12 22:15:01 +0000"
     },
     "done": false
   },
@@ -4881,6 +4931,12 @@
   "ic2:geothermal_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-10 01:02:52 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/accessories/monster_charm": {
+    "criteria": {
+      "has_the_recipe": "2024-12-12 22:15:01 +0000"
     },
     "done": true
   },
@@ -5131,6 +5187,12 @@
     },
     "done": true
   },
+  "cisco_mod:divine_ruby_advancement": {
+    "criteria": {
+      "divine_ruby_advancement": "2024-12-12 22:16:42 +0000"
+    },
+    "done": true
+  },
   "ic2:lv_loader_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-09 02:47:31 +0000"
@@ -5239,6 +5301,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:recipes/generic/monster_charm": {
+    "criteria": {
+      "has_items": "2024-12-12 22:15:01 +0000"
+    },
+    "done": true
+  },
   "incendium:technical/new_player": {
     "criteria": {
       "requirement": "2024-12-09 02:46:25 +0000"
@@ -5259,7 +5327,8 @@
   },
   "enigmaticlegacy:recipes/generic/berserk_charm": {
     "criteria": {
-      "has_parent_recipe": "2024-12-10 01:11:46 +0000"
+      "has_parent_recipe": "2024-12-10 01:11:46 +0000",
+      "has_items2": "2024-12-12 22:15:01 +0000"
     },
     "done": false
   },
@@ -5286,6 +5355,12 @@
       "has_parent_recipe": "2024-12-10 01:11:46 +0000"
     },
     "done": false
+  },
+  "ic2:advanced_chainsaw_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-12 22:15:01 +0000"
+    },
+    "done": true
   },
   "corail_dt:recipes/corail_dt/disk_4_1": {
     "criteria": {

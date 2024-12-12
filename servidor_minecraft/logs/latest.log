@@ -4257,3 +4257,44 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [12Dec2024 22:08:07.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AssaGM has made the advancement [DJ! DJ!]
 [12Dec2024 22:08:07.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AssaGM has reached the goal [Listen directly]
 [12Dec2024 22:08:07.681] [Netty Epoll Server IO #2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting dev/felnull/imp/networking/IMPPackets$MusicRingResponseStateType
+[12Dec2024 22:10:01.495] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: YermanPC lost connection: Disconnected
+[12Dec2024 22:10:01.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YermanPC left the game
+[12Dec2024 22:12:32.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <FlacoSchiavi> a
+[12Dec2024 22:12:44.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AssaGM> give FlacoSchiave minecraft:ender_pearl 64
+[12Dec2024 22:13:33.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gave 1    [Ender Pearl] to FlacoSchiavi
+[12Dec2024 22:13:52.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FlacoSchiavi was struck down by Legioner
+[12Dec2024 22:13:52.767] [Server thread/INFO] [tombstone/]: The player FlacoSchiavi has successfully been saved
+[12Dec2024 22:13:53.971] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[12Dec2024 22:13:57.178] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2273ms or 45 ticks behind
+[12Dec2024 22:15:37.836] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2031ms or 40 ticks behind
+[12Dec2024 22:15:55.537] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2732ms or 54 ticks behind
+[12Dec2024 22:16:17.419] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind
+[12Dec2024 22:16:36.464] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[12Dec2024 22:16:42.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElCachita_HD has completed the challenge [Red as a ruby]
+[12Dec2024 22:16:54.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FlacoSchiavi was chopped to bits by Skirmisher
+[12Dec2024 22:16:54.514] [Server thread/INFO] [tombstone/]: The player FlacoSchiavi has successfully been saved
+[12Dec2024 22:16:56.201] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[12Dec2024 22:17:12.360] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[12Dec2024 22:17:31.806] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[12Dec2024 22:17:57.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FlacoSchiavi has made the advancement [Tools of the Trade]
+[12Dec2024 22:17:57.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FlacoSchiavi has made the advancement [Magic Writing]
+[12Dec2024 22:18:07.709] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2054ms or 41 ticks behind
+[12Dec2024 22:18:08.560] [Server thread/WARN] [tombstone/]: The death event of the player FlacoSchiavi was canceled by another mod
+[12Dec2024 22:18:08.619] [Server thread/INFO] [tombstone/]: The player FlacoSchiavi has successfully been saved
+[12Dec2024 22:18:09.834] [Server thread/WARN] [tombstone/]: The death event of the player FlacoSchiavi was canceled by another mod
+[12Dec2024 22:18:09.887] [Server thread/INFO] [tombstone/]: The player FlacoSchiavi has successfully been saved
+[12Dec2024 22:18:11.003] [Server thread/WARN] [tombstone/]: The death event of the player FlacoSchiavi was canceled by another mod
+[12Dec2024 22:18:11.079] [Server thread/INFO] [tombstone/]: The player FlacoSchiavi has successfully been saved
+[12Dec2024 22:18:20.345] [Server thread/WARN] [tombstone/]: The death event of the player FlacoSchiavi was canceled by another mod
+[12Dec2024 22:18:20.413] [Server thread/INFO] [tombstone/]: The player FlacoSchiavi has successfully been saved
+[12Dec2024 22:18:37.706] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[12Dec2024 22:18:43.359] [Server thread/WARN] [tombstone/]: The death event of the player FlacoSchiavi was canceled by another mod
+[12Dec2024 22:18:43.411] [Server thread/INFO] [tombstone/]: The player FlacoSchiavi has successfully been saved
+[12Dec2024 22:19:06.010] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[12Dec2024 22:19:06.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FlacoSchiavi was struck down by Legioner
+[12Dec2024 22:19:06.323] [Server thread/INFO] [tombstone/]: The player FlacoSchiavi has successfully been saved
+[12Dec2024 22:19:07.611] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[12Dec2024 22:19:27.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FlacoSchiavi was chopped to bits by Skirmisher
+[12Dec2024 22:19:27.390] [Server thread/INFO] [tombstone/]: The player FlacoSchiavi has successfully been saved
+[12Dec2024 22:19:28.901] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[12Dec2024 22:19:34.367] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
