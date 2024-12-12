@@ -4316,6 +4316,7 @@
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
       "sweet_berries": "2024-12-10 03:55:01 +0000",
+      "sugar_cane": "2024-12-12 22:53:04 +0000",
       "carrot": "2024-12-12 02:46:57 +0000"
     },
     "done": false
