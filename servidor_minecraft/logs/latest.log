@@ -3870,3 +3870,51 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [12Dec2024 13:07:56.101] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting dev/felnull/imp/networking/IMPPackets$MusicSyncType
 [12Dec2024 13:07:56.105] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting dev/felnull/imp/music/resource/AuthorityInfo$AuthorityType
 [12Dec2024 13:08:19.925] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting dev/felnull/imp/server/music/MusicManager$PlayListGetType
+[12Dec2024 13:13:25.776] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 94
+[12Dec2024 13:13:25.777] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 95
+[12Dec2024 13:13:25.862] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 96
+[12Dec2024 13:13:25.901] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 97
+[12Dec2024 13:13:25.923] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 98
+[12Dec2024 13:13:25.997] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 99
+[12Dec2024 13:13:26.026] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 100
+[12Dec2024 13:13:26.151] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 101
+[12Dec2024 13:13:26.181] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 102
+[12Dec2024 13:13:26.181] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 103
+[12Dec2024 13:13:26.276] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 104
+[12Dec2024 13:13:26.276] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 105
+[12Dec2024 13:13:26.400] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 106
+[12Dec2024 13:13:26.400] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 107
+[12Dec2024 13:13:26.402] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 108
+[12Dec2024 13:13:26.529] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@661ce653
+[12Dec2024 13:13:26.575] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: AssaGM[/127.61.57.82:57801] logged in with entity id 9091 at (259.78666514195027, 70.0, -832.6999999880791)
+[12Dec2024 13:13:26.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AssaGM joined the game
+[12Dec2024 13:13:26.696] [Server thread/INFO] [Jade/]: Syncing config to AssaGM (0aa832e0-dc0d-351a-bc32-39acc5000292)
+[12Dec2024 13:13:26.724] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to AssaGM...
+[12Dec2024 13:13:26.724] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[12Dec2024 13:13:26.725] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to AssaGM
+[12Dec2024 13:13:46.460] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AssaGM> que asco
+[12Dec2024 13:14:38.916] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2053ms or 41 ticks behind
+[12Dec2024 13:14:50.416] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/vehicle/Boat$Status
+[12Dec2024 13:15:06.642] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/citadel/animation/AnimationHandler
+[12Dec2024 13:17:44.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElCachita_HD has made the advancement [Ahoy Captain]
+[12Dec2024 13:17:54.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AssaGM> aaaaaaaaaaa
+[12Dec2024 13:17:55.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AssaGM> boe
+[12Dec2024 13:18:03.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AssaGM> como exploras eh
+[12Dec2024 13:19:22.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElCachita_HD has completed the challenge [Centennial]
+[12Dec2024 13:22:48.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElCachita_HD> cala boca moninho
+[12Dec2024 13:23:31.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElCachita_HD has reached the goal [Something Unnatural]
+[12Dec2024 13:23:41.999] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/stal111/forbidden_arcanus/common/entity/lostsoul/LostSoul$Variant
+[12Dec2024 13:25:47.125] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8213ms or 164 ticks behind
+[12Dec2024 13:25:51.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AssaGM> t
+[12Dec2024 13:26:11.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElCachita_HD has reached the goal [Earthslime Island]
+[12Dec2024 13:26:15.799] [Worker-Main-59/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/entity/ShulkerBoxBlockEntity$AnimationStatus
+[12Dec2024 13:26:42.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElCachita_HD has made the advancement [Jaws]
+[12Dec2024 13:26:48.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElCachita_HD> basta loco
+[12Dec2024 13:27:15.789] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6376ms or 127 ticks behind
+[12Dec2024 13:27:29.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElCachita_HD has made the advancement [Super Creeps]
+[12Dec2024 13:30:55.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElCachita_HD> loco voy a uir a estuduar
+[12Dec2024 13:30:57.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElCachita_HD> salgo
+[12Dec2024 13:31:04.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElCachita_HD> vos quedate su qeres
+[12Dec2024 13:31:05.931] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElCachita_HD lost connection: Disconnected
+[12Dec2024 13:31:05.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElCachita_HD left the game
+[12Dec2024 13:32:31.115] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ulterlands:combustle but it was marked as removed already
