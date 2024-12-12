@@ -197,6 +197,12 @@
     },
     "done": true
   },
+  "ic2:cfoam_wool_yellow_3_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-12 01:32:38 +0000"
+    },
+    "done": true
+  },
   "ic2:uranium_nether_star_single_0_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-11 19:24:33 +0000"
@@ -808,6 +814,12 @@
   "ic2:redirector_slave_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-10 03:12:22 +0000"
+    },
+    "done": true
+  },
+  "ic2:cfoam_wool_yellow_2_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-12 01:32:38 +0000"
     },
     "done": true
   },
@@ -1734,12 +1746,6 @@
       "hasItem": "2024-12-09 03:33:02 +0000"
     },
     "done": true
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "requirement": "2024-12-12 01:22:44 +0000"
-    },
-    "done": false
   },
   "ic2:su_battery_0_recipe_advancement": {
     "criteria": {
@@ -2856,6 +2862,12 @@
     },
     "done": false
   },
+  "ic2:cfoam_wool_green_2_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-12 01:32:36 +0000"
+    },
+    "done": true
+  },
   "ic2:exp_collector_upgrade_0_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-10 03:11:00 +0000"
@@ -2951,10 +2963,13 @@
       "muskeg": "2024-12-10 01:26:47 +0000",
       "cold_desert": "2024-12-10 01:10:48 +0000",
       "maple_woods": "2024-12-10 14:29:47 +0000",
+      "field": "2024-12-12 01:24:50 +0000",
       "coniferous_forest": "2024-12-10 13:40:02 +0000",
       "spider_nest": "2024-12-12 00:30:38 +0000",
+      "seasonal_orchard": "2024-12-12 01:23:34 +0000",
       "seasonal_forest": "2024-12-09 03:00:18 +0000",
       "fir_clearing": "2024-12-10 13:27:06 +0000",
+      "pumpkin_patch": "2024-12-12 01:24:09 +0000",
       "snowy_coniferous_forest": "2024-12-12 00:22:10 +0000",
       "tundra": "2024-12-09 20:01:46 +0000"
     },
@@ -2963,6 +2978,12 @@
   "iammusicplayer:iammusicplayer/root": {
     "criteria": {
       "iammusicplayer": "2024-12-10 01:16:24 +0000"
+    },
+    "done": true
+  },
+  "casinocraft:recipes/decorations/wool_green": {
+    "criteria": {
+      "has_wool": "2024-12-12 01:32:36 +0000"
     },
     "done": true
   },
@@ -3354,6 +3375,12 @@
     },
     "done": true
   },
+  "casinocraft:recipes/decorations/wool_yellow": {
+    "criteria": {
+      "has_wool": "2024-12-12 01:32:38 +0000"
+    },
+    "done": true
+  },
   "ic2:drain_upgrade_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-11 20:37:39 +0000"
@@ -3447,6 +3474,12 @@
   "ic2:exp_collector_upgrade_1_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-11 20:38:59 +0000"
+    },
+    "done": true
+  },
+  "ic2:cfoam_wool_green_3_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-12 01:32:36 +0000"
     },
     "done": true
   },
