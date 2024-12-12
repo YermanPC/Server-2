@@ -3982,3 +3982,8 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [12Dec2024 05:48:50.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [YermanPC: Set own game mode to Survival Mode]
 [12Dec2024 05:49:49.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [YermanPC: Gave 64    [Overclocker Upgrade] to YermanPC]
 [12Dec2024 05:54:49.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YermanPC has made the advancement [Epic Squeeze]
+[12Dec2024 06:03:40.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [YermanPC: Set own game mode to Creative Mode]
+[12Dec2024 06:03:44.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [YermanPC: Set own game mode to Spectator Mode]
+[12Dec2024 06:03:49.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [YermanPC: Set own game mode to Survival Mode]
+[12Dec2024 06:04:19.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <YermanPC> fasf
+[12Dec2024 06:04:28.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] dsfd
