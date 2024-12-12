@@ -769,6 +769,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:recipes/generic/enchantment_transposer": {
+    "criteria": {
+      "has_items": "2024-12-12 19:16:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/lava_bucket": {
     "criteria": {
       "lava_bucket": "2024-12-11 21:20:13 +0000"
@@ -1058,6 +1064,12 @@
   "ic2:glass_cold_fruit_tea_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-09 18:04:22 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/misc/enchantment_transposer": {
+    "criteria": {
+      "has_the_recipe": "2024-12-12 19:16:45 +0000"
     },
     "done": true
   },
@@ -2100,6 +2112,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:recipes/generic/curse_transposer": {
+    "criteria": {
+      "has_parent_recipe": "2024-12-12 19:16:45 +0000"
+    },
+    "done": false
+  },
   "ic2:root": {
     "criteria": {
       "hasCrafting": "2024-12-09 02:50:31 +0000"
@@ -2301,6 +2319,12 @@
   "ic2:cfoam_wool_black_3_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-10 19:33:22 +0000"
+    },
+    "done": true
+  },
+  "casinocraft:recipes/decorations/item_prismarine": {
+    "criteria": {
+      "has_prismarine": "2024-12-12 19:16:39 +0000"
     },
     "done": true
   },
