@@ -1165,6 +1165,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/ambush": {
+    "criteria": {
+      "coded_trigger": "2024-12-12 01:45:33 +0000"
+    },
+    "done": true
+  },
   "ic2:frequency_transmitter_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-10 01:03:17 +0000"
@@ -1770,12 +1776,6 @@
       "hasItem": "2024-12-09 03:33:02 +0000"
     },
     "done": true
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "requirement": "2024-12-12 01:42:48 +0000"
-    },
-    "done": false
   },
   "ic2:su_battery_0_recipe_advancement": {
     "criteria": {
@@ -3107,6 +3107,7 @@
       "minecraft:spider": "2024-12-09 03:44:52 +0000",
       "minecraft:creeper": "2024-12-09 03:01:38 +0000",
       "quark:forgotten": "2024-12-09 03:18:24 +0000",
+      "minecraft:phantom": "2024-12-12 01:45:33 +0000",
       "minecraft:husk": "2024-12-09 03:36:38 +0000",
       "minecraft:cave_spider": "2024-12-09 03:07:56 +0000",
       "minecraft:enderman": "2024-12-09 19:50:35 +0000",

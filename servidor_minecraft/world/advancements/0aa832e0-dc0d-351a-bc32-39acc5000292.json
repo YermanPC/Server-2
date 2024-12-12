@@ -1871,6 +1871,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:book/relics/void_stone": {
+    "criteria": {
+      "has_items": "2024-12-12 01:43:55 +0000"
+    },
+    "done": true
+  },
   "ic2:condensator_lap_repair_redstone_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-09 18:22:51 +0000"
