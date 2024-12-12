@@ -324,6 +324,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:recipes/generic/tome_uncrafting/tattered_tome": {
+    "criteria": {
+      "has_items": "2024-12-12 19:01:28 +0000"
+    },
+    "done": true
+  },
   "ic2:chips_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-10 19:20:36 +0000"
@@ -1279,6 +1285,12 @@
     },
     "done": true
   },
+  "lootr:50loot": {
+    "criteria": {
+      "loot_stat": "2024-12-12 18:54:01 +0000"
+    },
+    "done": true
+  },
   "ic2:flesh_ball_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-10 19:22:51 +0000"
@@ -1570,6 +1582,12 @@
   "tombstone:adventure/find_grave_dust": {
     "criteria": {
       "from_undead": "2024-12-10 19:22:49 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/get_ham": {
+    "criteria": {
+      "ham": "2024-12-12 18:57:01 +0000"
     },
     "done": true
   },
@@ -2114,7 +2132,7 @@
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "requirement": "2024-12-12 18:52:31 +0000"
+      "requirement": "2024-12-12 19:02:33 +0000"
     },
     "done": false
   },
