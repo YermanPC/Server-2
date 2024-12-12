@@ -3192,6 +3192,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2024-12-12 19:40:42 +0000"
+    },
+    "done": true
+  },
   "tconstruct:world/sky_island": {
     "criteria": {
       "found_island": "2024-12-09 22:42:26 +0000"
