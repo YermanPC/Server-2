@@ -4298,3 +4298,40 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [12Dec2024 22:19:27.390] [Server thread/INFO] [tombstone/]: The player FlacoSchiavi has successfully been saved
 [12Dec2024 22:19:28.901] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
 [12Dec2024 22:19:34.367] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[12Dec2024 22:19:53.203] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2048ms or 40 ticks behind
+[12Dec2024 22:20:10.366] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2211ms or 44 ticks behind
+[12Dec2024 22:20:18.996] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElCachita_HD lost connection: Disconnected
+[12Dec2024 22:20:18.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElCachita_HD left the game
+[12Dec2024 22:23:00.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FlacoSchiavi was slain by Ravager
+[12Dec2024 22:23:00.904] [Server thread/INFO] [tombstone/]: The player FlacoSchiavi has successfully been saved
+[12Dec2024 22:23:02.533] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[12Dec2024 22:23:13.901] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: /127.51.19.16:59519 lost connection: Disconnected
+[12Dec2024 22:23:27.043] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 94
+[12Dec2024 22:23:27.098] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 95
+[12Dec2024 22:23:27.167] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 96
+[12Dec2024 22:23:27.167] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 97
+[12Dec2024 22:23:27.291] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 98
+[12Dec2024 22:23:27.294] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 99
+[12Dec2024 22:23:27.547] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 100
+[12Dec2024 22:23:27.547] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 101
+[12Dec2024 22:23:27.547] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 102
+[12Dec2024 22:23:27.547] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 103
+[12Dec2024 22:23:27.548] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 104
+[12Dec2024 22:23:27.671] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 105
+[12Dec2024 22:23:27.671] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 106
+[12Dec2024 22:23:27.671] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 107
+[12Dec2024 22:23:27.855] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 108
+[12Dec2024 22:23:27.959] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@6af68ddd
+[12Dec2024 22:23:27.996] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: YermanPC[/127.51.19.16:34899] logged in with entity id 90717 at (-74.18941368912293, 106.0, -301.1302150393272)
+[12Dec2024 22:23:28.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YermanPC joined the game
+[12Dec2024 22:23:28.080] [Server thread/INFO] [Jade/]: Syncing config to YermanPC (1b3ec6f0-a351-3a71-b967-c2b87eb9546d)
+[12Dec2024 22:23:28.112] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to YermanPC...
+[12Dec2024 22:23:28.112] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[12Dec2024 22:23:28.113] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to YermanPC
+[12Dec2024 22:23:31.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FlacoSchiavi was slain by Ravager
+[12Dec2024 22:23:31.165] [Server thread/INFO] [tombstone/]: The player FlacoSchiavi has successfully been saved
+[12Dec2024 22:23:32.615] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[12Dec2024 22:25:22.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FlacoSchiavi has made the advancement [Knowledge raises the soul]
+[12Dec2024 22:25:26.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AssaGM has made the advancement [Knowledge raises the soul]
+[12Dec2024 22:26:14.650] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: FlacoSchiavi lost connection: Disconnected
+[12Dec2024 22:26:14.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FlacoSchiavi left the game

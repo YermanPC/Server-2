@@ -2067,6 +2067,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:book/decorations/lamp": {
+    "criteria": {
+      "has_the_recipe": "2024-12-12 22:21:50 +0000"
+    },
+    "done": true
+  },
   "ic2:circuit_1_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-09 18:22:51 +0000"
@@ -2194,6 +2200,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:recipes/generic/lamps": {
+    "criteria": {
+      "has_core_block": "2024-12-12 22:21:50 +0000"
+    },
+    "done": true
+  },
   "dungeons_enhanced:seven_world_wonders": {
     "criteria": {
       "entered_deep_crypt": "2024-12-09 23:26:17 +0000"
@@ -2239,6 +2251,12 @@
   "ic2:cfoam_1_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-12 02:42:54 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/choose_knowledge": {
+    "criteria": {
+      "coded_trigger": "2024-12-12 22:25:26 +0000"
     },
     "done": true
   },
@@ -2627,6 +2645,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:book/decorations/shroomlamp": {
+    "criteria": {
+      "has_the_recipe": "2024-12-12 22:21:50 +0000"
+    },
+    "done": true
+  },
   "ic2:mug_cold_tea_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-10 00:30:59 +0000"
@@ -2718,9 +2742,10 @@
   },
   "enigmaticlegacy:recipes/generic/redstonelamps": {
     "criteria": {
+      "has_parent_recipe": "2024-12-12 22:21:50 +0000",
       "has_core_block": "2024-12-10 01:20:00 +0000"
     },
-    "done": false
+    "done": true
   },
   "ic2:aluminum_shovel_recipe_advancement": {
     "criteria": {
@@ -3268,6 +3293,12 @@
   "minecraft:adventure/kill_a_mob": {
     "criteria": {
       "minecraft:zombie": "2024-12-09 02:51:46 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/decorations/redstone_lantern": {
+    "criteria": {
+      "has_the_recipe": "2024-12-12 22:21:50 +0000"
     },
     "done": true
   },
@@ -4369,9 +4400,10 @@
   },
   "enigmaticlegacy:recipes/generic/shroomlamps": {
     "criteria": {
+      "has_parent_recipe": "2024-12-12 22:21:50 +0000",
       "has_core_block": "2024-12-11 21:06:39 +0000"
     },
-    "done": false
+    "done": true
   },
   "ic2:solar_helmet_0_recipe_advancement": {
     "criteria": {
