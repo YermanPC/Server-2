@@ -754,12 +754,6 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-12 01:12:44 +0000"
-    },
-    "done": false
-  },
   "ic2:tfbp_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-09 03:47:47 +0000"
@@ -993,12 +987,6 @@
       "hasItem": "2024-12-10 02:01:31 +0000"
     },
     "done": true
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-12 01:12:44 +0000"
-    },
-    "done": false
   },
   "ic2:lap_pack_recipe_advancement": {
     "criteria": {
@@ -1270,12 +1258,6 @@
     },
     "done": true
   },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-12 01:12:44 +0000"
-    },
-    "done": false
-  },
   "ic2:aluminum_axe_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-09 02:49:49 +0000"
@@ -1348,12 +1330,6 @@
     },
     "done": true
   },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-12 01:12:44 +0000"
-    },
-    "done": false
-  },
   "enigmaticlegacy:book/enchantments/generic": {
     "criteria": {
       "has_items": "2024-12-10 00:59:27 +0000"
@@ -1411,12 +1387,6 @@
       "hasItem": "2024-12-09 03:17:55 +0000"
     },
     "done": true
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-12 01:12:44 +0000"
-    },
-    "done": false
   },
   "ic2:normal_nano_armor_helmet_recipe_advancement": {
     "criteria": {
@@ -1712,12 +1682,6 @@
       "hasItem": "2024-12-09 18:26:04 +0000"
     },
     "done": true
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-12 01:12:44 +0000"
-    },
-    "done": false
   },
   "ic2:memory_expansion_recipe_advancement": {
     "criteria": {
@@ -2356,12 +2320,6 @@
     },
     "done": true
   },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-12 01:12:44 +0000"
-    },
-    "done": false
-  },
   "ic2:generator_1_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-09 03:15:22 +0000"
@@ -2562,12 +2520,6 @@
     },
     "done": true
   },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-12 01:12:44 +0000"
-    },
-    "done": false
-  },
   "tombstone:adventure/first_knowledge": {
     "criteria": {
       "coded_trigger": "2024-12-09 03:07:50 +0000"
@@ -2627,12 +2579,6 @@
       "hasItem": "2024-12-09 03:47:47 +0000"
     },
     "done": true
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-12 01:12:44 +0000"
-    },
-    "done": false
   },
   "enigmaticlegacy:recipes/generic/the_twist": {
     "criteria": {
@@ -3303,12 +3249,6 @@
     },
     "done": true
   },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-12 01:12:44 +0000"
-    },
-    "done": false
-  },
   "ic2:bronze_sword_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-09 02:49:49 +0000"
@@ -3333,12 +3273,6 @@
     },
     "done": true
   },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-12 01:12:44 +0000"
-    },
-    "done": false
-  },
   "enigmaticlegacy:recipes/generic/cursed_scroll": {
     "criteria": {
       "has_parent_recipe": "2024-12-09 18:05:54 +0000"
@@ -3350,12 +3284,6 @@
       "hasItem": "2024-12-09 02:47:55 +0000"
     },
     "done": true
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-12 01:12:44 +0000"
-    },
-    "done": false
   },
   "corail_dt:recipes/corail_dt/disk_4_1": {
     "criteria": {

@@ -353,3 +353,65 @@
 [12Dec2024 01:15:16.394] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to AssaGM
 [12Dec2024 01:16:00.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <YermanPC> nastic
 [12Dec2024 01:16:05.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElCachita_HD> mas lenta tu porqueria
+[12Dec2024 01:16:21.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AssaGM was shot by Forge Sentry
+[12Dec2024 01:16:21.358] [Server thread/INFO] [tombstone/]: The player AssaGM has successfully been saved
+[12Dec2024 01:16:22.892] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[12Dec2024 01:16:22.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <YermanPC> pero segura
+[12Dec2024 01:16:31.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AssaGM> amazing in the people in the sky
+[12Dec2024 01:16:56.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElCachita_HD> bof?
+[12Dec2024 01:17:20.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AssaGM was slain by Magma Cube
+[12Dec2024 01:17:20.373] [Server thread/INFO] [tombstone/]: The player AssaGM has successfully been saved
+[12Dec2024 01:17:22.910] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[12Dec2024 01:19:30.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AssaGM> chester
+[12Dec2024 01:19:38.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AssaGM> con el tinker se puede la netherite?
+[12Dec2024 01:19:44.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElCachita_HD> no se
+[12Dec2024 01:19:49.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <YermanPC> no
+[12Dec2024 01:20:06.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <YermanPC> fijate igual dale a la r arriba de un lingote en el jei
+[12Dec2024 01:20:22.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <YermanPC> si te sale como pestaña la caldera se puede
+[12Dec2024 01:20:56.965] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Forge Sentry'/40364, l='ServerLevel[world]', x=-3200.95, y=14.10, z=-2966.01] died: Forge Sentry suffocated in a wall
+[12Dec2024 01:21:29.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <YermanPC> si se puede assa
+[12Dec2024 01:21:38.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AssaGM was slain by Magma Cube
+[12Dec2024 01:21:38.949] [Server thread/INFO] [tombstone/]: The player AssaGM has successfully been saved
+[12Dec2024 01:21:40.524] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[12Dec2024 01:21:43.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <YermanPC> necesitas el debris
+[12Dec2024 01:21:49.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <YermanPC> y no morirte
+[12Dec2024 01:23:02.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AssaGM was burnt to a crisp whilst fighting Magma Cube
+[12Dec2024 01:23:02.526] [Server thread/INFO] [tombstone/]: The player AssaGM has successfully been saved
+[12Dec2024 01:23:04.022] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[12Dec2024 01:23:13.737] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AssaGM lost connection: Disconnected
+[12Dec2024 01:23:13.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AssaGM left the game
+[12Dec2024 01:25:19.416] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 94
+[12Dec2024 01:25:19.423] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 95
+[12Dec2024 01:25:19.423] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 96
+[12Dec2024 01:25:19.557] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 97
+[12Dec2024 01:25:19.557] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 98
+[12Dec2024 01:25:19.557] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 99
+[12Dec2024 01:25:19.713] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 100
+[12Dec2024 01:25:19.731] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 101
+[12Dec2024 01:25:19.731] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 102
+[12Dec2024 01:25:19.853] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 103
+[12Dec2024 01:25:19.897] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 104
+[12Dec2024 01:25:19.898] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 105
+[12Dec2024 01:25:19.969] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 106
+[12Dec2024 01:25:19.969] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 107
+[12Dec2024 01:25:19.997] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 108
+[12Dec2024 01:25:20.074] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@5dc76d89
+[12Dec2024 01:25:20.102] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: AssaGM[/127.61.57.82:44247] logged in with entity id 43336 at (-3136.5, -7.9375, -2931.5)
+[12Dec2024 01:25:20.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AssaGM joined the game
+[12Dec2024 01:25:20.154] [Server thread/INFO] [Jade/]: Syncing config to AssaGM (0aa832e0-dc0d-351a-bc32-39acc5000292)
+[12Dec2024 01:25:20.175] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to AssaGM...
+[12Dec2024 01:25:20.175] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[12Dec2024 01:25:20.176] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to AssaGM
+[12Dec2024 01:25:49.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AssaGM was burnt to a crisp whilst fighting Foundry Guardian
+[12Dec2024 01:25:49.408] [Server thread/INFO] [tombstone/]: The player AssaGM has successfully been saved
+[12Dec2024 01:25:52.820] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[12Dec2024 01:25:53.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <YermanPC> uuu
+[12Dec2024 01:25:56.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <YermanPC> ta potente ese
+[12Dec2024 01:26:04.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AssaGM> ou fak
+[12Dec2024 01:26:12.018] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-300, y=88, z=-553} BlockPos{x=-305, y=87, z=-554}
+[12Dec2024 01:26:12.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AssaGM> no me dio llave encantada
+[12Dec2024 01:26:12.350] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-300, y=88, z=-553} BlockPos{x=-302, y=87, z=-555}
+[12Dec2024 01:26:12.415] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-300, y=88, z=-553} BlockPos{x=-302, y=87, z=-555}
+[12Dec2024 01:26:12.469] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-300, y=88, z=-553} BlockPos{x=-302, y=87, z=-555}
+[12Dec2024 01:26:13.486] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-300, y=88, z=-555} BlockPos{x=-299, y=87, z=-556}
+[12Dec2024 01:26:13.536] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-300, y=88, z=-555} BlockPos{x=-299, y=87, z=-556}
