@@ -3927,3 +3927,37 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [12Dec2024 20:26:29.581] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to YermanPC...
 [12Dec2024 20:26:29.582] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
 [12Dec2024 20:26:29.583] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to YermanPC
+[12Dec2024 20:27:11.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <YermanPC> fsaf
+[12Dec2024 20:27:16.042] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ic2/api/energy/tile/IEnergySource$SourceType
+[12Dec2024 20:27:16.408] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ic2/core/inventory/slot/IGhostSlot$GhostType
+[12Dec2024 20:30:53.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YermanPC drowned
+[12Dec2024 20:30:53.115] [Server thread/INFO] [tombstone/]: The player YermanPC has successfully been saved
+[12Dec2024 20:31:16.378] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[12Dec2024 20:31:37.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YermanPC has reached the goal [Discreet Search]
+[12Dec2024 20:34:23.526] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Glen'/39321, l='ServerLevel[world]', x=207.30, y=35.00, z=-820.30] died, message: 'Glen was slain by Swarmer'
+[12Dec2024 20:34:23.527] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Glen'/39321, l='ServerLevel[world]', x=207.30, y=35.00, z=-820.30] died: Glen was slain by Swarmer
+[12Dec2024 20:35:00.236] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: YermanPC lost connection: Timed out
+[12Dec2024 20:35:00.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YermanPC left the game
+[12Dec2024 20:35:00.313] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[12Dec2024 20:36:27.259] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 94
+[12Dec2024 20:36:27.307] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 95
+[12Dec2024 20:36:27.327] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 96
+[12Dec2024 20:36:27.507] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 97
+[12Dec2024 20:36:27.508] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 98
+[12Dec2024 20:36:27.508] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 99
+[12Dec2024 20:36:27.719] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 100
+[12Dec2024 20:36:27.762] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 101
+[12Dec2024 20:36:27.762] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 102
+[12Dec2024 20:36:27.762] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 103
+[12Dec2024 20:36:27.891] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 104
+[12Dec2024 20:36:27.892] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 105
+[12Dec2024 20:36:27.892] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 106
+[12Dec2024 20:36:27.892] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 107
+[12Dec2024 20:36:28.079] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 108
+[12Dec2024 20:36:28.179] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@2973037e
+[12Dec2024 20:36:28.206] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: YermanPC[/127.51.19.16:48893] logged in with entity id 43100 at (-82.01961180554157, 106.0, -309.70953074700276)
+[12Dec2024 20:36:28.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YermanPC joined the game
+[12Dec2024 20:36:28.285] [Server thread/INFO] [Jade/]: Syncing config to YermanPC (1b3ec6f0-a351-3a71-b967-c2b87eb9546d)
+[12Dec2024 20:36:28.313] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to YermanPC...
+[12Dec2024 20:36:28.313] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[12Dec2024 20:36:28.314] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to YermanPC
