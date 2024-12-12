@@ -3844,3 +3844,7 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [12Dec2024 02:50:28.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AssaGM has made the advancement [Nerves of Steel]
 [12Dec2024 02:50:50.677] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/player/Player$BedSleepingProblem
 [12Dec2024 02:50:55.879] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/DoubleBlockCombiner$BlockType
+[12Dec2024 03:03:47.613] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Murray'/1456, l='ServerLevel[world]', x=204.48, y=38.00, z=-813.92] died, message: 'Murray was slain by Zombie'
+[12Dec2024 03:03:47.614] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Murray'/1456, l='ServerLevel[world]', x=204.48, y=38.00, z=-813.92] died: Murray was slain by Zombie
+[12Dec2024 03:04:33.871] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/vehicle/Boat$Status
+[12Dec2024 03:10:20.043] [Netty Epoll Server IO #6/INFO] [com.teampotato.redirector.Redirector/]: Redirecting xyz/przemyk/simpleplanes/network/ChangeThrottlePacket$Type
