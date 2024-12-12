@@ -114,6 +114,12 @@
     },
     "done": true
   },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_boots": "2024-12-12 18:37:12 +0000"
+    },
+    "done": true
+  },
   "ic2:aluminum_sign_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-10 19:20:36 +0000"
@@ -339,7 +345,8 @@
   "dungeons_enhanced:ambitious_explorer": {
     "criteria": {
       "entered_stables": "2024-12-11 20:50:59 +0000",
-      "entered_deep_crypt": "2024-12-11 00:21:42 +0000"
+      "entered_deep_crypt": "2024-12-11 00:21:42 +0000",
+      "entered_large_dungeon": "2024-12-12 18:35:39 +0000"
     },
     "done": false
   },
@@ -514,6 +521,12 @@
       "earth": "2024-12-12 10:35:39 +0000"
     },
     "done": false
+  },
+  "dungeons_enhanced:thats_a_dungeon": {
+    "criteria": {
+      "entered_large_dungeon": "2024-12-12 18:35:39 +0000"
+    },
+    "done": true
   },
   "corail_dt:tutorial/root": {
     "criteria": {
@@ -1158,6 +1171,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:recipes/generic/lore_inscriber": {
+    "criteria": {
+      "has_recipe_result": "2024-12-12 18:40:22 +0000"
+    },
+    "done": true
+  },
   "ic2:durable_sawblade_upgrade_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-10 19:20:36 +0000"
@@ -1763,6 +1782,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:book/misc/lore_inscriber": {
+    "criteria": {
+      "has_the_recipe": "2024-12-12 18:40:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/mine_stone": {
     "criteria": {
       "get_stone": "2024-12-10 19:27:35 +0000"
@@ -2087,12 +2112,6 @@
     },
     "done": true
   },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "requirement": "2024-12-12 18:32:11 +0000"
-    },
-    "done": false
-  },
   "enigmaticlegacy:recipes/generic/the_twist": {
     "criteria": {
       "has_parent_recipe": "2024-12-10 19:14:42 +0000"
@@ -2283,6 +2302,12 @@
   "ic2:ev_battery_station_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-10 19:20:31 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:main/lore_inscriber": {
+    "criteria": {
+      "etherium": "2024-12-12 18:40:22 +0000"
     },
     "done": true
   },

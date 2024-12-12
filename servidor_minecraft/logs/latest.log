@@ -3832,3 +3832,18 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [12Dec2024 18:30:21.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AssaGM> me atrapaste
 [12Dec2024 18:31:13.437] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting dev/felnull/imp/server/music/MusicManager$PlayListGetType
 [12Dec2024 18:33:08.100] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/vehicle/Boat$Status
+[12Dec2024 18:35:39.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ClementePicaro has made the advancement [What a Dungeon!]
+[12Dec2024 18:35:43.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ClementePicaro> apa
+[12Dec2024 18:36:05.549] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/stal111/forbidden_arcanus/common/entity/lostsoul/LostSoul$Variant
+[12Dec2024 18:37:12.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ClementePicaro has made the advancement [Cover Me with Diamonds]
+[12Dec2024 18:37:50.635] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/player/Player$BedSleepingProblem
+[12Dec2024 18:38:17.233] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/IronGolem$Crackiness
+[12Dec2024 18:39:44.381] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id visualworkbench:crafting_table
+[12Dec2024 18:40:22.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ClementePicaro has made the advancement [Lore Writer]
+[12Dec2024 18:40:55.903] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/common/gui/SortBy
+[12Dec2024 18:41:48.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AssaGM has made the advancement [Stone Free]
+[12Dec2024 18:43:03.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AssaGM was burnt to a crisp whilst fighting Creeper
+[12Dec2024 18:43:03.879] [Server thread/INFO] [tombstone/]: The player AssaGM has successfully been saved
+[12Dec2024 18:43:05.333] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[12Dec2024 18:43:13.027] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AssaGM lost connection: Disconnected
+[12Dec2024 18:43:13.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AssaGM left the game
