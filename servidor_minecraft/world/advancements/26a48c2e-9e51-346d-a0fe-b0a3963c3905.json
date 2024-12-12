@@ -203,6 +203,18 @@
     },
     "done": true
   },
+  "ic2:cfoam_wool_red_3_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-12 01:34:15 +0000"
+    },
+    "done": true
+  },
+  "casinocraft:recipes/decorations/wool_red": {
+    "criteria": {
+      "has_wool": "2024-12-12 01:34:15 +0000"
+    },
+    "done": true
+  },
   "ic2:uranium_nether_star_single_0_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-11 19:24:33 +0000"
@@ -418,6 +430,12 @@
   "ic2:stacking_tube_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-09 03:12:52 +0000"
+    },
+    "done": true
+  },
+  "ic2:cfoam_wool_orange_3_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-12 01:36:21 +0000"
     },
     "done": true
   },
@@ -1441,6 +1459,12 @@
     },
     "done": true
   },
+  "ic2:cfoam_wool_orange_2_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-12 01:36:21 +0000"
+    },
+    "done": true
+  },
   "corail_dt:recipes/corail_dt/disk_1_0": {
     "criteria": {
       "requirement1": "2024-12-09 02:47:31 +0000"
@@ -1747,6 +1771,12 @@
     },
     "done": true
   },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "requirement": "2024-12-12 01:42:48 +0000"
+    },
+    "done": false
+  },
   "ic2:su_battery_0_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-09 03:12:52 +0000"
@@ -2039,6 +2069,12 @@
   "ic2:2x_insulated_gold_cable_0_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-10 01:00:01 +0000"
+    },
+    "done": true
+  },
+  "ic2:cfoam_wool_red_2_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-12 01:34:15 +0000"
     },
     "done": true
   },
@@ -4588,6 +4624,12 @@
   "ic2:ev_battery_station_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-09 02:47:31 +0000"
+    },
+    "done": true
+  },
+  "casinocraft:recipes/decorations/wool_orange": {
+    "criteria": {
+      "has_wool": "2024-12-12 01:36:21 +0000"
     },
     "done": true
   },
