@@ -424,12 +424,17 @@
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
       "muskeg": "2024-12-11 00:40:45 +0000",
+      "shrubland": "2024-12-12 10:46:47 +0000",
       "cold_desert": "2024-12-10 19:18:50 +0000",
       "field": "2024-12-11 01:07:15 +0000",
+      "orchard": "2024-12-12 10:46:36 +0000",
       "coniferous_forest": "2024-12-10 19:19:03 +0000",
+      "cherry_blossom_grove": "2024-12-12 10:42:38 +0000",
+      "dune_beach": "2024-12-12 10:47:03 +0000",
       "seasonal_forest": "2024-12-11 00:17:11 +0000",
       "fir_clearing": "2024-12-11 00:37:50 +0000",
       "pumpkin_patch": "2024-12-11 21:13:22 +0000",
+      "grassland": "2024-12-12 10:42:35 +0000",
       "snowy_coniferous_forest": "2024-12-11 00:41:59 +0000",
       "snowy_fir_clearing": "2024-12-11 00:40:49 +0000",
       "tundra": "2024-12-10 19:26:40 +0000",
@@ -1043,8 +1048,10 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:deep_ocean": "2024-12-12 10:41:25 +0000",
       "minecraft:frozen_river": "2024-12-11 00:09:40 +0000",
       "minecraft:windswept_hills": "2024-12-11 00:40:44 +0000",
+      "minecraft:beach": "2024-12-12 10:43:10 +0000",
       "minecraft:river": "2024-12-11 00:37:28 +0000",
       "minecraft:snowy_plains": "2024-12-10 19:14:43 +0000",
       "minecraft:snowy_taiga": "2024-12-11 00:41:08 +0000",
@@ -1054,6 +1061,7 @@
       "minecraft:ice_spikes": "2024-12-11 00:09:43 +0000",
       "minecraft:frozen_ocean": "2024-12-11 00:41:26 +0000",
       "minecraft:windswept_forest": "2024-12-11 00:43:35 +0000",
+      "minecraft:ocean": "2024-12-12 10:41:29 +0000",
       "minecraft:snowy_beach": "2024-12-11 00:05:46 +0000",
       "minecraft:windswept_gravelly_hills": "2024-12-11 00:39:02 +0000",
       "minecraft:plains": "2024-12-10 19:21:08 +0000"
@@ -1515,6 +1523,7 @@
       "cooked_porkchop": "2024-12-11 01:01:32 +0000",
       "baked_potato": "2024-12-11 20:51:34 +0000",
       "bread": "2024-12-10 19:29:18 +0000",
+      "golden_apple": "2024-12-12 10:46:03 +0000",
       "rotten_flesh": "2024-12-10 19:25:19 +0000",
       "melon_slice": "2024-12-10 19:24:35 +0000"
     },

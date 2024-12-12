@@ -943,6 +943,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:book/misc/infinimeal": {
+    "criteria": {
+      "has_the_recipe": "2024-12-12 10:42:22 +0000"
+    },
+    "done": true
+  },
   "ic2:electric_wood_gassifier_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-10 03:13:01 +0000"
@@ -1777,6 +1783,12 @@
     },
     "done": true
   },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "requirement": "2024-12-12 10:47:22 +0000"
+    },
+    "done": false
+  },
   "ic2:su_battery_0_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-09 03:12:52 +0000"
@@ -1902,6 +1914,12 @@
       "hasItem": "2024-12-11 20:23:34 +0000"
     },
     "done": true
+  },
+  "enigmaticlegacy:recipes/generic/twisted_heart": {
+    "criteria": {
+      "has_items": "2024-12-12 10:42:22 +0000"
+    },
+    "done": false
   },
   "simplyswords:grant_book_on_first_join": {
     "criteria": {
@@ -3906,6 +3924,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:book/materials/earth_heart": {
+    "criteria": {
+      "has_items": "2024-12-12 10:42:22 +0000"
+    },
+    "done": true
+  },
   "ic2:void_tube_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-10 01:04:06 +0000"
@@ -4200,6 +4224,12 @@
   "ic2:mowing_tool_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-10 01:02:52 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:recipes/generic/infinimeal": {
+    "criteria": {
+      "has_items": "2024-12-12 10:42:22 +0000"
     },
     "done": true
   },
