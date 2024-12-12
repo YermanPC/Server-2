@@ -1,4 +1,10 @@
 {
+  "cataclysm:find_sunken_city": {
+    "criteria": {
+      "factory": "2024-12-12 10:56:09 +0000"
+    },
+    "done": true
+  },
   "ic2:mv_charge_bench_kit_indirect_gold_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-10 19:20:31 +0000"
@@ -348,6 +354,12 @@
       "hasItem": "2024-12-11 21:13:36 +0000"
     },
     "done": true
+  },
+  "enigmaticlegacy:recipes/generic/redstonelamps": {
+    "criteria": {
+      "has_core_block": "2024-12-12 10:51:43 +0000"
+    },
+    "done": false
   },
   "ic2:aluminum_shovel_recipe_advancement": {
     "criteria": {
@@ -1697,6 +1709,12 @@
     },
     "done": false
   },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:cow": "2024-12-12 10:48:20 +0000"
+    },
+    "done": false
+  },
   "corail_dt:recipes/corail_dt/disk_1_4": {
     "criteria": {
       "requirement1": "2024-12-11 19:45:35 +0000"
@@ -2141,6 +2159,12 @@
       "has_parent_recipe": "2024-12-11 21:01:54 +0000"
     },
     "done": false
+  },
+  "dungeons_arise:find_small_blimp": {
+    "criteria": {
+      "location0": "2024-12-12 10:50:59 +0000"
+    },
+    "done": true
   },
   "tombstone:adventure/ashes_and_bones": {
     "criteria": {
@@ -2621,6 +2645,12 @@
   "ic2:silver_sign_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-10 19:20:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2024-12-12 10:48:20 +0000"
     },
     "done": true
   },
