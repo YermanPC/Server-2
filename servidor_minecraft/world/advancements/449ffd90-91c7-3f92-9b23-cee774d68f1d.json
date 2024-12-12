@@ -240,6 +240,12 @@
     },
     "done": true
   },
+  "ic2:pixelfoam_space_bean_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-12 21:46:47 +0000"
+    },
+    "done": true
+  },
   "ic2:iv_battery_station_kit_indirect_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-09 03:28:14 +0000"
@@ -732,6 +738,8 @@
       "minecraft:witch": "2024-12-09 03:58:52 +0000",
       "minecraft:cave_spider": "2024-12-10 18:59:55 +0000",
       "minecraft:enderman": "2024-12-09 04:09:39 +0000",
+      "minecraft:silverfish": "2024-12-12 21:34:41 +0000",
+      "minecraft:stray": "2024-12-12 21:58:39 +0000",
       "minecraft:vex": "2024-12-09 17:52:46 +0000",
       "minecraft:zombie": "2024-12-09 03:20:35 +0000",
       "minecraft:drowned": "2024-12-11 00:12:35 +0000"
@@ -837,6 +845,12 @@
   "ic2:big_ranged_od_scanner_0_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-09 04:01:43 +0000"
+    },
+    "done": true
+  },
+  "ic2:sawmill_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-12 21:49:34 +0000"
     },
     "done": true
   },
@@ -1806,6 +1820,12 @@
   "ic2:advanced_circuit_0_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-09 03:58:53 +0000"
+    },
+    "done": true
+  },
+  "takesapillage:bastille": {
+    "criteria": {
+      "in_bastille": "2024-12-12 22:02:01 +0000"
     },
     "done": true
   },
@@ -3219,6 +3239,12 @@
   "ic2:planter_pot_red_sand_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-09 18:54:29 +0000"
+    },
+    "done": true
+  },
+  "ic2:diamond_drill_silk_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-12 21:33:43 +0000"
     },
     "done": true
   },

@@ -4178,3 +4178,82 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [12Dec2024 21:36:55.144] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3689ms or 73 ticks behind
 [12Dec2024 21:37:13.095] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2990ms or 59 ticks behind
 [12Dec2024 21:37:30.529] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2474ms or 49 ticks behind
+[12Dec2024 21:39:02.415] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[12Dec2024 21:39:39.944] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_horse_armor
+[12Dec2024 21:41:56.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <FlacoSchiavi> aaaaaa
+[12Dec2024 21:41:58.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <FlacoSchiavi> asddasd
+[12Dec2024 21:42:30.292] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_horse_armor
+[12Dec2024 21:44:46.441] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=69, y=17, z=99} BlockPos{x=69, y=15, z=99}
+[12Dec2024 21:46:10.265] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: YermanPC lost connection: Timed out
+[12Dec2024 21:46:10.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YermanPC left the game
+[12Dec2024 21:46:41.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElCachita_HD has made the advancement [Hidden in the Depths]
+[12Dec2024 21:47:02.035] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-20, y=16, z=37} BlockPos{x=-37, y=10, z=40}
+[12Dec2024 21:47:02.160] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-37, y=11, z=40} BlockPos{x=-38, y=10, z=40}
+[12Dec2024 21:47:38.166] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 94
+[12Dec2024 21:47:38.206] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 95
+[12Dec2024 21:47:38.233] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 96
+[12Dec2024 21:47:38.402] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 97
+[12Dec2024 21:47:38.402] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 98
+[12Dec2024 21:47:38.402] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 99
+[12Dec2024 21:47:38.622] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 100
+[12Dec2024 21:47:38.626] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 101
+[12Dec2024 21:47:38.627] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 102
+[12Dec2024 21:47:38.627] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 103
+[12Dec2024 21:47:38.789] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 104
+[12Dec2024 21:47:38.790] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 105
+[12Dec2024 21:47:38.790] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 106
+[12Dec2024 21:47:38.790] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 107
+[12Dec2024 21:47:38.974] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 108
+[12Dec2024 21:47:39.111] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@23767acb
+[12Dec2024 21:47:39.155] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: YermanPC[/127.51.19.16:47165] logged in with entity id 72324 at (-68.59395284747521, 106.22815383000227, -294.3561148175783)
+[12Dec2024 21:47:39.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YermanPC joined the game
+[12Dec2024 21:47:39.334] [Server thread/INFO] [Jade/]: Syncing config to YermanPC (1b3ec6f0-a351-3a71-b967-c2b87eb9546d)
+[12Dec2024 21:47:39.395] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to YermanPC...
+[12Dec2024 21:47:39.395] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[12Dec2024 21:47:39.396] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to YermanPC
+[12Dec2024 21:50:56.894] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2039ms or 40 ticks behind
+[12Dec2024 22:00:58.753] [Worker-Main-287/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/horse/Variant
+[12Dec2024 22:00:58.768] [Worker-Main-287/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/horse/Markings
+[12Dec2024 22:01:41.750] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2095ms or 41 ticks behind
+[12Dec2024 22:02:01.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FlacoSchiavi has made the advancement [Eh-eh-oh, eh-oh]
+[12Dec2024 22:02:37.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FlacoSchiavi was chopped to bits by Skirmisher
+[12Dec2024 22:02:37.560] [Server thread/INFO] [tombstone/]: The player FlacoSchiavi has successfully been saved
+[12Dec2024 22:02:39.604] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[12Dec2024 22:05:19.007] [Worker-Main-281/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=114, y=-23, z=87}
+[12Dec2024 22:05:19.032] [Worker-Main-277/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=124, y=-23, z=87}
+[12Dec2024 22:06:31.346] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting dev/felnull/imp/block/BoomboxData$ButtonType
+[12Dec2024 22:06:41.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FlacoSchiavi hit the ground too hard whilst trying to escape Legioner
+[12Dec2024 22:06:41.385] [Server thread/INFO] [tombstone/]: The player FlacoSchiavi has successfully been saved
+[12Dec2024 22:06:42.983] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[12Dec2024 22:06:49.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FlacoSchiavi was sniped by Archer
+[12Dec2024 22:06:49.131] [Server thread/INFO] [tombstone/]: The player FlacoSchiavi has successfully been saved
+[12Dec2024 22:06:50.592] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[12Dec2024 22:07:22.979] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: FlacoSchiavi lost connection: Disconnected
+[12Dec2024 22:07:22.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FlacoSchiavi left the game
+[12Dec2024 22:07:34.751] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 94
+[12Dec2024 22:07:34.816] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 95
+[12Dec2024 22:07:34.823] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 96
+[12Dec2024 22:07:34.994] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 97
+[12Dec2024 22:07:34.998] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 98
+[12Dec2024 22:07:34.998] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 99
+[12Dec2024 22:07:35.190] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 100
+[12Dec2024 22:07:35.191] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 101
+[12Dec2024 22:07:35.219] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 102
+[12Dec2024 22:07:35.219] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 103
+[12Dec2024 22:07:35.358] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 104
+[12Dec2024 22:07:35.362] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 105
+[12Dec2024 22:07:35.366] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 106
+[12Dec2024 22:07:35.370] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 107
+[12Dec2024 22:07:35.522] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 108
+[12Dec2024 22:07:35.652] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@70f19bcd
+[12Dec2024 22:07:35.684] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: FlacoSchiavi[/127.142.187.145:51893] logged in with entity id 81678 at (-102.61637996365124, 72.0, 18.63255011978105)
+[12Dec2024 22:07:35.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FlacoSchiavi joined the game
+[12Dec2024 22:07:35.848] [Server thread/INFO] [Jade/]: Syncing config to FlacoSchiavi (449ffd90-91c7-3f92-9b23-cee774d68f1d)
+[12Dec2024 22:07:35.879] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to FlacoSchiavi...
+[12Dec2024 22:07:35.880] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[12Dec2024 22:07:35.880] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to FlacoSchiavi
+[12Dec2024 22:08:00.707] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting dev/felnull/imp/music/SpatialType
+[12Dec2024 22:08:07.488] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting dev/felnull/imp/networking/IMPPackets$MusicRingStateType
+[12Dec2024 22:08:07.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AssaGM has made the advancement [DJ! DJ!]
+[12Dec2024 22:08:07.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AssaGM has reached the goal [Listen directly]
+[12Dec2024 22:08:07.681] [Netty Epoll Server IO #2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting dev/felnull/imp/networking/IMPPackets$MusicRingResponseStateType

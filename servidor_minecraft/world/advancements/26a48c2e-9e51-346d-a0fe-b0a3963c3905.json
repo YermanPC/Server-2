@@ -11,6 +11,12 @@
     },
     "done": true
   },
+  "ic2:pressure_alloy_furnace_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-12 21:45:04 +0000"
+    },
+    "done": true
+  },
   "tconstruct:tools/materials_and_you": {
     "criteria": {
       "crafted_book": "2024-12-09 02:46:25 +0000"
@@ -292,6 +298,12 @@
       "log_spam_fixer": "2024-12-09 02:46:25 +0000"
     },
     "done": false
+  },
+  "ic2:obsidian_magma_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-12 21:44:39 +0000"
+    },
+    "done": true
   },
   "minecraft:story/obtain_armor": {
     "criteria": {
@@ -684,6 +696,12 @@
   "ic2:mv_charging_bench_bronze_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-09 02:47:31 +0000"
+    },
+    "done": true
+  },
+  "ic2:pressure_alloy_furnace_structure_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-12 21:45:04 +0000"
     },
     "done": true
   },
@@ -1193,6 +1211,7 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
+      "minecraft:nether_wastes": "2024-12-12 21:33:13 +0000",
       "minecraft:basalt_deltas": "2024-12-12 21:14:20 +0000"
     },
     "done": false
@@ -1676,6 +1695,12 @@
   "iammusicplayer:iammusicplayer/listen_to_remote_music": {
     "criteria": {
       "listen_to_remote_music": "2024-12-11 00:25:25 +0000"
+    },
+    "done": true
+  },
+  "ic2:refinery_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-12 21:45:04 +0000"
     },
     "done": true
   },
@@ -3309,6 +3334,7 @@
       "minecraft:slime": "2024-12-12 13:26:12 +0000",
       "quark:forgotten": "2024-12-09 03:18:24 +0000",
       "minecraft:phantom": "2024-12-12 01:45:33 +0000",
+      "minecraft:zombified_piglin": "2024-12-12 21:41:08 +0000",
       "minecraft:wither_skeleton": "2024-12-12 21:29:50 +0000",
       "minecraft:husk": "2024-12-09 03:36:38 +0000",
       "minecraft:cave_spider": "2024-12-09 03:07:56 +0000",
@@ -4172,6 +4198,12 @@
   "ic2:parachute_module_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-09 02:47:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2024-12-12 21:46:41 +0000"
     },
     "done": true
   },

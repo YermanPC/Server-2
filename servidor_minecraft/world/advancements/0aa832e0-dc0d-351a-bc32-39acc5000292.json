@@ -347,6 +347,12 @@
     },
     "done": true
   },
+  "iammusicplayer:iammusicplayer/listen_to_music": {
+    "criteria": {
+      "listen_to_music": "2024-12-12 22:08:07 +0000"
+    },
+    "done": true
+  },
   "dungeons_plus:adventure/find_warped_garden": {
     "criteria": {
       "in_structure": "2024-12-11 00:24:32 +0000"
@@ -1535,6 +1541,12 @@
   "lootr:10loot": {
     "criteria": {
       "loot_stat": "2024-12-09 23:06:55 +0000"
+    },
+    "done": true
+  },
+  "iammusicplayer:iammusicplayer/listen_to_remote_music": {
+    "criteria": {
+      "listen_to_remote_music": "2024-12-12 22:08:07 +0000"
     },
     "done": true
   },
