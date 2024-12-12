@@ -212,3 +212,96 @@
 [12Dec2024 00:54:39.149] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
 [12Dec2024 00:54:39.149] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
 [12Dec2024 00:54:39.149] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[12Dec2024 00:55:28.329] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[12Dec2024 00:55:28.330] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[12Dec2024 00:55:31.252] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-71, y=-48, z=-26}
+[12Dec2024 00:55:34.193] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2052ms or 41 ticks behind
+[12Dec2024 00:56:24.728] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 94
+[12Dec2024 00:56:24.728] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 95
+[12Dec2024 00:56:24.729] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 96
+[12Dec2024 00:56:24.733] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 97
+[12Dec2024 00:56:24.734] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 98
+[12Dec2024 00:56:24.734] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 99
+[12Dec2024 00:56:24.779] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 100
+[12Dec2024 00:56:24.779] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 101
+[12Dec2024 00:56:24.780] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 102
+[12Dec2024 00:56:24.780] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 103
+[12Dec2024 00:56:24.822] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 104
+[12Dec2024 00:56:24.822] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 105
+[12Dec2024 00:56:24.895] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 106
+[12Dec2024 00:56:24.895] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 107
+[12Dec2024 00:56:25.083] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 108
+[12Dec2024 00:56:25.188] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@2e3e9515
+[12Dec2024 00:56:25.281] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: YermanPC[/127.51.19.16:47827] logged in with entity id 27199 at (-71.03543636577439, 106.0, -303.78029638834073)
+[12Dec2024 00:56:25.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YermanPC joined the game
+[12Dec2024 00:56:25.602] [Server thread/INFO] [Jade/]: Syncing config to YermanPC (1b3ec6f0-a351-3a71-b967-c2b87eb9546d)
+[12Dec2024 00:56:25.677] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to YermanPC...
+[12Dec2024 00:56:25.678] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[12Dec2024 00:56:25.679] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to YermanPC
+[12Dec2024 00:56:28.660] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting gollorum/signpost/utils/math/geometry/Matrix4x4$Axis
+[12Dec2024 00:56:28.707] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3516ms or 70 ticks behind
+[12Dec2024 00:56:28.960] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting dev/felnull/imp/blockentity/MusicManagerBlockEntity$MonitorType
+[12Dec2024 00:56:28.971] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting dev/felnull/imp/networking/IMPPackets$MusicSyncType
+[12Dec2024 00:56:28.979] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting dev/felnull/imp/music/resource/AuthorityInfo$AuthorityType
+[12Dec2024 00:56:28.983] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Block entity sophisticatedbackpacks:backpack @ BlockPos{x=-81, y=106, z=-309} state Block{sophisticatedbackpacks:copper_backpack}[battery=false,facing=north,left_tank=false,right_tank=false,waterlogged=false] invalid for ticking:
+[12Dec2024 00:56:28.983] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Block entity sophisticatedbackpacks:backpack @ BlockPos{x=-82, y=106, z=-309} state Block{sophisticatedbackpacks:copper_backpack}[battery=false,facing=north,left_tank=false,right_tank=false,waterlogged=false] invalid for ticking:
+[12Dec2024 00:56:28.984] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Block entity sophisticatedbackpacks:backpack @ BlockPos{x=-83, y=106, z=-309} state Block{sophisticatedbackpacks:copper_backpack}[battery=false,facing=north,left_tank=false,right_tank=false,waterlogged=false] invalid for ticking:
+[12Dec2024 00:56:28.984] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Block entity sophisticatedbackpacks:backpack @ BlockPos{x=-82, y=106, z=-310} state Block{sophisticatedbackpacks:copper_backpack}[battery=false,facing=north,left_tank=false,right_tank=false,waterlogged=false] invalid for ticking:
+[12Dec2024 00:56:50.701] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[12Dec2024 00:56:54.155] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting dev/felnull/imp/server/music/MusicManager$PlayListGetType
+[12Dec2024 00:56:54.843] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[12Dec2024 00:56:58.267] [Worker-Main-3/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/horse/Variant
+[12Dec2024 00:56:58.272] [Worker-Main-3/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/horse/Markings
+[12Dec2024 00:57:13.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <YermanPC> asfas
+[12Dec2024 00:57:24.357] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14515ms or 290 ticks behind
+[12Dec2024 00:57:29.478] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: YermanPC lost connection: Disconnected
+[12Dec2024 00:57:29.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YermanPC left the game
+[12Dec2024 00:57:38.127] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 94
+[12Dec2024 00:57:38.128] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 95
+[12Dec2024 00:57:38.129] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 96
+[12Dec2024 00:57:38.247] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 97
+[12Dec2024 00:57:38.248] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 98
+[12Dec2024 00:57:38.290] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 99
+[12Dec2024 00:57:38.459] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 100
+[12Dec2024 00:57:38.468] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 101
+[12Dec2024 00:57:38.469] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 102
+[12Dec2024 00:57:38.470] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 103
+[12Dec2024 00:57:38.575] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 104
+[12Dec2024 00:57:38.576] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 105
+[12Dec2024 00:57:38.631] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 106
+[12Dec2024 00:57:38.632] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 107
+[12Dec2024 00:57:38.815] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 108
+[12Dec2024 00:57:38.880] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@15ac1b80
+[12Dec2024 00:57:38.947] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: YermanPC[/127.51.19.16:38193] logged in with entity id 28618 at (-83.47689712296464, 106.0, -302.34546725136613)
+[12Dec2024 00:57:39.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YermanPC joined the game
+[12Dec2024 00:57:39.148] [Server thread/INFO] [Jade/]: Syncing config to YermanPC (1b3ec6f0-a351-3a71-b967-c2b87eb9546d)
+[12Dec2024 00:57:39.202] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to YermanPC...
+[12Dec2024 00:57:39.202] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[12Dec2024 00:57:39.203] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to YermanPC
+[12Dec2024 00:57:46.072] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2030ms or 40 ticks behind
+[12Dec2024 00:57:54.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <YermanPC> bldo
+[12Dec2024 00:58:01.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <YermanPC> yo me re olvide que habia abierto sv
+[12Dec2024 00:58:04.212] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3170ms or 63 ticks behind
+[12Dec2024 00:58:08.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <YermanPC> abierto el sv*
+[12Dec2024 00:58:18.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElCachita_HD> What a pelotud
+[12Dec2024 00:58:21.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <YermanPC> que boludo
+[12Dec2024 00:58:25.011] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=201, y=51, z=176}
+[12Dec2024 00:58:37.746] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[12Dec2024 00:58:37.753] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[12Dec2024 00:58:37.753] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[12Dec2024 00:58:37.753] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[12Dec2024 00:58:37.823] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[12Dec2024 00:58:37.824] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[12Dec2024 00:58:37.826] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[12Dec2024 00:58:37.826] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[12Dec2024 00:58:37.826] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[12Dec2024 00:58:37.827] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[12Dec2024 00:58:37.827] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[12Dec2024 00:58:37.829] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[12Dec2024 00:58:37.830] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[12Dec2024 00:58:37.831] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[12Dec2024 00:58:37.831] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[12Dec2024 01:01:23.436] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ic2/core/inventory/slot/IGhostSlot$GhostType
+[12Dec2024 01:04:39.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <YermanPC> che lo abriste vos vito car de verga
+[12Dec2024 01:04:42.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <YermanPC> hacete nms
+[12Dec2024 01:04:47.682] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElCachita_HD> noooooo
