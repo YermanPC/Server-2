@@ -11,6 +11,12 @@
     },
     "done": true
   },
+  "ic2:cfoam_stairs_gray_1_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-12 21:07:03 +0000"
+    },
+    "done": true
+  },
   "ic2:plant_ball_sapling_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-09 02:50:33 +0000"
@@ -168,6 +174,12 @@
     },
     "done": true
   },
+  "ic2:cfoam_stairs_black_1_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-12 21:06:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/shiny_gear": {
     "criteria": {
       "diamond_helmet": "2024-12-10 00:25:15 +0000"
@@ -231,6 +243,12 @@
   "ic2:overgrowth_fertilizer_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-09 18:15:16 +0000"
+    },
+    "done": true
+  },
+  "ic2:cfoam_panel_black_0_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-12 21:06:43 +0000"
     },
     "done": true
   },
@@ -623,6 +641,12 @@
     },
     "done": false
   },
+  "ic2:cfoam_black_1_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-12 21:06:43 +0000"
+    },
+    "done": true
+  },
   "enigmaticlegacy:recipes/generic/desolation_ring": {
     "criteria": {
       "has_parent_recipe": "2024-12-09 18:04:39 +0000"
@@ -644,6 +668,12 @@
   "ic2:lv_flux_generator_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-09 03:02:01 +0000"
+    },
+    "done": true
+  },
+  "ic2:cfoam_surface_black_0_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-12 21:06:43 +0000"
     },
     "done": true
   },
@@ -686,6 +716,12 @@
   "ic2:gold_cable_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-09 18:04:39 +0000"
+    },
+    "done": true
+  },
+  "ic2:cfoam_wool_black_1_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-12 21:06:43 +0000"
     },
     "done": true
   },
@@ -763,6 +799,12 @@
     },
     "done": true
   },
+  "ic2:cfoam_slabs_black_1_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-12 21:06:43 +0000"
+    },
+    "done": true
+  },
   "ic2:carbon_boat_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-09 23:48:19 +0000"
@@ -790,6 +832,12 @@
   "ic2:cfoam_surface_blue_0_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-10 18:12:26 +0000"
+    },
+    "done": true
+  },
+  "ic2:cfoam_slabs_black_2_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-12 21:06:43 +0000"
     },
     "done": true
   },
@@ -822,6 +870,12 @@
   "ic2:diamond_drill_rock_cutter_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-10 01:22:25 +0000"
+    },
+    "done": true
+  },
+  "ic2:cfoam_panel_gray_1_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-12 21:07:03 +0000"
     },
     "done": true
   },
@@ -937,6 +991,12 @@
   "ic2:itnt_0_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-09 03:30:13 +0000"
+    },
+    "done": true
+  },
+  "ic2:cfoam_surface_black_1_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-12 21:06:43 +0000"
     },
     "done": true
   },
@@ -1133,6 +1193,12 @@
     },
     "done": true
   },
+  "ic2:cfoam_carpet_black_3_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-12 21:06:43 +0000"
+    },
+    "done": true
+  },
   "ic2:gold_module_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-09 18:27:22 +0000"
@@ -1178,6 +1244,12 @@
   "ic2:cfoam_stairs_light_gray_1_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-10 18:53:17 +0000"
+    },
+    "done": true
+  },
+  "ic2:cfoam_wall_black_2_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-12 21:06:43 +0000"
     },
     "done": true
   },
@@ -1379,6 +1451,12 @@
     },
     "done": true
   },
+  "ic2:cfoam_panel_black_1_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-12 21:06:43 +0000"
+    },
+    "done": true
+  },
   "ic2:terraformer_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-09 18:39:13 +0000"
@@ -1511,9 +1589,21 @@
     },
     "done": true
   },
+  "ic2:cfoam_slabs_gray_1_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-12 21:07:03 +0000"
+    },
+    "done": true
+  },
   "ic2:electric_furnace_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-09 18:22:51 +0000"
+    },
+    "done": true
+  },
+  "ic2:cfoam_gray_1_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-12 21:07:03 +0000"
     },
     "done": true
   },
@@ -1847,6 +1937,12 @@
     },
     "done": true
   },
+  "ic2:cfoam_wall_gray_2_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-12 21:07:03 +0000"
+    },
+    "done": true
+  },
   "ic2:cfoam_light_blue_1_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-10 18:12:36 +0000"
@@ -2100,6 +2196,12 @@
     },
     "done": true
   },
+  "ic2:cfoam_wool_carpet_gray_1_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-12 21:07:03 +0000"
+    },
+    "done": true
+  },
   "enigmaticlegacy:book/relics/void_stone": {
     "criteria": {
       "has_items": "2024-12-12 01:43:55 +0000"
@@ -2157,6 +2259,12 @@
   "ic2:storage_expansion_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-10 00:23:10 +0000"
+    },
+    "done": true
+  },
+  "ic2:cfoam_surface_gray_1_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-12 21:07:03 +0000"
     },
     "done": true
   },
@@ -2376,6 +2484,12 @@
     },
     "done": true
   },
+  "ic2:cfoam_wall_gray_1_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-12 21:07:03 +0000"
+    },
+    "done": true
+  },
   "ic2:painter_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-09 03:02:01 +0000"
@@ -2409,6 +2523,12 @@
   "ic2:muffler_upgrade_1_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-10 19:33:22 +0000"
+    },
+    "done": true
+  },
+  "ic2:cfoam_wool_gray_1_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-12 21:07:03 +0000"
     },
     "done": true
   },
@@ -2551,6 +2671,12 @@
     },
     "done": true
   },
+  "ic2:cfoam_wool_black_0_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-12 21:06:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2024-12-12 13:27:23 +0000",
@@ -2587,6 +2713,12 @@
     },
     "done": true
   },
+  "ic2:painter_gray_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-12 21:07:03 +0000"
+    },
+    "done": true
+  },
   "ic2:memory_stick_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-09 03:37:57 +0000"
@@ -2620,6 +2752,12 @@
   "ic2:energy_storage_upgrade_0_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-09 02:50:26 +0000"
+    },
+    "done": true
+  },
+  "ic2:cfoam_gray_0_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-12 21:07:03 +0000"
     },
     "done": true
   },
@@ -2782,6 +2920,12 @@
   "ic2:rocket_miner_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-10 00:23:10 +0000"
+    },
+    "done": true
+  },
+  "ic2:cfoam_carpet_gray_3_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-12 21:07:03 +0000"
     },
     "done": true
   },
@@ -2971,6 +3115,12 @@
     },
     "done": true
   },
+  "ic2:cfoam_stairs_black_2_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-12 21:06:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/root": {
     "criteria": {
       "consumed_item": "2024-12-09 02:51:50 +0000"
@@ -3004,6 +3154,12 @@
   "aquamirae:adventure/find_ice_maze": {
     "criteria": {
       "deep_frozen_ocean": "2024-12-11 00:23:28 +0000"
+    },
+    "done": true
+  },
+  "ic2:cfoam_wool_carpet_black_1_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-12 21:06:43 +0000"
     },
     "done": true
   },
@@ -3106,6 +3262,12 @@
   "tombstone:adventure/enchant_grave_key": {
     "criteria": {
       "has_upgraded_grave_key": "2024-12-09 03:18:24 +0000"
+    },
+    "done": true
+  },
+  "ic2:cfoam_stairs_gray_2_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-12 21:07:03 +0000"
     },
     "done": true
   },
@@ -3288,6 +3450,12 @@
     },
     "done": true
   },
+  "ic2:painter_black_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-12 21:06:43 +0000"
+    },
+    "done": true
+  },
   "lootr:25loot": {
     "criteria": {
       "loot_stat": "2024-12-09 23:27:47 +0000"
@@ -3315,6 +3483,12 @@
   "ic2:cfoam_stairs_light_gray_2_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-10 18:53:17 +0000"
+    },
+    "done": true
+  },
+  "ic2:cfoam_wall_black_1_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-12 21:06:43 +0000"
     },
     "done": true
   },
@@ -3754,6 +3928,12 @@
     },
     "done": true
   },
+  "ic2:cfoam_panel_gray_0_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-12 21:07:03 +0000"
+    },
+    "done": true
+  },
   "irons_spellbooks:grant_patchouli": {
     "criteria": {
       "tick": "2024-12-09 02:47:01 +0000"
@@ -3769,6 +3949,12 @@
   "ic2:glowstone_dust_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-09 18:22:51 +0000"
+    },
+    "done": true
+  },
+  "ic2:cfoam_black_0_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-12 21:06:43 +0000"
     },
     "done": true
   },
@@ -4096,6 +4282,12 @@
     },
     "done": true
   },
+  "ic2:cfoam_slabs_gray_2_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-12 21:07:03 +0000"
+    },
+    "done": true
+  },
   "ic2:cfoam_carpet_blue_3_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-10 18:12:26 +0000"
@@ -4208,6 +4400,12 @@
   "ic2:cfoam_light_blue_0_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-10 18:12:36 +0000"
+    },
+    "done": true
+  },
+  "ic2:cfoam_wool_gray_0_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-12 21:07:03 +0000"
     },
     "done": true
   },
@@ -4420,6 +4618,12 @@
   "ic2:diamond_drill_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-09 03:37:57 +0000"
+    },
+    "done": true
+  },
+  "ic2:cfoam_surface_gray_0_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-12 21:07:03 +0000"
     },
     "done": true
   },

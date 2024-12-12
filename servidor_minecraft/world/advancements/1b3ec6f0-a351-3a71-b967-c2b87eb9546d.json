@@ -108,6 +108,12 @@
     },
     "done": true
   },
+  "ic2:hv_unloader_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-12 21:12:21 +0000"
+    },
+    "done": true
+  },
   "ic2:iv_charge_bench_kit_indirect_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-09 02:47:55 +0000"
@@ -812,6 +818,12 @@
     },
     "done": true
   },
+  "ic2:ev_loader_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-12 21:12:49 +0000"
+    },
+    "done": true
+  },
   "corail_dt:tutorial/root": {
     "criteria": {
       "auto": "2024-12-09 02:46:04 +0000"
@@ -1416,6 +1428,12 @@
     },
     "done": true
   },
+  "ic2:ev_unloader_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-12 21:12:49 +0000"
+    },
+    "done": true
+  },
   "ic2:crop_harvester_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-10 00:39:19 +0000"
@@ -1623,6 +1641,12 @@
   "ic2:tfbp_cultivation_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-09 04:14:35 +0000"
+    },
+    "done": true
+  },
+  "ic2:efficiency_upgrade_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-12 21:12:21 +0000"
     },
     "done": true
   },
@@ -4082,6 +4106,12 @@
   "enigmaticlegacy:recipes/generic/insignia": {
     "criteria": {
       "has_iron_ingot": "2024-12-09 03:47:29 +0000"
+    },
+    "done": true
+  },
+  "ic2:hv_loader_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-12 21:12:21 +0000"
     },
     "done": true
   },
