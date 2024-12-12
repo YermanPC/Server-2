@@ -108,6 +108,12 @@
     },
     "done": true
   },
+  "ic2:cfoam_0_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-12 02:42:54 +0000"
+    },
+    "done": true
+  },
   "ic2:cfoam_stairs_red_1_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-10 18:26:05 +0000"
@@ -429,6 +435,12 @@
   "iter_rpg:iter_root": {
     "criteria": {
       "iter_root": "2024-12-09 02:47:01 +0000"
+    },
+    "done": true
+  },
+  "ic2:planter_pot_sand_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-12 02:42:54 +0000"
     },
     "done": true
   },
@@ -2454,6 +2466,12 @@
     },
     "done": true
   },
+  "ic2:tfbp_desertification_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-12 02:42:54 +0000"
+    },
+    "done": true
+  },
   "ic2:mass_fabricator_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-10 02:30:00 +0000"
@@ -3111,7 +3129,8 @@
   },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
-      "sweet_berries": "2024-12-10 03:55:01 +0000"
+      "sweet_berries": "2024-12-10 03:55:01 +0000",
+      "carrot": "2024-12-12 02:46:57 +0000"
     },
     "done": false
   },
@@ -3890,6 +3909,12 @@
   "ic2:silver_sign_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-09 02:50:23 +0000"
+    },
+    "done": true
+  },
+  "ic2:cfoam_1_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-12 02:42:54 +0000"
     },
     "done": true
   },

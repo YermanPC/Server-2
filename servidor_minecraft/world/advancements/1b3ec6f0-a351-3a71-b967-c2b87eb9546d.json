@@ -156,6 +156,12 @@
     },
     "done": true
   },
+  "ic2:extractor_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-12 02:43:21 +0000"
+    },
+    "done": true
+  },
   "ic2:cobblegen_upgrade_0_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-09 18:26:04 +0000"
@@ -1229,6 +1235,12 @@
     },
     "done": true
   },
+  "ic2:electric_treetap_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-12 02:43:21 +0000"
+    },
+    "done": true
+  },
   "ic2:heat_exchanger_spread_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-09 03:49:33 +0000"
@@ -1536,6 +1548,12 @@
   "dungeons_arise:wda_root": {
     "criteria": {
       "WDA": "2024-12-09 02:46:03 +0000"
+    },
+    "done": true
+  },
+  "ic2:tap_pot_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-12 02:43:21 +0000"
     },
     "done": true
   },
@@ -2090,6 +2108,12 @@
   "tconstruct:smeltery/puny_smelting": {
     "criteria": {
       "crafted_book": "2024-12-10 19:03:06 +0000"
+    },
+    "done": true
+  },
+  "ic2:advanced_tree_tap_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-12 02:43:23 +0000"
     },
     "done": true
   },
@@ -3126,6 +3150,12 @@
   "casinocraft:recipes/decorations/item_quartz": {
     "criteria": {
       "has_quartz": "2024-12-09 23:13:25 +0000"
+    },
+    "done": true
+  },
+  "ic2:pump_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-12 02:43:21 +0000"
     },
     "done": true
   },
