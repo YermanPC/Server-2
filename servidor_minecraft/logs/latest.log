@@ -3965,3 +3965,31 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [12Dec2024 20:41:46.533] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Georgeann'/39479, l='ServerLevel[world]', x=175.30, y=63.06, z=-843.50] died, message: 'Georgeann was slain by Zombie'
 [12Dec2024 20:41:46.534] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Georgeann'/39479, l='ServerLevel[world]', x=175.30, y=63.06, z=-843.50] died: Georgeann was slain by Zombie
 [12Dec2024 20:46:55.868] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombieVillager['Georgeann'/44415, l='ServerLevel[world]', x=175.30, y=62.61, z=-843.50] died: Georgeann burned to death
+[12Dec2024 20:50:00.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YermanPC withered away whilst fighting Nightmare Stalker
+[12Dec2024 20:50:00.847] [Server thread/INFO] [tombstone/]: The player YermanPC has successfully been saved
+[12Dec2024 20:50:14.774] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: YermanPC lost connection: Timed out
+[12Dec2024 20:50:14.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YermanPC left the game
+[12Dec2024 20:51:50.959] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 94
+[12Dec2024 20:51:51.007] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 95
+[12Dec2024 20:51:51.063] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 96
+[12Dec2024 20:51:51.077] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 97
+[12Dec2024 20:51:51.199] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 98
+[12Dec2024 20:51:51.199] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 99
+[12Dec2024 20:51:51.335] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 100
+[12Dec2024 20:51:51.335] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 101
+[12Dec2024 20:51:51.378] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 102
+[12Dec2024 20:51:51.607] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 103
+[12Dec2024 20:51:51.608] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 104
+[12Dec2024 20:51:51.608] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 105
+[12Dec2024 20:51:51.608] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 106
+[12Dec2024 20:51:51.608] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 107
+[12Dec2024 20:51:51.608] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 108
+[12Dec2024 20:51:51.691] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@53cae5a7
+[12Dec2024 20:51:51.728] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: YermanPC[/127.51.19.16:57397] logged in with entity id 46250 at (-72.3677286185904, 71.0, -291.4087724605289)
+[12Dec2024 20:51:51.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YermanPC joined the game
+[12Dec2024 20:51:51.807] [Server thread/INFO] [Jade/]: Syncing config to YermanPC (1b3ec6f0-a351-3a71-b967-c2b87eb9546d)
+[12Dec2024 20:51:51.839] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to YermanPC...
+[12Dec2024 20:51:51.839] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[12Dec2024 20:51:51.840] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to YermanPC
+[12Dec2024 20:52:07.897] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[12Dec2024 20:55:53.189] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting slimeknights/tconstruct/smeltery/block/entity/multiblock/MultiblockCuboid$CuboidSide
