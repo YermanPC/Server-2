@@ -756,7 +756,7 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2024-12-12 01:02:44 +0000"
+      "log_spam_fixer": "2024-12-12 01:12:44 +0000"
     },
     "done": false
   },
@@ -996,7 +996,7 @@
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2024-12-12 01:02:44 +0000"
+      "log_spam_fixer": "2024-12-12 01:12:44 +0000"
     },
     "done": false
   },
@@ -1272,7 +1272,7 @@
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2024-12-12 01:02:44 +0000"
+      "log_spam_fixer": "2024-12-12 01:12:44 +0000"
     },
     "done": false
   },
@@ -1350,7 +1350,7 @@
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2024-12-12 01:02:44 +0000"
+      "log_spam_fixer": "2024-12-12 01:12:44 +0000"
     },
     "done": false
   },
@@ -1414,7 +1414,7 @@
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2024-12-12 01:02:44 +0000"
+      "log_spam_fixer": "2024-12-12 01:12:44 +0000"
     },
     "done": false
   },
@@ -1715,7 +1715,7 @@
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2024-12-12 01:02:44 +0000"
+      "log_spam_fixer": "2024-12-12 01:12:44 +0000"
     },
     "done": false
   },
@@ -2358,7 +2358,7 @@
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2024-12-12 01:02:44 +0000"
+      "log_spam_fixer": "2024-12-12 01:12:44 +0000"
     },
     "done": false
   },
@@ -2564,7 +2564,7 @@
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2024-12-12 01:02:44 +0000"
+      "log_spam_fixer": "2024-12-12 01:12:44 +0000"
     },
     "done": false
   },
@@ -2630,7 +2630,7 @@
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2024-12-12 01:02:44 +0000"
+      "log_spam_fixer": "2024-12-12 01:12:44 +0000"
     },
     "done": false
   },
@@ -3305,7 +3305,7 @@
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2024-12-12 01:02:44 +0000"
+      "log_spam_fixer": "2024-12-12 01:12:44 +0000"
     },
     "done": false
   },
@@ -3335,7 +3335,7 @@
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2024-12-12 01:02:44 +0000"
+      "log_spam_fixer": "2024-12-12 01:12:44 +0000"
     },
     "done": false
   },
@@ -3353,7 +3353,7 @@
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2024-12-12 01:02:44 +0000"
+      "log_spam_fixer": "2024-12-12 01:12:44 +0000"
     },
     "done": false
   },
