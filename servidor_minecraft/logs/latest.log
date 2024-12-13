@@ -4110,3 +4110,17 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [13Dec2024 03:26:56.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] mugre
 [13Dec2024 03:27:03.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] igual
 [13Dec2024 03:27:13.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] zorra
+[13Dec2024 03:27:36.568] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3432ms or 68 ticks behind
+[13Dec2024 03:30:53.281] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3395ms or 67 ticks behind
+[13Dec2024 03:31:00.408] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Louie'/86994, l='ServerLevel[world]', x=31.61, y=76.17, z=-95.66] died, message: 'Louie tried to swim in lava'
+[13Dec2024 03:31:00.410] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Louie'/86994, l='ServerLevel[world]', x=31.61, y=76.17, z=-95.66] died: Louie tried to swim in lava
+[13Dec2024 03:33:44.097] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2311ms or 46 ticks behind
+[13Dec2024 03:33:45.069] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Veril the Withered'/87269, l='ServerLevel[world]', x=45.47, y=71.00, z=74.61] died: Veril the Withered was slain by AssaGM
+[13Dec2024 03:33:45.100] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=46, y=-58, z=-81}
+[13Dec2024 03:33:45.101] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=45, y=-57, z=-79}
+[13Dec2024 03:33:45.101] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=47, y=-58, z=-78}
+[13Dec2024 03:34:54.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AssaGM has made the advancement [A Terrible Fortress]
+[13Dec2024 03:36:24.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AssaGM has made the advancement [Into Fire]
+[13Dec2024 03:36:46.614] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElCachita_HD lost connection: Disconnected
+[13Dec2024 03:36:46.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElCachita_HD left the game
+[13Dec2024 03:37:11.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AssaGM has made the advancement [Spooky Scary Skeleton]
