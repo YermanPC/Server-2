@@ -167,6 +167,12 @@
     },
     "done": true
   },
+  "ic2:advanced_machine_block_1_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-13 02:02:43 +0000"
+    },
+    "done": true
+  },
   "ic2:coolant_cell_60_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-12 05:43:45 +0000"
@@ -293,6 +299,12 @@
     },
     "done": true
   },
+  "ic2:mfe_0_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-13 02:02:43 +0000"
+    },
+    "done": true
+  },
   "iammusicplayer:iammusicplayer/listen_to_music": {
     "criteria": {
       "listen_to_music": "2024-12-10 22:59:03 +0000"
@@ -327,6 +339,12 @@
   "ic2:filter_tube_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-10 14:29:19 +0000"
+    },
+    "done": true
+  },
+  "ic2:build_macerator": {
+    "criteria": {
+      "hasItem": "2024-12-13 02:09:46 +0000"
     },
     "done": true
   },
@@ -764,9 +782,21 @@
     },
     "done": true
   },
+  "ic2:advanced_machine_block_0_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-13 02:02:43 +0000"
+    },
+    "done": true
+  },
   "ic2:redstone_sensitivity_upgrade_0_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-09 03:56:00 +0000"
+    },
+    "done": true
+  },
+  "ic2:rotary_macerator_scrap_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-13 02:09:46 +0000"
     },
     "done": true
   },
@@ -905,6 +935,12 @@
   "ic2:normal_nano_armor_helmet_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-10 14:29:19 +0000"
+    },
+    "done": true
+  },
+  "ic2:carbon_rotor_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-13 02:02:43 +0000"
     },
     "done": true
   },
@@ -1275,6 +1311,12 @@
     },
     "done": true
   },
+  "ic2:mv_transformer_1_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-13 02:02:43 +0000"
+    },
+    "done": true
+  },
   "ic2:4x_insulated_iron_cable_2_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-12 05:20:32 +0000"
@@ -1332,6 +1374,12 @@
   "ic2:ocean_generator_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-09 20:23:59 +0000"
+    },
+    "done": true
+  },
+  "ic2:refined_iron_ingot_1_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-13 02:02:43 +0000"
     },
     "done": true
   },
@@ -2602,6 +2650,12 @@
     },
     "done": true
   },
+  "ic2:mv_transformer_0_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-13 02:02:43 +0000"
+    },
+    "done": true
+  },
   "ic2:big_ranged_ov_scanner_0_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-12 23:21:57 +0000"
@@ -3413,6 +3467,12 @@
     },
     "done": true
   },
+  "ic2:esu_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-13 02:02:43 +0000"
+    },
+    "done": true
+  },
   "enigmaticlegacy:recipes/generic/avarice_scroll": {
     "criteria": {
       "has_parent_recipe": "2024-12-09 18:05:54 +0000"
@@ -3566,6 +3626,12 @@
   "ic2:activity_card_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-09 03:45:24 +0000"
+    },
+    "done": true
+  },
+  "ic2:valve_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-13 02:02:43 +0000"
     },
     "done": true
   },
@@ -4026,6 +4092,12 @@
     },
     "done": true
   },
+  "ic2:alloy_rotor_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-13 02:02:43 +0000"
+    },
+    "done": true
+  },
   "dungeons_enhanced:ahoy": {
     "criteria": {
       "entered_pirate_ship": "2024-12-09 23:32:14 +0000"
@@ -4047,6 +4119,12 @@
   "ic2:wet_cfoam_1_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-09 03:47:47 +0000"
+    },
+    "done": true
+  },
+  "ic2:mfe_1_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-13 02:02:43 +0000"
     },
     "done": true
   },
@@ -4202,6 +4280,12 @@
   "minecraft:story/mine_diamond": {
     "criteria": {
       "diamond": "2024-12-09 18:51:04 +0000"
+    },
+    "done": true
+  },
+  "ic2:rotary_macerator_obsidian_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-13 02:09:46 +0000"
     },
     "done": true
   },
