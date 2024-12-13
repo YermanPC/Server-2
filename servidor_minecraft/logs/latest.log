@@ -4193,3 +4193,5 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [13Dec2024 05:31:47.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [YermanPC: Set own game mode to Survival Mode]
 [13Dec2024 05:49:06.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [YermanPC: Set own game mode to Creative Mode]
 [13Dec2024 05:50:18.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YermanPC has made the advancement [Storage Upgrade]
+[13Dec2024 05:51:07.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [YermanPC: Gave 1    [Charged Electrolyzer] to YermanPC]
+[13Dec2024 05:53:04.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YermanPC has made the advancement [Stash It]

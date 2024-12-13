@@ -1723,6 +1723,12 @@
     },
     "done": true
   },
+  "ic2:miner_remote_bronze_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-13 05:50:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/enter_the_nether": {
     "criteria": {
       "entered_nether": "2024-12-13 04:40:01 +0000"
@@ -2423,6 +2429,12 @@
   "ic2:pesu_upgrade_kit_direct_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-13 02:15:01 +0000"
+    },
+    "done": true
+  },
+  "ic2:ore_scanner_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-13 05:53:04 +0000"
     },
     "done": true
   },
@@ -3693,6 +3705,12 @@
     },
     "done": true
   },
+  "ic2:batbox_minecart_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-13 05:53:04 +0000"
+    },
+    "done": true
+  },
   "ic2:bronze_helmet_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-13 02:13:18 +0000"
@@ -4519,6 +4537,12 @@
   "ic2:charcoal_block_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-09 23:47:31 +0000"
+    },
+    "done": true
+  },
+  "ic2:build_batbox": {
+    "criteria": {
+      "hasItem": "2024-12-13 05:53:04 +0000"
     },
     "done": true
   },
