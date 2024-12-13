@@ -374,6 +374,7 @@
   },
   "dungeons_enhanced:ambitious_explorer": {
     "criteria": {
+      "entered_tower_of_the_undead": "2024-12-13 23:29:15 +0000",
       "entered_stables": "2024-12-11 20:50:59 +0000",
       "entered_deep_crypt": "2024-12-11 00:21:42 +0000",
       "entered_large_dungeon": "2024-12-12 18:35:39 +0000"
@@ -668,6 +669,7 @@
       "minecraft:creeper": "2024-12-10 19:38:02 +0000",
       "minecraft:slime": "2024-12-12 10:35:31 +0000",
       "minecraft:phantom": "2024-12-11 21:02:28 +0000",
+      "minecraft:witch": "2024-12-13 23:39:51 +0000",
       "minecraft:enderman": "2024-12-11 00:10:39 +0000",
       "minecraft:zombie": "2024-12-10 19:41:52 +0000"
     },
@@ -754,6 +756,12 @@
   "ic2:stone_macerator_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-10 19:27:35 +0000"
+    },
+    "done": true
+  },
+  "ic2:time_card_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-13 23:34:01 +0000"
     },
     "done": true
   },
@@ -2518,6 +2526,12 @@
     },
     "done": true
   },
+  "ic2:coal_chunk_1_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-13 23:30:09 +0000"
+    },
+    "done": true
+  },
   "enigmaticlegacy:recipes/generic/super_magnet_ring": {
     "criteria": {
       "has_parent_recipe": "2024-12-11 00:08:39 +0000"
@@ -2753,6 +2767,12 @@
     },
     "done": false
   },
+  "ic2:diamond_drill_silk_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-13 23:33:57 +0000"
+    },
+    "done": true
+  },
   "ic2:hydrated_charcoal_dust_mass_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-11 21:13:36 +0000"
@@ -2810,6 +2830,12 @@
   "ic2:pesu_minecart_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-11 21:15:08 +0000"
+    },
+    "done": true
+  },
+  "ic2:villager_o_mat_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-13 23:34:01 +0000"
     },
     "done": true
   },

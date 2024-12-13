@@ -1915,6 +1915,12 @@
     },
     "done": true
   },
+  "ic2:diamond_drill_fortune_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-13 23:32:35 +0000"
+    },
+    "done": true
+  },
   "tconstruct:smeltery/melter": {
     "criteria": {
       "seared_fuel_tank": "2024-12-11 00:11:41 +0000",
@@ -2522,6 +2528,12 @@
     },
     "done": true
   },
+  "ic2:nuclear_jetpack_repair_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-13 23:32:35 +0000"
+    },
+    "done": true
+  },
   "ironfurnaces:coal": {
     "criteria": {
       "rainbowcoal": "2024-12-09 02:46:02 +0000"
@@ -2621,6 +2633,12 @@
   "ic2:recycler_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-09 02:48:05 +0000"
+    },
+    "done": true
+  },
+  "ic2:electric_jetpack_repair_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-13 23:32:35 +0000"
     },
     "done": true
   },
@@ -3239,6 +3257,12 @@
   "ic2:steam_turbine_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-12 05:45:36 +0000"
+    },
+    "done": true
+  },
+  "ic2:complex_circuit_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-13 23:32:35 +0000"
     },
     "done": true
   },
@@ -4141,6 +4165,12 @@
   "ic2:sound_beacon_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-09 02:49:25 +0000"
+    },
+    "done": true
+  },
+  "ic2:reflector_iridium_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-13 23:32:35 +0000"
     },
     "done": true
   },

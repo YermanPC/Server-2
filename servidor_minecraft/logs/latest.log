@@ -4224,3 +4224,61 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [13Dec2024 23:26:40.143] [Worker-Main-98/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
 [13Dec2024 23:26:41.527] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9861ms or 197 ticks behind
 [13Dec2024 23:26:41.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ClementePicaro> t
+[13Dec2024 23:32:19.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <YermanPC> que preferis
+[13Dec2024 23:32:23.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <YermanPC> que te laman el culo
+[13Dec2024 23:32:30.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <YermanPC> o que te meen el pie
+[13Dec2024 23:32:32.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <YermanPC> descalzo
+[13Dec2024 23:33:04.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ClementePicaro> que me laman todo el orto
+[13Dec2024 23:33:21.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ClementePicaro> de cabo a rabo
+[13Dec2024 23:35:36.043] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@78f4500[id=<null>,name=AssaGM,properties={},legacy=false] (/127.61.57.82:54121): Took too long to log in
+[13Dec2024 23:35:36.044] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@78f4500[id=<null>,name=AssaGM,properties={},legacy=false] (/127.61.57.82:54121) lost connection: Took too long to log in
+[13Dec2024 23:35:36.088] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[13Dec2024 23:36:25.590] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 94
+[13Dec2024 23:36:25.633] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 95
+[13Dec2024 23:36:25.690] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 96
+[13Dec2024 23:36:25.702] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 97
+[13Dec2024 23:36:25.779] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 98
+[13Dec2024 23:36:25.881] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 99
+[13Dec2024 23:36:25.971] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 100
+[13Dec2024 23:36:26.013] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 101
+[13Dec2024 23:36:26.014] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 102
+[13Dec2024 23:36:26.014] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 103
+[13Dec2024 23:36:26.091] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 104
+[13Dec2024 23:36:26.100] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 105
+[13Dec2024 23:36:26.211] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 106
+[13Dec2024 23:36:26.212] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 107
+[13Dec2024 23:36:26.331] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 108
+[13Dec2024 23:36:26.449] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@314e4a05
+[13Dec2024 23:36:26.495] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: AssaGM[/127.61.57.82:55317] logged in with entity id 69373 at (-44.15714236641485, 81.0, -754.8980724877847)
+[13Dec2024 23:36:26.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AssaGM joined the game
+[13Dec2024 23:36:26.607] [Server thread/INFO] [Jade/]: Syncing config to AssaGM (0aa832e0-dc0d-351a-bc32-39acc5000292)
+[13Dec2024 23:36:26.637] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to AssaGM...
+[13Dec2024 23:36:26.638] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[13Dec2024 23:36:26.638] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to AssaGM
+[13Dec2024 23:36:32.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <YermanPC> assa
+[13Dec2024 23:36:35.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ClementePicaro> que paja
+[13Dec2024 23:36:42.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <YermanPC> a las 21 cierro el sv
+[13Dec2024 23:36:49.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <YermanPC> para pasar a otra cuenta
+[13Dec2024 23:36:58.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <YermanPC> asi que haganle captura de pantalla a sus waypoints y al mapa porque capaz se borra
+[13Dec2024 23:37:08.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AssaGM> BOEEOEOEOEOTJEOTGJERO
+[13Dec2024 23:37:19.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ClementePicaro> esto es por tu culpa assa
+[13Dec2024 23:37:22.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AssaGM> che clementeinmundopicaro todo el dia en el server
+[13Dec2024 23:37:27.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AssaGM> haber si te vas de aca
+[13Dec2024 23:37:40.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ClementePicaro> calla peruano
+[13Dec2024 23:37:51.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AssaGM> peruano?
+[13Dec2024 23:37:53.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AssaGM> peruano?
+[13Dec2024 23:37:58.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AssaGM> te la meto por el ano
+[13Dec2024 23:38:06.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ClementePicaro> douuu
+[13Dec2024 23:39:04.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AssaGM> anda descargando el fornite vos
+[13Dec2024 23:39:06.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AssaGM> tonto de la cara
+[13Dec2024 23:39:13.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ClementePicaro> en 3 dias esta
+[13Dec2024 23:39:24.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AssaGM> pero en 3 dias messi se va
+[13Dec2024 23:39:34.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ClementePicaro> no me digas eso
+[13Dec2024 23:39:42.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <YermanPC> sexo gay con un peruano o que un gorila te deje en coma por 3 años
+[13Dec2024 23:39:58.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <YermanPC> dificil e
+[13Dec2024 23:40:04.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AssaGM> it is a joke clemente
+[13Dec2024 23:40:08.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AssaGM> nose cuanto va a estr
+[13Dec2024 23:40:14.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AssaGM> 1800 pavos la skin si
+[13Dec2024 23:40:23.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AssaGM> 100 pesos para vos digamos
+[13Dec2024 23:40:30.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AssaGM> 15 dolares para mi
+[13Dec2024 23:41:26.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AssaGM> encontre un lugar para hacer ASSA'S MAGIC CASINO
