@@ -1012,6 +1012,12 @@
     },
     "done": true
   },
+  "ic2:silver_block_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-13 22:30:17 +0000"
+    },
+    "done": true
+  },
   "ic2:iron_furnace_upgrade_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-09 03:15:22 +0000"
@@ -2272,6 +2278,12 @@
   "enigmaticlegacy:main/magnet_ring": {
     "criteria": {
       "spellstone": "2024-12-10 14:09:23 +0000"
+    },
+    "done": true
+  },
+  "ic2:ev_transformer_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-13 22:30:17 +0000"
     },
     "done": true
   },

@@ -3874,3 +3874,33 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [13Dec2024 22:16:54.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ClementePicaro has made the advancement [Neighborhood Brawl]
 [13Dec2024 22:16:54.866] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Mitch'/18996, l='ServerLevel[world]', x=178.38, y=62.90, z=-843.76] died: Mitch was slain by ClementePicaro
 [13Dec2024 22:17:24.789] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2073ms or 41 ticks behind
+[13Dec2024 22:26:51.861] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting slimeknights/tconstruct/smeltery/block/entity/tank/ISmelteryTankHandler$FluidChange
+[13Dec2024 22:27:00.849] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VeinGoblinTraderEntity['Alan'/25754, l='ServerLevel[world]', x=686.04, y=47.00, z=12.75] died: Alan has become one with the smeltery
+[13Dec2024 22:27:38.489] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6373ms or 127 ticks behind
+[13Dec2024 22:28:32.677] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[13Dec2024 22:29:28.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ClementePicaro> la casa de cuarzo quien la esta haciendo?
+[13Dec2024 22:31:08.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ClementePicaro> alguien regala esponjas?
+[13Dec2024 22:31:09.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElCachita_HD> que te importa
+[13Dec2024 22:31:15.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ClementePicaro> morite
+[13Dec2024 22:35:38.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <YermanPC> we que pesado loan bldo
+[13Dec2024 22:35:43.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <YermanPC> te sigue a todos lados
+[13Dec2024 22:35:54.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ClementePicaro> el no pidio ser secuestrado
+[13Dec2024 22:36:08.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElCachita_HD> lo mismo le dijeron sus papas y mira donde termino
+[13Dec2024 22:36:21.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <YermanPC> me chupa un huevo lo que quiera el pendejo este
+[13Dec2024 22:36:23.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ClementePicaro> y la verdad que no se donde
+[13Dec2024 22:37:02.909] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=678, y=38, z=51} BlockPos{x=678, y=36, z=51}
+[13Dec2024 22:37:03.661] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=676, y=36, z=51} BlockPos{x=678, y=36, z=51}
+[13Dec2024 22:37:35.411] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=637, y=15, z=48} BlockPos{x=636, y=15, z=46}
+[13Dec2024 22:37:35.460] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=637, y=15, z=46} BlockPos{x=636, y=15, z=46}
+[13Dec2024 22:37:35.511] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=637, y=15, z=46} BlockPos{x=636, y=15, z=46}
+[13Dec2024 22:37:35.561] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=638, y=15, z=47} BlockPos{x=636, y=15, z=46}
+[13Dec2024 22:37:35.612] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=638, y=15, z=45} BlockPos{x=636, y=15, z=46}
+[13Dec2024 22:37:35.661] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=638, y=15, z=45} BlockPos{x=636, y=15, z=46}
+[13Dec2024 22:37:35.710] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=638, y=15, z=45} BlockPos{x=636, y=15, z=46}
+[13Dec2024 22:38:06.761] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=648, y=15, z=38} BlockPos{x=647, y=15, z=39}
+[13Dec2024 22:38:06.814] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=648, y=15, z=38} BlockPos{x=647, y=15, z=39}
+[13Dec2024 22:39:24.951] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElCachita_HD> hay una forma de sacarle todos los encantamientos a un arma, como es german?
+[13Dec2024 22:39:36.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ClementePicaro> afiladora
+[13Dec2024 22:39:40.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElCachita_HD> no
+[13Dec2024 22:39:44.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElCachita_HD> que queden en libro
+[13Dec2024 22:39:46.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <YermanPC> a ver

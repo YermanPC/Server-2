@@ -90,6 +90,12 @@
     },
     "done": true
   },
+  "ic2:cfoam_0_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-13 22:20:36 +0000"
+    },
+    "done": true
+  },
   "cisco_mod:lawbringer": {
     "criteria": {
       "lawbringer": "2024-12-13 14:20:01 +0000"
@@ -315,6 +321,12 @@
   "iter_rpg:iter_root": {
     "criteria": {
       "iter_root": "2024-12-10 19:14:42 +0000"
+    },
+    "done": true
+  },
+  "ic2:planter_pot_sand_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-13 22:20:36 +0000"
     },
     "done": true
   },
@@ -794,6 +806,12 @@
   "ic2:detector_pipe_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-11 20:02:46 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/neighborhood_brawl": {
+    "criteria": {
+      "coded_trigger": "2024-12-13 22:16:54 +0000"
     },
     "done": true
   },
@@ -1723,6 +1741,12 @@
   "ic2:pickup_tube_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-11 20:41:25 +0000"
+    },
+    "done": true
+  },
+  "ic2:tfbp_desertification_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-13 22:20:36 +0000"
     },
     "done": true
   },
@@ -2795,6 +2819,12 @@
   "tombstone:adventure/choose_knowledge": {
     "criteria": {
       "coded_trigger": "2024-12-13 21:53:12 +0000"
+    },
+    "done": true
+  },
+  "ic2:cfoam_1_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-13 22:20:36 +0000"
     },
     "done": true
   },
