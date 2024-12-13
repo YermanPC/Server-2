@@ -17,6 +17,12 @@
     },
     "done": true
   },
+  "corail_dt:tutorial/dt_3": {
+    "criteria": {
+      "coded_trigger": "2024-12-13 19:04:23 +0000"
+    },
+    "done": true
+  },
   "tconstruct:tools/materials_and_you": {
     "criteria": {
       "crafted_book": "2024-12-09 02:46:03 +0000"
@@ -80,6 +86,12 @@
   "ic2:cobblegen_upgrade_0_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-09 18:26:04 +0000"
+    },
+    "done": true
+  },
+  "ic2:vent_electric_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-13 19:01:20 +0000"
     },
     "done": true
   },
@@ -266,6 +278,12 @@
   "ic2:acquire_refined_iron": {
     "criteria": {
       "hasItem": "2024-12-09 20:23:59 +0000"
+    },
+    "done": true
+  },
+  "ic2:energy_storage_multiplier_upgrade_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-13 19:01:20 +0000"
     },
     "done": true
   },
@@ -1127,6 +1145,12 @@
     },
     "done": true
   },
+  "ic2:vent_electric_core_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-13 19:01:20 +0000"
+    },
+    "done": true
+  },
   "ic2:cutter_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-09 03:15:53 +0000"
@@ -1361,6 +1385,12 @@
   "enigmaticlegacy:book/accessories/magnet_ring": {
     "criteria": {
       "has_the_recipe": "2024-12-09 18:51:04 +0000"
+    },
+    "done": true
+  },
+  "ic2:fluid_export_upgrade_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-13 19:01:20 +0000"
     },
     "done": true
   },
@@ -2113,6 +2143,12 @@
     },
     "done": true
   },
+  "ic2:vent_electric_overclocked_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-13 19:01:20 +0000"
+    },
+    "done": true
+  },
   "ic2:stone_canner_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-09 02:47:56 +0000"
@@ -2257,6 +2293,12 @@
     },
     "done": true
   },
+  "ic2:alloy_smelter_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-13 19:03:05 +0000"
+    },
+    "done": true
+  },
   "ic2:circuit_1_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-09 03:47:47 +0000"
@@ -2284,6 +2326,12 @@
   "ic2:batbox_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-09 02:47:55 +0000"
+    },
+    "done": true
+  },
+  "ic2:vent_electric_adv_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-13 19:01:20 +0000"
     },
     "done": true
   },
@@ -2432,6 +2480,12 @@
     },
     "done": true
   },
+  "ic2:fluid_import_upgrade_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-13 19:01:20 +0000"
+    },
+    "done": true
+  },
   "ic2:loudness_upgrade_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-09 03:56:00 +0000"
@@ -2471,6 +2525,12 @@
   "ic2:adjustable_luminator_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-12 17:28:13 +0000"
+    },
+    "done": true
+  },
+  "ic2:export_upgrade_0_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-13 19:01:20 +0000"
     },
     "done": true
   },
@@ -4199,6 +4259,12 @@
     },
     "done": false
   },
+  "ic2:import_upgrade_0_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-13 19:01:20 +0000"
+    },
+    "done": true
+  },
   "ic2:crop_sticks_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-09 02:49:49 +0000"
@@ -4538,6 +4604,12 @@
   "ic2:solar_helmet_1_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-09 03:17:28 +0000"
+    },
+    "done": true
+  },
+  "ic2:build_electric_furnace": {
+    "criteria": {
+      "hasItem": "2024-12-13 19:03:05 +0000"
     },
     "done": true
   },
