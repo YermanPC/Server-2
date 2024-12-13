@@ -3835,3 +3835,40 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [13Dec2024 01:37:38.376] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=243, y=65, z=-815} BlockPos{x=242, y=64, z=-814}
 [13Dec2024 01:37:38.383] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=243, y=65, z=-815} BlockPos{x=242, y=64, z=-814}
 [13Dec2024 01:37:47.475] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=233, y=64, z=-818} BlockPos{x=234, y=64, z=-818}
+[13Dec2024 01:44:10.744] [Netty Epoll Server IO #0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/chat/LastSeenMessagesValidator$ErrorCondition
+[13Dec2024 01:44:10.762] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/chat/FilterMask$Type
+[13Dec2024 01:44:10.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <YermanPC> FASFS
+[13Dec2024 01:45:22.446] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3260ms or 65 ticks behind
+[13Dec2024 01:45:41.134] [Worker-Main-3/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/stal111/forbidden_arcanus/common/entity/lostsoul/LostSoul$Variant
+[13Dec2024 01:46:11.261] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id easymagic:enchanting_table
+[13Dec2024 01:46:11.261] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:enchanting_table} but failed at location BlockPos{x=640, y=87, z=-273}
+[13Dec2024 01:49:08.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElCachita_HD has made the advancement [What a Deal!]
+[13Dec2024 01:49:18.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <YermanPC> vito putoooo
+[13Dec2024 01:52:01.516] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 94
+[13Dec2024 01:52:01.518] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 95
+[13Dec2024 01:52:01.521] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 96
+[13Dec2024 01:52:01.684] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 97
+[13Dec2024 01:52:01.684] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 98
+[13Dec2024 01:52:01.688] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 99
+[13Dec2024 01:52:01.940] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 100
+[13Dec2024 01:52:01.940] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 101
+[13Dec2024 01:52:01.986] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 102
+[13Dec2024 01:52:01.987] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 103
+[13Dec2024 01:52:01.987] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 104
+[13Dec2024 01:52:02.048] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 105
+[13Dec2024 01:52:02.049] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 106
+[13Dec2024 01:52:02.052] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 107
+[13Dec2024 01:52:02.220] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 108
+[13Dec2024 01:52:02.367] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@4ce0a263
+[13Dec2024 01:52:02.406] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: FlacoSchiavi[/127.142.187.145:37411] logged in with entity id 16011 at (-2004.2295352624149, 87.0, 2062.300000011921)
+[13Dec2024 01:52:02.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FlacoSchiavi joined the game
+[13Dec2024 01:52:02.558] [Server thread/INFO] [Jade/]: Syncing config to FlacoSchiavi (449ffd90-91c7-3f92-9b23-cee774d68f1d)
+[13Dec2024 01:52:02.608] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to FlacoSchiavi...
+[13Dec2024 01:52:02.609] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[13Dec2024 01:52:02.609] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to FlacoSchiavi
+[13Dec2024 01:52:10.243] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7857ms or 157 ticks behind
+[13Dec2024 01:52:11.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AssaGM> t
+[13Dec2024 01:52:12.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <YermanPC> asf
+[13Dec2024 01:52:32.943] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[13Dec2024 01:52:51.320] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3384ms or 67 ticks behind
+[13Dec2024 01:53:13.504] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7217ms or 144 ticks behind

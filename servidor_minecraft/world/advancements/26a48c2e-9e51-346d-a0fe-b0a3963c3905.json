@@ -4758,6 +4758,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2024-12-13 01:49:08 +0000"
+    },
+    "done": true
+  },
   "ic2:mv_unloader_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-10 01:02:52 +0000"
