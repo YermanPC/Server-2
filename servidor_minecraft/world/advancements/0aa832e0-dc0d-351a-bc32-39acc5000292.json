@@ -1078,6 +1078,7 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
+      "minecraft:nether_wastes": "2024-12-13 03:36:19 +0000",
       "minecraft:basalt_deltas": "2024-12-10 02:24:41 +0000"
     },
     "done": false
@@ -1427,6 +1428,12 @@
   "ic2:cfoam_slabs_blue_2_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-10 18:12:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2024-12-13 03:37:11 +0000"
     },
     "done": true
   },
@@ -2094,6 +2101,12 @@
   "ic2:planter_pot_crimson_nylium_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-12 03:44:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2024-12-13 03:36:24 +0000"
     },
     "done": true
   },
@@ -2964,6 +2977,12 @@
   "ic2:armor_priority_upgrade_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-10 00:41:03 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/brewing/molten_heart_potion": {
+    "criteria": {
+      "has_items": "2024-12-13 03:36:24 +0000"
     },
     "done": true
   },

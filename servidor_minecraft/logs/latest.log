@@ -4124,3 +4124,8 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [13Dec2024 03:36:46.614] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElCachita_HD lost connection: Disconnected
 [13Dec2024 03:36:46.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElCachita_HD left the game
 [13Dec2024 03:37:11.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AssaGM has made the advancement [Spooky Scary Skeleton]
+[13Dec2024 03:39:39.352] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_horse_armor
+[13Dec2024 03:46:56.058] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 golden_horse_armor
+[13Dec2024 03:46:57.401] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_horse_armor
+[13Dec2024 03:46:59.702] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_horse_armor
+[13Dec2024 03:47:01.801] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond_horse_armor
