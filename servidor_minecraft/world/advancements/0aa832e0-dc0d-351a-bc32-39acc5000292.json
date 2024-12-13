@@ -409,6 +409,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_infested_temple": {
+    "criteria": {
+      "location0": "2024-12-13 15:06:00 +0000"
+    },
+    "done": true
+  },
   "ic2:simple_fluid_import_upgrade_1_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-09 18:15:15 +0000"
