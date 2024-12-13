@@ -24,3 +24,10 @@
 [13Dec2024 00:00:47.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [YermanPC: Gave 1    [Zombie Spawn Egg] to YermanPC]
 [13Dec2024 00:00:56.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [YermanPC: Gave 64    [Shuriken] to YermanPC]
 [13Dec2024 00:00:58.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [YermanPC: Gave 16    [Quartz Shuriken] to YermanPC]
+[13Dec2024 00:02:23.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [YermanPC: Gave 1    [Musket] to YermanPC]
+[13Dec2024 00:02:32.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [YermanPC: Gave 64    [Zombie Spawn Egg] to YermanPC]
+[13Dec2024 00:02:44.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [YermanPC: Gave 64    [Paper Cartridge] to YermanPC]
+[13Dec2024 00:03:18.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [YermanPC: Gave 1    [Musket] to YermanPC]
+[13Dec2024 00:06:42.369] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: YermanPC lost connection: Disconnected
+[13Dec2024 00:06:42.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YermanPC left the game
+[13Dec2024 00:10:01.157] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: /127.51.19.16:49205 lost connection: Disconnected
