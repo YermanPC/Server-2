@@ -3830,3 +3830,13 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [13Dec2024 12:28:40.174] [Netty Epoll Server IO #0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/chat/LastSeenMessagesValidator$ErrorCondition
 [13Dec2024 12:28:40.218] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/chat/FilterMask$Type
 [13Dec2024 12:28:40.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElCachita_HD> bueno bueno bueno chicos
+[13Dec2024 12:32:47.310] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting slimeknights/tconstruct/smeltery/block/entity/tank/ISmelteryTankHandler$FluidChange
+[13Dec2024 12:36:04.766] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/stal111/forbidden_arcanus/common/entity/lostsoul/LostSoul$Variant
+[13Dec2024 12:36:57.764] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting gollorum/signpost/utils/ServerType
+[13Dec2024 12:36:59.672] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting gollorum/signpost/interactions/Interactable$InteractionResult
+[13Dec2024 12:36:59.674] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting gollorum/signpost/interactions/InteractionInfo$Type
+[13Dec2024 12:37:07.585] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[13Dec2024 12:37:23.730] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/IronGolem$Crackiness
+[13Dec2024 12:37:26.573] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2048ms or 40 ticks behind
+[13Dec2024 12:38:55.211] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/citadel/animation/AnimationHandler
+[13Dec2024 12:39:21.196] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2021ms or 40 ticks behind
