@@ -4178,3 +4178,9 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [13Dec2024 05:09:32.336] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AssaGM lost connection: Disconnected
 [13Dec2024 05:09:32.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AssaGM left the game
 [13Dec2024 05:09:39.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <YermanPC> asfsa
+[13Dec2024 05:09:52.640] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2753ms or 55 ticks behind
+[13Dec2024 05:10:09.993] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2356ms or 47 ticks behind
+[13Dec2024 05:14:28.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YermanPC has made the advancement [Who is Cutting Onions?]
+[13Dec2024 05:17:33.559] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2072ms or 41 ticks behind
+[13Dec2024 05:17:49.957] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YermanPC has made the advancement [Darude - Firestorm]
+[13Dec2024 05:18:02.503] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2066ms or 41 ticks behind

@@ -5,6 +5,12 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2024-12-13 05:14:28 +0000"
+    },
+    "done": true
+  },
   "tconstruct:tools/materials_and_you": {
     "criteria": {
       "crafted_book": "2024-12-09 02:46:03 +0000"
@@ -1280,6 +1286,12 @@
   "dungeons_arise:find_abandoned_temple": {
     "criteria": {
       "location0": "2024-12-10 18:48:15 +0000"
+    },
+    "done": true
+  },
+  "incendium:misc/root": {
+    "criteria": {
+      "incendium:volcanic_deltas": "2024-12-13 05:09:25 +0000"
     },
     "done": true
   },
@@ -3157,6 +3169,12 @@
     },
     "done": true
   },
+  "ic2:planter_pot_soul_sand_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-13 05:10:57 +0000"
+    },
+    "done": true
+  },
   "ic2:fuel_can_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-12 05:43:45 +0000"
@@ -3888,6 +3906,12 @@
     },
     "done": true
   },
+  "incendium:misc/soul_searcher": {
+    "criteria": {
+      "incendium:volcanic_deltas": "2024-12-13 05:09:25 +0000"
+    },
+    "done": false
+  },
   "ic2:cfoam_wool_black_3_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-09 02:49:31 +0000"
@@ -3903,6 +3927,12 @@
   "ic2:parachute_module_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-09 02:49:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2024-12-13 05:07:17 +0000"
     },
     "done": true
   },
@@ -4065,6 +4095,12 @@
   "ic2:mv_battery_station_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-09 02:47:55 +0000"
+    },
+    "done": true
+  },
+  "ic2:planter_pot_soul_soil_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-13 05:10:45 +0000"
     },
     "done": true
   },
@@ -4430,6 +4466,12 @@
   "ic2:insertion_tube_upgrade_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-10 01:07:38 +0000"
+    },
+    "done": true
+  },
+  "ic2:colossal_compressor_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-13 05:14:28 +0000"
     },
     "done": true
   },
@@ -4890,6 +4932,12 @@
     },
     "done": true
   },
+  "incendium:volcanic_deltas/root": {
+    "criteria": {
+      "incendium:volcanic_deltas": "2024-12-13 05:09:25 +0000"
+    },
+    "done": true
+  },
   "incendium:technical/new_player": {
     "criteria": {
       "requirement": "2024-12-09 02:46:03 +0000"
@@ -4907,6 +4955,12 @@
       "longbow": "2024-12-11 00:10:43 +0000"
     },
     "done": false
+  },
+  "enigmaticlegacy:recipes/generic/tome_uncrafting/withered_tome": {
+    "criteria": {
+      "has_items": "2024-12-13 05:07:22 +0000"
+    },
+    "done": true
   },
   "enigmaticlegacy:recipes/generic/berserk_charm": {
     "criteria": {
