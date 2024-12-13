@@ -3766,3 +3766,32 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [13Dec2024 11:44:53.786] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/living/LivingChangeTargetEvent$LivingTargetType
 [13Dec2024 11:45:59.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
 [13Dec2024 11:45:59.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ya estas adentro?<--[HERE]
+[13Dec2024 12:15:06.991] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/item/ItemCastableMagic$CastingTarget
+[13Dec2024 12:17:45.963] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 94
+[13Dec2024 12:17:46.202] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 95
+[13Dec2024 12:17:46.203] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 96
+[13Dec2024 12:17:46.204] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 97
+[13Dec2024 12:17:46.207] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 98
+[13Dec2024 12:17:46.998] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 99
+[13Dec2024 12:17:46.999] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 100
+[13Dec2024 12:17:47.003] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 101
+[13Dec2024 12:17:47.003] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 102
+[13Dec2024 12:17:47.004] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 103
+[13Dec2024 12:17:47.004] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 104
+[13Dec2024 12:17:47.004] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 105
+[13Dec2024 12:17:47.004] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 106
+[13Dec2024 12:17:47.007] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 107
+[13Dec2024 12:17:47.007] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 108
+[13Dec2024 12:17:47.156] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@47da59af
+[13Dec2024 12:17:47.201] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: AssaGM[/127.61.57.82:45803] logged in with entity id 6483 at (261.76764533800116, 72.5, -812.8803420133111)
+[13Dec2024 12:17:47.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AssaGM joined the game
+[13Dec2024 12:17:47.350] [Server thread/INFO] [Jade/]: Syncing config to AssaGM (0aa832e0-dc0d-351a-bc32-39acc5000292)
+[13Dec2024 12:17:47.384] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to AssaGM...
+[13Dec2024 12:17:47.384] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[13Dec2024 12:17:47.385] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to AssaGM
+[13Dec2024 12:17:50.579] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3405ms or 68 ticks behind
+[13Dec2024 12:17:51.114] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/gossip/GossipType
+[13Dec2024 12:17:51.402] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/vehicle/Boat$Status
+[13Dec2024 12:17:52.131] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/entity/BeehiveBlockEntity$BeeReleaseStatus
+[13Dec2024 12:18:38.966] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/player/Player$BedSleepingProblem
+[13Dec2024 12:18:48.956] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/ilexiconn/llibrary/server/animation/AnimationHandler
