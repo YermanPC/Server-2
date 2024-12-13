@@ -4157,3 +4157,5 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [13Dec2024 04:25:18.992] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
 [13Dec2024 04:25:18.993] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to YermanPC
 [13Dec2024 04:28:54.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [YermanPC: Gave 1    [Crafting Terminal] to YermanPC]
+[13Dec2024 04:29:13.880] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/tom/storagemod/gui/StorageTerminalMenu$SlotAction
+[13Dec2024 04:31:12.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YermanPC has made the advancement [For the Environment!]
