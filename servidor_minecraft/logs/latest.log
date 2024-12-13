@@ -3810,3 +3810,12 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [13Dec2024 18:41:02.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [YermanPC: Gave 64    [Water Cell] to YermanPC]
 [13Dec2024 18:41:27.994] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/gossip/GossipType
 [13Dec2024 18:41:51.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [YermanPC: Set own game mode to Survival Mode]
+[13Dec2024 18:47:06.603] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/player/Player$BedSleepingProblem
+[13Dec2024 18:47:54.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <YermanPC> weeeee
+[13Dec2024 18:48:01.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <YermanPC> baje 2 kilos en el baño
+[13Dec2024 18:48:24.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ClementePicaro> ah ese era el estruendo que escuche hace un ratito
+[13Dec2024 18:48:54.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <YermanPC> si
+[13Dec2024 18:49:02.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <YermanPC> salio con todo
+[13Dec2024 18:50:04.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [YermanPC: Gave 1    [Water Cell] to YermanPC]
+[13Dec2024 18:51:30.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [YermanPC: Gave 1    [Glassfiber Cable] to YermanPC]
+[13Dec2024 18:52:37.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [YermanPC: Set own game mode to Creative Mode]
