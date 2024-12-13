@@ -1111,6 +1111,8 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
+      "minecraft:nether_wastes": "2024-12-13 05:17:36 +0000",
+      "minecraft:soul_sand_valley": "2024-12-13 05:18:02 +0000",
       "minecraft:basalt_deltas": "2024-12-13 04:40:03 +0000"
     },
     "done": false
@@ -2189,6 +2191,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:book/decorations/lamp": {
+    "criteria": {
+      "has_the_recipe": "2024-12-13 05:24:54 +0000"
+    },
+    "done": true
+  },
   "ic2:circuit_1_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-09 03:47:47 +0000"
@@ -2280,9 +2288,21 @@
     },
     "done": true
   },
+  "enigmaticlegacy:recipes/generic/lamps": {
+    "criteria": {
+      "has_core_block": "2024-12-13 05:24:54 +0000"
+    },
+    "done": true
+  },
   "ic2:bronze_sword_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-09 02:49:49 +0000"
+    },
+    "done": true
+  },
+  "ic2:planter_pot_red_sand_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-13 05:22:08 +0000"
     },
     "done": true
   },
@@ -2779,6 +2799,12 @@
     },
     "done": true
   },
+  "incendium:infernal_dunes/root": {
+    "criteria": {
+      "incendium:infernal_dunes": "2024-12-13 05:17:49 +0000"
+    },
+    "done": true
+  },
   "ic2:big_ranged_ov_scanner_0_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-12 23:21:57 +0000"
@@ -2892,9 +2918,10 @@
   },
   "enigmaticlegacy:recipes/generic/redstonelamps": {
     "criteria": {
+      "has_parent_recipe": "2024-12-13 05:24:54 +0000",
       "has_core_block": "2024-12-10 02:04:15 +0000"
     },
-    "done": false
+    "done": true
   },
   "ic2:steam_turbine_recipe_advancement": {
     "criteria": {
@@ -2965,6 +2992,7 @@
       "mystic_grove": "2024-12-10 00:35:49 +0000",
       "cold_desert": "2024-12-09 02:46:26 +0000",
       "maple_woods": "2024-12-09 23:29:48 +0000",
+      "crystalline_chasm": "2024-12-13 05:17:37 +0000",
       "field": "2024-12-09 23:29:52 +0000",
       "coniferous_forest": "2024-12-09 02:46:53 +0000",
       "seasonal_orchard": "2024-12-09 03:05:43 +0000",
@@ -3505,6 +3533,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:book/decorations/redstone_lantern": {
+    "criteria": {
+      "has_the_recipe": "2024-12-13 05:24:54 +0000"
+    },
+    "done": true
+  },
   "ic2:aluminum_axe_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-09 02:49:49 +0000"
@@ -3908,6 +3942,7 @@
   },
   "incendium:misc/soul_searcher": {
     "criteria": {
+      "incendium:infernal_dunes": "2024-12-13 05:17:49 +0000",
       "incendium:volcanic_deltas": "2024-12-13 05:09:25 +0000"
     },
     "done": false
@@ -4662,6 +4697,12 @@
       "hasItem": "2024-12-09 20:23:59 +0000"
     },
     "done": true
+  },
+  "enigmaticlegacy:recipes/generic/shroomlamps": {
+    "criteria": {
+      "has_parent_recipe": "2024-12-13 05:24:54 +0000"
+    },
+    "done": false
   },
   "ic2:solar_helmet_0_recipe_advancement": {
     "criteria": {
