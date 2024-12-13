@@ -3816,3 +3816,13 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [13Dec2024 21:45:26.199] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to ClementePicaro...
 [13Dec2024 21:45:26.199] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
 [13Dec2024 21:45:26.200] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to ClementePicaro
+[13Dec2024 21:48:44.695] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting vazkii/quark/api/event/SimpleHarvestEvent$Source
+[13Dec2024 21:49:53.356] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting vazkii/quark/base/handler/SortingHandler$ItemType
+[13Dec2024 21:53:12.602] [Netty Epoll Server IO #0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/network/SMessageUpgradePerk$SyncType
+[13Dec2024 21:53:12.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ClementePicaro has made the advancement [Knowledge raises the soul]
+[13Dec2024 21:53:29.756] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/chat/FilterMask$Type
+[13Dec2024 21:53:29.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ClementePicaro> la llave al morir sale encantada?
+[13Dec2024 21:53:35.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <YermanPC> si
+[13Dec2024 21:53:42.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <YermanPC> se te habra bugeado si no
+[13Dec2024 21:53:50.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ClementePicaro> es que todavia no mori
+[13Dec2024 21:54:27.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ClementePicaro> era para saber que mejorarme
