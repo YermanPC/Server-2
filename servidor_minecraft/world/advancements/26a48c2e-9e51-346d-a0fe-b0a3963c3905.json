@@ -275,6 +275,12 @@
     },
     "done": false
   },
+  "simpleplanes:recipes/plane": {
+    "criteria": {
+      "in_fire": "2024-12-13 13:23:47 +0000"
+    },
+    "done": true
+  },
   "ic2:lv_flux_generator_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-09 03:12:19 +0000"

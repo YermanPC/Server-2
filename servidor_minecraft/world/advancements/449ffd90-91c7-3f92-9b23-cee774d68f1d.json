@@ -60,6 +60,12 @@
     },
     "done": true
   },
+  "ic2:cfoam_surface_yellow_0_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-13 13:25:45 +0000"
+    },
+    "done": true
+  },
   "tconstruct:internal/starting_book": {
     "criteria": {
       "tick": "2024-12-09 03:16:18 +0000"
@@ -186,6 +192,12 @@
     },
     "done": true
   },
+  "ic2:cfoam_yellow_0_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-13 13:25:45 +0000"
+    },
+    "done": true
+  },
   "ic2:glowtronic_crystal_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-09 04:01:43 +0000"
@@ -273,6 +285,12 @@
   "ic2:rubberwood_fence_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-09 03:28:23 +0000"
+    },
+    "done": true
+  },
+  "ic2:cfoam_stairs_yellow_2_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-13 13:25:45 +0000"
     },
     "done": true
   },
@@ -369,6 +387,12 @@
   "ic2:big_ranged_ov_scanner_0_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-09 04:01:43 +0000"
+    },
+    "done": true
+  },
+  "ic2:cfoam_carpet_yellow_3_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-13 13:25:45 +0000"
     },
     "done": true
   },
@@ -606,6 +630,12 @@
   "enigmaticlegacy:book/accessories/iron_ring": {
     "criteria": {
       "has_the_recipe": "2024-12-09 03:20:36 +0000"
+    },
+    "done": true
+  },
+  "ic2:cfoam_panel_yellow_1_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-13 13:25:45 +0000"
     },
     "done": true
   },
@@ -1030,6 +1060,12 @@
     },
     "done": true
   },
+  "ic2:cfoam_stairs_yellow_1_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-13 13:25:45 +0000"
+    },
+    "done": true
+  },
   "ic2:insulated_copper_cable_1_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-09 17:57:03 +0000"
@@ -1099,6 +1135,12 @@
   "ic2:cobblegen_upgrade_1_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-10 18:05:10 +0000"
+    },
+    "done": true
+  },
+  "ic2:painter_yellow_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-13 13:25:45 +0000"
     },
     "done": true
   },
@@ -1216,6 +1258,18 @@
     },
     "done": true
   },
+  "ic2:cfoam_wall_yellow_2_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-13 13:25:45 +0000"
+    },
+    "done": true
+  },
+  "ic2:cfoam_panel_yellow_0_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-13 13:25:45 +0000"
+    },
+    "done": true
+  },
   "ic2:condensator_lap_repair_lapis_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-10 02:27:34 +0000"
@@ -1288,6 +1342,12 @@
     },
     "done": true
   },
+  "ic2:cfoam_wool_yellow_0_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-13 13:25:45 +0000"
+    },
+    "done": true
+  },
   "ic2:tfbp_cultivation_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-09 03:25:18 +0000"
@@ -1297,6 +1357,12 @@
   "ic2:heat_exchanger_spread_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-09 03:31:32 +0000"
+    },
+    "done": true
+  },
+  "ic2:cfoam_slabs_yellow_1_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-13 13:25:45 +0000"
     },
     "done": true
   },
@@ -1430,8 +1496,10 @@
     "criteria": {
       "minecraft:taiga": "2024-12-09 20:00:37 +0000",
       "minecraft:frozen_river": "2024-12-09 03:23:22 +0000",
+      "minecraft:birch_forest": "2024-12-13 13:20:25 +0000",
       "minecraft:windswept_hills": "2024-12-10 18:08:47 +0000",
       "minecraft:beach": "2024-12-09 03:51:45 +0000",
+      "minecraft:dark_forest": "2024-12-13 13:20:18 +0000",
       "minecraft:river": "2024-12-09 03:23:24 +0000",
       "minecraft:snowy_plains": "2024-12-09 03:16:19 +0000",
       "minecraft:snowy_taiga": "2024-12-09 18:38:32 +0000",
@@ -1631,6 +1699,12 @@
   "ic2:ranged_od_scanner_1_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-09 04:01:43 +0000"
+    },
+    "done": true
+  },
+  "ic2:cfoam_surface_yellow_1_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-13 13:25:45 +0000"
     },
     "done": true
   },
@@ -1847,6 +1921,12 @@
   "ic2:insertion_tube_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-10 18:05:10 +0000"
+    },
+    "done": true
+  },
+  "ic2:cfoam_wool_carpet_yellow_1_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-13 13:25:45 +0000"
     },
     "done": true
   },
@@ -2178,6 +2258,12 @@
     },
     "done": true
   },
+  "ic2:cfoam_wool_yellow_1_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-13 13:25:45 +0000"
+    },
+    "done": true
+  },
   "ic2:mass_fabricator_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-09 04:01:43 +0000"
@@ -2274,6 +2360,12 @@
     },
     "done": true
   },
+  "ic2:cfoam_yellow_1_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-13 13:25:45 +0000"
+    },
+    "done": true
+  },
   "corail_dt:recipes/corail_dt/disk_1_2": {
     "criteria": {
       "requirement1": "2024-12-09 03:20:36 +0000"
@@ -2343,6 +2435,12 @@
   "ic2:wood_gassifier_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-11 19:31:40 +0000"
+    },
+    "done": true
+  },
+  "ic2:cfoam_wall_yellow_1_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-13 13:25:45 +0000"
     },
     "done": true
   },
@@ -3003,6 +3101,12 @@
       "requirement1": "2024-12-09 03:31:33 +0000"
     },
     "done": false
+  },
+  "ic2:cfoam_slabs_yellow_2_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-13 13:25:45 +0000"
+    },
+    "done": true
   },
   "corail_dt:recipes/corail_dt/disk_2_2": {
     "criteria": {
