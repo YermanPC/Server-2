@@ -3876,3 +3876,5 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [13Dec2024 19:30:23.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <YermanPC> avisame si te vas del server asi cierro
 [13Dec2024 19:30:26.288] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: YermanPC lost connection: Disconnected
 [13Dec2024 19:30:26.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YermanPC left the game
+[13Dec2024 19:37:48.584] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-48, y=68, z=-725} BlockPos{x=-47, y=68, z=-726}
+[13Dec2024 19:38:15.087] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-47, y=66, z=-721} BlockPos{x=-49, y=66, z=-723}
