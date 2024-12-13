@@ -4162,3 +4162,5 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [13Dec2024 04:40:01.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YermanPC has made the advancement [We Need to Go Deeper]
 [13Dec2024 04:40:01.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YermanPC has made the advancement [Incendium]
 [13Dec2024 04:43:14.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <YermanPC> fasf
+[13Dec2024 04:53:30.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YermanPC has reached the goal [Blood Island]
+[13Dec2024 04:55:41.865] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=29, y=34, z=-10} BlockPos{x=29, y=34, z=-11}

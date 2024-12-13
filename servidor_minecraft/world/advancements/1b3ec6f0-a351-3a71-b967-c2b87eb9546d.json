@@ -338,6 +338,7 @@
   "tconstruct:world/slime_collector": {
     "criteria": {
       "sky": "2024-12-10 00:29:09 +0000",
+      "magma_cream": "2024-12-13 04:54:56 +0000",
       "earth": "2024-12-09 21:35:07 +0000"
     },
     "done": false
@@ -443,6 +444,12 @@
   "ic2:mv_solar_panel_compressed_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-13 02:29:13 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:world/blood_island": {
+    "criteria": {
+      "found_island": "2024-12-13 04:53:30 +0000"
     },
     "done": true
   },
@@ -3048,6 +3055,7 @@
       "minecraft:pillager": "2024-12-09 23:32:24 +0000",
       "minecraft:skeleton": "2024-12-09 03:03:57 +0000",
       "minecraft:vindicator": "2024-12-09 23:36:48 +0000",
+      "minecraft:magma_cube": "2024-12-13 04:54:31 +0000",
       "minecraft:spider": "2024-12-09 03:37:58 +0000",
       "minecraft:creeper": "2024-12-09 03:57:19 +0000",
       "minecraft:evoker": "2024-12-09 23:34:13 +0000",
