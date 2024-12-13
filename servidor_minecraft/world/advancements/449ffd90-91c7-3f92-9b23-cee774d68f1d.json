@@ -222,6 +222,12 @@
     },
     "done": true
   },
+  "ic2:crafter_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-13 13:47:03 +0000"
+    },
+    "done": true
+  },
   "lootr:1chest": {
     "criteria": {
       "opened_chest": "2024-12-09 03:37:38 +0000"
@@ -605,6 +611,7 @@
     "criteria": {
       "muskeg": "2024-12-09 18:01:00 +0000",
       "shrubland": "2024-12-09 03:50:55 +0000",
+      "rocky_shrubland": "2024-12-13 13:37:20 +0000",
       "highland": "2024-12-13 13:13:37 +0000",
       "cold_desert": "2024-12-09 03:20:46 +0000",
       "maple_woods": "2024-12-09 04:09:56 +0000",
@@ -1120,6 +1127,12 @@
     },
     "done": true
   },
+  "ic2:food_storage_module_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-13 13:47:03 +0000"
+    },
+    "done": true
+  },
   "ic2:cfoam_wall_red_2_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-13 12:18:39 +0000"
@@ -1360,6 +1373,12 @@
     },
     "done": true
   },
+  "ic2:inventory_card_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-13 13:47:03 +0000"
+    },
+    "done": true
+  },
   "ic2:cfoam_slabs_yellow_1_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-13 13:25:45 +0000"
@@ -1511,6 +1530,7 @@
       "minecraft:deep_frozen_ocean": "2024-12-10 19:43:11 +0000",
       "minecraft:snowy_beach": "2024-12-09 19:57:28 +0000",
       "minecraft:old_growth_birch_forest": "2024-12-13 13:15:37 +0000",
+      "minecraft:meadow": "2024-12-13 13:29:17 +0000",
       "minecraft:windswept_gravelly_hills": "2024-12-10 18:08:25 +0000",
       "minecraft:plains": "2024-12-09 03:24:20 +0000"
     },
@@ -1753,6 +1773,12 @@
   "ic2:glass_cold_dark_coffee_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-11 00:32:41 +0000"
+    },
+    "done": true
+  },
+  "ic2:storage_expansion_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-13 13:47:03 +0000"
     },
     "done": true
   },

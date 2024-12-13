@@ -3979,3 +3979,140 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [13Dec2024 13:22:59.521] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AssaGM left the game
 [13Dec2024 13:24:14.007] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting io/github/mortuusars/monobank/Thief$Offence
 [13Dec2024 13:31:37.561] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Chicken['Evil Chicken'/41273, l='ServerLevel[world]', x=-767.97, y=74.00, z=3014.48] died: Evil Chicken was slain by FlacoSchiavi
+[13Dec2024 13:32:48.066] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2041ms or 40 ticks behind
+[13Dec2024 13:33:25.902] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=606, y=81, z=69} BlockPos{x=604, y=81, z=70}
+[13Dec2024 13:33:25.954] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=606, y=81, z=69} BlockPos{x=604, y=81, z=70}
+[13Dec2024 13:33:26.007] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=606, y=81, z=69} BlockPos{x=604, y=81, z=70}
+[13Dec2024 13:33:31.166] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=598, y=78, z=76} BlockPos{x=598, y=77, z=76}
+[13Dec2024 13:33:31.211] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=598, y=78, z=76} BlockPos{x=598, y=77, z=76}
+[13Dec2024 13:33:31.256] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=598, y=78, z=76} BlockPos{x=598, y=77, z=76}
+[13Dec2024 13:33:44.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElCachita_HD has made the advancement [Strange Biomes]
+[13Dec2024 13:34:00.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElCachita_HD> loco vos ya estas de vacas?
+[13Dec2024 13:34:32.357] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=668, y=57, z=40} BlockPos{x=669, y=56, z=39}
+[13Dec2024 13:34:32.561] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=668, y=57, z=40} BlockPos{x=669, y=55, z=38}
+[13Dec2024 13:34:57.817] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 94
+[13Dec2024 13:34:57.818] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 95
+[13Dec2024 13:34:57.926] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 96
+[13Dec2024 13:34:57.929] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 97
+[13Dec2024 13:34:57.982] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 98
+[13Dec2024 13:34:58.063] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 99
+[13Dec2024 13:34:58.127] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 100
+[13Dec2024 13:34:58.187] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 101
+[13Dec2024 13:34:58.311] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 102
+[13Dec2024 13:34:58.311] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 103
+[13Dec2024 13:34:58.435] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 104
+[13Dec2024 13:34:58.435] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 105
+[13Dec2024 13:34:58.560] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 106
+[13Dec2024 13:34:58.561] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 107
+[13Dec2024 13:34:58.561] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 108
+[13Dec2024 13:34:58.680] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@3e5308ab
+[13Dec2024 13:34:58.741] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: AssaGM[/127.61.57.82:44981] logged in with entity id 47508 at (266.9115684045922, 68.0, -810.0142701755819)
+[13Dec2024 13:34:58.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AssaGM joined the game
+[13Dec2024 13:34:58.952] [Server thread/INFO] [Jade/]: Syncing config to AssaGM (0aa832e0-dc0d-351a-bc32-39acc5000292)
+[13Dec2024 13:34:59.007] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to AssaGM...
+[13Dec2024 13:34:59.007] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[13Dec2024 13:34:59.010] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to AssaGM
+[13Dec2024 13:35:06.682] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[13Dec2024 13:35:27.989] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind
+[13Dec2024 13:35:52.415] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2041ms or 40 ticks behind
+[13Dec2024 13:36:14.837] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
+[13Dec2024 13:36:41.592] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2018ms or 40 ticks behind
+[13Dec2024 13:37:08.825] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[13Dec2024 13:37:29.642] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5818ms or 116 ticks behind
+[13Dec2024 13:38:16.976] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[13Dec2024 13:39:17.263] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-18, y=76, z=-780} BlockPos{x=-19, y=75, z=-779}
+[13Dec2024 13:39:17.324] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-18, y=76, z=-780} BlockPos{x=-19, y=75, z=-779}
+[13Dec2024 13:39:17.414] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-18, y=76, z=-779} BlockPos{x=-19, y=75, z=-779}
+[13Dec2024 13:39:17.422] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-18, y=76, z=-779} BlockPos{x=-19, y=75, z=-779}
+[13Dec2024 13:39:17.512] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-18, y=76, z=-779} BlockPos{x=-19, y=75, z=-779}
+[13Dec2024 13:39:17.567] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-18, y=76, z=-778} BlockPos{x=-19, y=75, z=-779}
+[13Dec2024 13:40:41.898] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3973ms or 79 ticks behind
+[13Dec2024 13:40:46.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <FlacoSchiavi> asddas
+[13Dec2024 13:41:00.836] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-71, y=-48, z=-26}
+[13Dec2024 13:41:01.181] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/level/PistonEvent$PistonMoveType
+[13Dec2024 13:41:01.185] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting vazkii/quark/api/ICollateralMover$MoveResult
+[13Dec2024 13:41:01.695] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4820ms or 96 ticks behind
+[13Dec2024 13:41:13.832] [Worker-Main-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/horse/Variant
+[13Dec2024 13:41:13.838] [Worker-Main-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/horse/Markings
+[13Dec2024 13:41:18.074] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-30, y=79, z=-758} BlockPos{x=-30, y=78, z=-759}
+[13Dec2024 13:41:18.076] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-30, y=79, z=-758} BlockPos{x=-30, y=78, z=-759}
+[13Dec2024 13:41:18.086] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-29, y=78, z=-757} BlockPos{x=-29, y=77, z=-755}
+[13Dec2024 13:41:19.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <FlacoSchiavi> asdas
+[13Dec2024 13:41:22.965] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-57, z=12}
+[13Dec2024 13:41:22.969] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=7, y=-58, z=18}
+[13Dec2024 13:41:22.969] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=6, y=-58, z=18}
+[13Dec2024 13:41:22.970] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=4, y=-58, z=17}
+[13Dec2024 13:41:22.970] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=9, y=-58, z=20}
+[13Dec2024 13:41:22.971] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=25, y=-57, z=10}
+[13Dec2024 13:41:22.971] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=16, y=-57, z=8}
+[13Dec2024 13:41:22.971] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=17, y=-56, z=14}
+[13Dec2024 13:41:22.972] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=16, y=-56, z=14}
+[13Dec2024 13:41:22.973] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=16, y=-56, z=14}
+[13Dec2024 13:41:22.973] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=16, y=-58, z=20}
+[13Dec2024 13:41:24.801] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8126ms or 162 ticks behind
+[13Dec2024 13:41:27.233] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-41, y=80, z=-761} BlockPos{x=-41, y=78, z=-762}
+[13Dec2024 13:42:01.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElCachita_HD has made the advancement [Defunct Machinery]
+[13Dec2024 13:42:53.396] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/material/MaterialColor$Brightness
+[13Dec2024 13:43:00.263] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-48, y=81, z=-771} BlockPos{x=-49, y=79, z=-772}
+[13Dec2024 13:44:29.725] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-82, y=86, z=-751} BlockPos{x=-81, y=86, z=-752}
+[13Dec2024 13:44:30.114] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-82, y=85, z=-753} BlockPos{x=-83, y=85, z=-752}
+[13Dec2024 13:44:30.225] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-83, y=85, z=-753} BlockPos{x=-82, y=84, z=-753}
+[13Dec2024 13:44:30.459] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-84, y=86, z=-753} BlockPos{x=-84, y=84, z=-753}
+[13Dec2024 13:44:51.469] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-97, y=92, z=-742} BlockPos{x=-97, y=92, z=-741}
+[13Dec2024 13:44:51.519] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-97, y=92, z=-742} BlockPos{x=-97, y=92, z=-741}
+[13Dec2024 13:44:51.621] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-98, y=94, z=-741} BlockPos{x=-99, y=93, z=-741}
+[13Dec2024 13:44:52.714] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-97, y=96, z=-738} BlockPos{x=-97, y=95, z=-736}
+[13Dec2024 13:45:15.095] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2020ms or 40 ticks behind
+[13Dec2024 13:45:18.029] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-57, z=12}
+[13Dec2024 13:45:18.030] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=7, y=-58, z=18}
+[13Dec2024 13:45:18.030] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=6, y=-58, z=18}
+[13Dec2024 13:45:18.030] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=4, y=-58, z=17}
+[13Dec2024 13:45:18.030] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=9, y=-58, z=20}
+[13Dec2024 13:45:18.031] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=25, y=-57, z=10}
+[13Dec2024 13:45:18.031] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=16, y=-57, z=8}
+[13Dec2024 13:45:18.031] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=17, y=-56, z=14}
+[13Dec2024 13:45:18.031] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=16, y=-56, z=14}
+[13Dec2024 13:45:18.032] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=16, y=-56, z=14}
+[13Dec2024 13:45:18.032] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=16, y=-58, z=20}
+[13Dec2024 13:47:08.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElCachita_HD> flaco estas en tu casa?
+[13Dec2024 13:47:13.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <FlacoSchiavi> no
+[13Dec2024 13:47:21.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <FlacoSchiavi> encontre otra casa de duende
+[13Dec2024 13:47:22.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElCachita_HD> :(
+[13Dec2024 13:47:30.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElCachita_HD> end habilita3?
+[13Dec2024 13:47:41.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AssaGM> german el gay dijo que no
+[13Dec2024 13:47:52.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AssaGM> pero vos anda si queres
+[13Dec2024 13:48:01.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AssaGM> yo te doy permiso
+[13Dec2024 13:49:51.102] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2078ms or 41 ticks behind
+[13Dec2024 13:50:02.600] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-57, z=12}
+[13Dec2024 13:50:02.601] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=7, y=-58, z=18}
+[13Dec2024 13:50:02.602] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=6, y=-58, z=18}
+[13Dec2024 13:50:02.602] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=4, y=-58, z=17}
+[13Dec2024 13:50:02.602] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=9, y=-58, z=20}
+[13Dec2024 13:50:02.602] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=25, y=-57, z=10}
+[13Dec2024 13:50:02.602] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=16, y=-57, z=8}
+[13Dec2024 13:50:02.603] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=17, y=-56, z=14}
+[13Dec2024 13:50:02.603] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=16, y=-56, z=14}
+[13Dec2024 13:50:02.603] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=16, y=-56, z=14}
+[13Dec2024 13:50:02.603] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=16, y=-58, z=20}
+[13Dec2024 13:50:55.202] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-455, y=62, z=-341} BlockPos{x=-455, y=60, z=-341}
+[13Dec2024 13:51:00.589] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=205, y=51, z=204}
+[13Dec2024 13:51:17.891] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-57, z=12}
+[13Dec2024 13:51:17.892] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=7, y=-58, z=18}
+[13Dec2024 13:51:17.893] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=6, y=-58, z=18}
+[13Dec2024 13:51:17.893] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=4, y=-58, z=17}
+[13Dec2024 13:51:17.893] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=9, y=-58, z=20}
+[13Dec2024 13:51:17.893] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=25, y=-57, z=10}
+[13Dec2024 13:51:17.894] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=16, y=-57, z=8}
+[13Dec2024 13:51:17.894] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=17, y=-56, z=14}
+[13Dec2024 13:51:17.894] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=16, y=-56, z=14}
+[13Dec2024 13:51:17.894] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=16, y=-56, z=14}
+[13Dec2024 13:51:17.894] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=16, y=-58, z=20}
+[13Dec2024 13:51:44.248] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[13Dec2024 13:51:44.249] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[13Dec2024 13:51:44.249] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[13Dec2024 13:51:44.260] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[13Dec2024 13:51:44.260] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[13Dec2024 13:51:44.260] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[13Dec2024 13:51:51.962] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-142, y=95, z=-748} BlockPos{x=-141, y=93, z=-747}
+[13Dec2024 13:52:01.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <FlacoSchiavi> dos casas del duende a dos pasos
+[13Dec2024 13:52:07.174] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-458, y=57, z=-383} BlockPos{x=-458, y=56, z=-383}
