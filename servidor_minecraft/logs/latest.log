@@ -4191,3 +4191,5 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [13Dec2024 05:30:06.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [YermanPC: Set own game mode to Survival Mode]
 [13Dec2024 05:30:20.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [YermanPC: Set own game mode to Spectator Mode]
 [13Dec2024 05:31:47.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [YermanPC: Set own game mode to Survival Mode]
+[13Dec2024 05:49:06.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [YermanPC: Set own game mode to Creative Mode]
+[13Dec2024 05:50:18.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YermanPC has made the advancement [Storage Upgrade]
