@@ -440,6 +440,12 @@
     },
     "done": true
   },
+  "ic2:mv_solar_panel_compressed_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-13 02:29:13 +0000"
+    },
+    "done": true
+  },
   "ic2:electrolyzer_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-12 17:28:13 +0000"
@@ -1221,6 +1227,12 @@
     },
     "done": true
   },
+  "ic2:redirector_master_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-13 02:29:13 +0000"
+    },
+    "done": true
+  },
   "enigmaticlegacy:recipes/generic/heaven_scroll": {
     "criteria": {
       "has_parent_recipe": "2024-12-09 18:05:54 +0000"
@@ -1253,6 +1265,7 @@
   },
   "tconstruct:smeltery/cast_collector": {
     "criteria": {
+      "tough_handle": "2024-12-13 02:36:33 +0000",
       "ingot": "2024-12-12 16:14:38 +0000"
     },
     "done": false
@@ -2057,6 +2070,12 @@
   "ic2:redstone_sensitivity_upgrade_1_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-09 03:56:00 +0000"
+    },
+    "done": true
+  },
+  "ic2:refined_iron_ingot_0_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-13 02:30:55 +0000"
     },
     "done": true
   },
@@ -2906,6 +2925,12 @@
   "ic2:carbon_boat_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-10 02:29:29 +0000"
+    },
+    "done": true
+  },
+  "ic2:mv_solar_panel_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-13 02:29:13 +0000"
     },
     "done": true
   },
@@ -4382,6 +4407,12 @@
   "ic2:su_battery_6_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-09 03:47:47 +0000"
+    },
+    "done": true
+  },
+  "ic2:mv_water_mill_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-13 02:29:13 +0000"
     },
     "done": true
   },

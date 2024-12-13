@@ -3958,3 +3958,41 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [13Dec2024 02:21:48.371] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/helper/LangKey
 [13Dec2024 02:21:48.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AssaGM has made the advancement [Neighborhood Brawl]
 [13Dec2024 02:21:48.378] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Doug'/19759, l='ServerLevel[world]', x=-1931.51, y=234.00, z=114.55] died: Doug was slain by AssaGM
+[13Dec2024 02:24:59.925] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/player/Player$BedSleepingProblem
+[13Dec2024 02:25:00.627] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: YermanPC lost connection: Timed out
+[13Dec2024 02:25:00.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YermanPC left the game
+[13Dec2024 02:26:08.708] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: /127.51.19.16:35861 lost connection: Disconnected
+[13Dec2024 02:26:26.971] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 94
+[13Dec2024 02:26:27.155] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 95
+[13Dec2024 02:26:27.164] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 96
+[13Dec2024 02:26:27.164] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 97
+[13Dec2024 02:26:27.164] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 98
+[13Dec2024 02:26:27.242] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 99
+[13Dec2024 02:26:27.450] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 100
+[13Dec2024 02:26:27.451] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 101
+[13Dec2024 02:26:27.460] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 102
+[13Dec2024 02:26:27.460] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 103
+[13Dec2024 02:26:27.502] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 104
+[13Dec2024 02:26:27.594] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 105
+[13Dec2024 02:26:27.595] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 106
+[13Dec2024 02:26:27.627] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 107
+[13Dec2024 02:26:27.815] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 108
+[13Dec2024 02:26:27.920] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@7c2db859
+[13Dec2024 02:26:27.956] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: YermanPC[/127.51.19.16:44591] logged in with entity id 42568 at (-71.51995958651592, 89.0, -292.74267583143575)
+[13Dec2024 02:26:28.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YermanPC joined the game
+[13Dec2024 02:26:28.088] [Server thread/INFO] [Jade/]: Syncing config to YermanPC (1b3ec6f0-a351-3a71-b967-c2b87eb9546d)
+[13Dec2024 02:26:28.112] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to YermanPC...
+[13Dec2024 02:26:28.113] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[13Dec2024 02:26:28.113] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to YermanPC
+[13Dec2024 02:33:06.311] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6824ms or 136 ticks behind
+[13Dec2024 02:33:06.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <YermanPC> fasf
+[13Dec2024 02:41:53.978] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/IronGolem$Crackiness
+[13Dec2024 02:43:57.656] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting io/redspace/ironsspellbooks/capabilities/magic/RecastResult
+[13Dec2024 02:43:57.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AssaGM was slain by Cave Dweller
+[13Dec2024 02:43:57.681] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/helper/SpawnHelper$SpawnResult
+[13Dec2024 02:43:57.683] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/helper/SpawnHelper$PlacementType
+[13Dec2024 02:43:57.684] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/helper/SpawnHelper$PlaceType
+[13Dec2024 02:43:57.723] [Server thread/INFO] [tombstone/]: The player AssaGM has successfully been saved
+[13Dec2024 02:43:58.914] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[13Dec2024 02:44:00.241] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/item/ItemCastableMagic$CastingTarget
+[13Dec2024 02:44:01.676] [Netty Epoll Server IO #5/INFO] [com.teampotato.redirector.Redirector/]: Redirecting xyz/przemyk/simpleplanes/network/CycleItemsPacket$Type

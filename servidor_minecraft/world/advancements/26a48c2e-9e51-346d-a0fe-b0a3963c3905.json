@@ -1417,6 +1417,7 @@
   "tconstruct:smeltery/cast_collector": {
     "criteria": {
       "large_plate": "2024-12-12 21:20:20 +0000",
+      "tough_handle": "2024-12-13 02:36:38 +0000",
       "hammer_head": "2024-12-12 21:20:14 +0000",
       "ingot": "2024-12-11 19:17:08 +0000"
     },
@@ -1943,12 +1944,6 @@
       "hasItem": "2024-12-09 03:33:02 +0000"
     },
     "done": true
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "requirement": "2024-12-13 02:22:19 +0000"
-    },
-    "done": false
   },
   "ic2:su_battery_0_recipe_advancement": {
     "criteria": {
