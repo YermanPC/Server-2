@@ -1253,6 +1253,12 @@
     },
     "done": false
   },
+  "ic2:fisher_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-13 13:57:30 +0000"
+    },
+    "done": true
+  },
   "ic2:item_limiter_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-09 20:59:26 +0000"
@@ -2624,6 +2630,12 @@
   "ic2:solar_turbine_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-11 19:25:26 +0000"
+    },
+    "done": true
+  },
+  "ic2:villager_o_mat_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-13 13:57:30 +0000"
     },
     "done": true
   },
@@ -4092,6 +4104,12 @@
   "enigmaticlegacy:recipes/generic/extradimensional_eye": {
     "criteria": {
       "has_items": "2024-12-10 01:34:05 +0000"
+    },
+    "done": true
+  },
+  "ic2:electric_treetap_upgrade_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-13 13:57:30 +0000"
     },
     "done": true
   },
