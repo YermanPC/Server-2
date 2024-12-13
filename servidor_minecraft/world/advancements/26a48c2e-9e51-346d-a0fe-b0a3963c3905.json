@@ -1670,6 +1670,12 @@
     },
     "done": true
   },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2024-12-13 23:01:48 +0000"
+    },
+    "done": true
+  },
   "ic2:cfoam_wool_orange_2_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-12 01:36:21 +0000"
@@ -3533,6 +3539,7 @@
       "minecraft:stray": "2024-12-13 03:17:09 +0000",
       "minecraft:vex": "2024-12-13 02:53:50 +0000",
       "minecraft:zombie": "2024-12-09 03:04:31 +0000",
+      "quark:foxhound": "2024-12-13 22:51:55 +0000",
       "minecraft:drowned": "2024-12-10 14:15:40 +0000",
       "minecraft:zombie_villager": "2024-12-10 01:49:08 +0000"
     },
@@ -4261,6 +4268,12 @@
   "ic2:build_cable": {
     "criteria": {
       "hasItem": "2024-12-10 01:03:17 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/relics/void_stone": {
+    "criteria": {
+      "has_items": "2024-12-13 22:58:06 +0000"
     },
     "done": true
   },
@@ -5481,6 +5494,12 @@
   "casinocraft:recipes/decorations/item_quartz": {
     "criteria": {
       "has_quartz": "2024-12-12 16:18:49 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_magic_tablet": {
+    "criteria": {
+      "has_magic_tablet": "2024-12-13 22:55:52 +0000"
     },
     "done": true
   },

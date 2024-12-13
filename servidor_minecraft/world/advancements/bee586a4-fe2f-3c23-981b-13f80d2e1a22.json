@@ -731,6 +731,12 @@
     },
     "done": true
   },
+  "ic2:step_module_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-13 22:47:34 +0000"
+    },
+    "done": true
+  },
   "ic2:gold_module_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-12 11:10:13 +0000"
