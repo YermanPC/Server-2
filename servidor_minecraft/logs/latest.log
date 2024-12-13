@@ -4130,3 +4130,5 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [13Dec2024 03:46:59.702] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_horse_armor
 [13Dec2024 03:47:01.801] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond_horse_armor
 [13Dec2024 03:54:55.953] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AssaGM moved wrongly!
+[13Dec2024 04:01:30.848] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Maureen'/94247, l='ServerLevel[world]', x=193.79, y=61.00, z=-840.42] died, message: 'Maureen suffocated in a wall'
+[13Dec2024 04:01:30.850] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Maureen'/94247, l='ServerLevel[world]', x=193.79, y=61.00, z=-840.42] died: Maureen suffocated in a wall
