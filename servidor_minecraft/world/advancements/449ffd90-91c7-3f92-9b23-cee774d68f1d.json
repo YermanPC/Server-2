@@ -102,6 +102,12 @@
     },
     "done": true
   },
+  "ic2:cfoam_stairs_red_1_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-13 12:18:39 +0000"
+    },
+    "done": true
+  },
   "ic2:static_boots_1_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-09 03:23:53 +0000"
@@ -141,6 +147,12 @@
   "ic2:wet_cfoam_0_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-09 03:58:53 +0000"
+    },
+    "done": true
+  },
+  "ic2:cfoam_red_1_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-13 12:18:39 +0000"
     },
     "done": true
   },
@@ -267,6 +279,12 @@
   "ic2:unprinted_wiki_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-09 03:44:35 +0000"
+    },
+    "done": true
+  },
+  "ic2:cfoam_panel_red_0_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-13 12:18:39 +0000"
     },
     "done": true
   },
@@ -414,6 +432,12 @@
     },
     "done": true
   },
+  "ic2:cfoam_slabs_red_1_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-13 12:18:39 +0000"
+    },
+    "done": true
+  },
   "ic2:hopper_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-09 03:42:16 +0000"
@@ -438,9 +462,27 @@
     },
     "done": true
   },
+  "ic2:cfoam_wool_red_3_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-13 12:18:53 +0000"
+    },
+    "done": true
+  },
   "enigmaticlegacy:recipes/generic/hunter_guidebook": {
     "criteria": {
       "has_items": "2024-12-09 04:09:40 +0000"
+    },
+    "done": true
+  },
+  "casinocraft:recipes/decorations/wool_red": {
+    "criteria": {
+      "has_wool": "2024-12-13 12:18:53 +0000"
+    },
+    "done": true
+  },
+  "ic2:cfoam_wool_red_0_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-13 12:18:39 +0000"
     },
     "done": true
   },
@@ -458,9 +500,10 @@
   },
   "enigmaticlegacy:recipes/generic/redstonelamps": {
     "criteria": {
+      "has_parent_recipe": "2024-12-13 12:19:05 +0000",
       "has_core_block": "2024-12-09 19:58:19 +0000"
     },
-    "done": false
+    "done": true
   },
   "ic2:aluminum_shovel_recipe_advancement": {
     "criteria": {
@@ -586,6 +629,12 @@
   "ic2:cfoam_surface_blue_0_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-11 19:33:08 +0000"
+    },
+    "done": true
+  },
+  "ic2:cfoam_wall_red_1_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-13 12:18:39 +0000"
     },
     "done": true
   },
@@ -1025,6 +1074,12 @@
     },
     "done": true
   },
+  "ic2:cfoam_wall_red_2_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-13 12:18:39 +0000"
+    },
+    "done": true
+  },
   "ic2:magnetizer_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-09 03:58:53 +0000"
@@ -1145,6 +1200,12 @@
     },
     "done": true
   },
+  "ic2:cfoam_surface_red_1_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-13 12:18:39 +0000"
+    },
+    "done": true
+  },
   "ic2:condensator_lap_repair_lapis_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-10 02:27:34 +0000"
@@ -1154,6 +1215,12 @@
   "ic2:treetap_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-09 03:28:14 +0000"
+    },
+    "done": true
+  },
+  "ic2:cfoam_stairs_red_2_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-13 12:18:39 +0000"
     },
     "done": true
   },
@@ -1259,6 +1326,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:book/decorations/redstone_lantern": {
+    "criteria": {
+      "has_the_recipe": "2024-12-13 12:19:05 +0000"
+    },
+    "done": true
+  },
   "ic2:nuke_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-09 03:56:25 +0000"
@@ -1301,6 +1374,12 @@
     },
     "done": true
   },
+  "ic2:painter_red_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-13 12:18:39 +0000"
+    },
+    "done": true
+  },
   "tombstone:recipes/from_grave_dust": {
     "criteria": {
       "has_ingredient": "2024-12-09 03:22:02 +0000"
@@ -1328,6 +1407,12 @@
   "enigmaticlegacy:book/enchantments/generic": {
     "criteria": {
       "has_items": "2024-12-09 04:08:02 +0000"
+    },
+    "done": true
+  },
+  "ic2:cfoam_carpet_red_3_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-13 12:18:39 +0000"
     },
     "done": true
   },
@@ -1673,6 +1758,12 @@
   "ulterlands:the_ulterlands": {
     "criteria": {
       "the_ulterlands": "2024-12-09 03:16:18 +0000"
+    },
+    "done": true
+  },
+  "ic2:cfoam_surface_red_0_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-13 12:18:39 +0000"
     },
     "done": true
   },
@@ -2058,6 +2149,12 @@
     },
     "done": true
   },
+  "ic2:cfoam_panel_red_1_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-13 12:18:39 +0000"
+    },
+    "done": true
+  },
   "ic2:pickup_tube_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-10 18:05:10 +0000"
@@ -2097,6 +2194,12 @@
   "ic2:glass_cold_black_tea_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-11 00:32:41 +0000"
+    },
+    "done": true
+  },
+  "ic2:cfoam_wool_red_1_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-13 12:18:39 +0000"
     },
     "done": true
   },
@@ -2153,6 +2256,12 @@
       "requirement1": "2024-12-09 03:28:55 +0000"
     },
     "done": false
+  },
+  "ic2:cfoam_slabs_red_2_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-13 12:18:39 +0000"
+    },
+    "done": true
   },
   "corail_dt:recipes/corail_dt/disk_1_2": {
     "criteria": {
@@ -2797,6 +2906,18 @@
     },
     "done": true
   },
+  "ic2:cfoam_red_0_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-13 12:18:39 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:recipes/generic/shroomlamps": {
+    "criteria": {
+      "has_parent_recipe": "2024-12-13 12:19:05 +0000"
+    },
+    "done": false
+  },
   "ic2:solar_helmet_0_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-09 03:20:36 +0000"
@@ -3034,6 +3155,12 @@
     },
     "done": true
   },
+  "ic2:cfoam_wool_red_2_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-13 12:18:53 +0000"
+    },
+    "done": true
+  },
   "ic2:directional_tube_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-09 03:20:36 +0000"
@@ -3091,6 +3218,12 @@
   "ic2:planter_pot_mud_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-09 18:54:29 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/decorations/lamp": {
+    "criteria": {
+      "has_the_recipe": "2024-12-13 12:19:05 +0000"
     },
     "done": true
   },
@@ -3230,6 +3363,12 @@
   "minecraft:adventure/shoot_arrow": {
     "criteria": {
       "shot_arrow": "2024-12-09 17:51:55 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:recipes/generic/lamps": {
+    "criteria": {
+      "has_core_block": "2024-12-13 12:19:05 +0000"
     },
     "done": true
   },
@@ -3446,6 +3585,12 @@
   "ic2:lv_chargepad_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-10 19:19:39 +0000"
+    },
+    "done": true
+  },
+  "ic2:cfoam_wool_carpet_red_1_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-13 12:18:39 +0000"
     },
     "done": true
   },
