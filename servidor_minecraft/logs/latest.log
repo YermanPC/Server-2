@@ -3878,3 +3878,29 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [13Dec2024 19:30:26.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YermanPC left the game
 [13Dec2024 19:37:48.584] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-48, y=68, z=-725} BlockPos{x=-47, y=68, z=-726}
 [13Dec2024 19:38:15.087] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-47, y=66, z=-721} BlockPos{x=-49, y=66, z=-723}
+[13Dec2024 19:47:04.982] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AssaGM lost connection: Timed out
+[13Dec2024 19:47:04.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AssaGM left the game
+[13Dec2024 19:47:05.046] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[13Dec2024 19:47:11.534] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@14295a0b[id=<null>,name=AssaGM,properties={},legacy=false] (/127.61.57.82:52723) lost connection: Disconnected
+[13Dec2024 19:47:19.147] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 94
+[13Dec2024 19:47:19.279] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 95
+[13Dec2024 19:47:19.325] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 96
+[13Dec2024 19:47:19.325] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 97
+[13Dec2024 19:47:19.383] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 98
+[13Dec2024 19:47:19.425] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 99
+[13Dec2024 19:47:19.425] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 100
+[13Dec2024 19:47:19.508] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 101
+[13Dec2024 19:47:19.543] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 102
+[13Dec2024 19:47:19.607] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 103
+[13Dec2024 19:47:19.677] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 104
+[13Dec2024 19:47:19.725] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 105
+[13Dec2024 19:47:19.809] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 106
+[13Dec2024 19:47:19.809] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 107
+[13Dec2024 19:47:19.809] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 108
+[13Dec2024 19:47:19.915] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@6ee28dcf
+[13Dec2024 19:47:19.948] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: AssaGM[/127.61.57.82:48181] logged in with entity id 23836 at (-43.19059944919607, 66.0, -723.109548233191)
+[13Dec2024 19:47:20.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AssaGM joined the game
+[13Dec2024 19:47:20.063] [Server thread/INFO] [Jade/]: Syncing config to AssaGM (0aa832e0-dc0d-351a-bc32-39acc5000292)
+[13Dec2024 19:47:20.088] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to AssaGM...
+[13Dec2024 19:47:20.089] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[13Dec2024 19:47:20.090] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to AssaGM
