@@ -484,6 +484,12 @@
     },
     "done": true
   },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-13 06:04:31 +0000"
+    },
+    "done": false
+  },
   "ic2:tfbp_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-09 03:47:47 +0000"
@@ -687,6 +693,12 @@
       "hasItem": "2024-12-12 21:59:41 +0000"
     },
     "done": true
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-13 06:04:31 +0000"
+    },
+    "done": false
   },
   "ic2:lap_pack_recipe_advancement": {
     "criteria": {
@@ -915,6 +927,12 @@
       "hasItem": "2024-12-09 20:23:59 +0000"
     },
     "done": true
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-13 06:04:31 +0000"
+    },
+    "done": false
   },
   "ic2:iron_furnace_upgrade_recipe_advancement": {
     "criteria": {
@@ -1800,6 +1818,12 @@
     },
     "done": true
   },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-13 06:04:31 +0000"
+    },
+    "done": false
+  },
   "minecraft:story/upgrade_tools": {
     "criteria": {
       "stone_pickaxe": "2024-12-09 02:50:21 +0000"
@@ -1859,6 +1883,12 @@
       "hasItem": "2024-12-09 03:47:47 +0000"
     },
     "done": true
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-13 06:04:31 +0000"
+    },
+    "done": false
   },
   "ic2:su_battery_0_recipe_advancement": {
     "criteria": {
@@ -2359,6 +2389,12 @@
       "hasItem": "2024-12-09 02:47:55 +0000"
     },
     "done": true
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-13 06:04:31 +0000"
+    },
+    "done": false
   },
   "ic2:player_detector_recipe_advancement": {
     "criteria": {
@@ -3653,6 +3689,12 @@
     },
     "done": true
   },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-13 06:04:31 +0000"
+    },
+    "done": false
+  },
   "ic2:cfoam_carpet_red_3_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-12 21:59:41 +0000"
@@ -3722,6 +3764,12 @@
       "hasItem": "2024-12-09 03:17:55 +0000"
     },
     "done": true
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-13 06:04:31 +0000"
+    },
+    "done": false
   },
   "ic2:esu_recipe_advancement": {
     "criteria": {
@@ -3962,6 +4010,12 @@
       "hasItem": "2024-12-09 18:26:04 +0000"
     },
     "done": true
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-13 06:04:31 +0000"
+    },
+    "done": false
   },
   "ic2:uranium_ender_dual_recipe_advancement": {
     "criteria": {
@@ -4444,6 +4498,12 @@
       "hasItem": "2024-12-13 02:02:43 +0000"
     },
     "done": true
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-13 06:04:31 +0000"
+    },
+    "done": false
   },
   "ic2:generator_1_recipe_advancement": {
     "criteria": {
@@ -5087,6 +5147,12 @@
     },
     "done": false
   },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-13 06:04:31 +0000"
+    },
+    "done": false
+  },
   "enigmaticlegacy:recipes/generic/tome_uncrafting/withered_tome": {
     "criteria": {
       "has_items": "2024-12-13 05:07:22 +0000"
@@ -5122,6 +5188,12 @@
       "hasItem": "2024-12-09 20:54:15 +0000"
     },
     "done": true
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-13 06:04:31 +0000"
+    },
+    "done": false
   },
   "enigmaticlegacy:recipes/generic/cursed_scroll": {
     "criteria": {

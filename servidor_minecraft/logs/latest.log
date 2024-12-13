@@ -4195,3 +4195,50 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [13Dec2024 05:50:18.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YermanPC has made the advancement [Storage Upgrade]
 [13Dec2024 05:51:07.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [YermanPC: Gave 1    [Charged Electrolyzer] to YermanPC]
 [13Dec2024 05:53:04.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YermanPC has made the advancement [Stash It]
+[13Dec2024 06:05:01.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [YermanPC: Set own game mode to Survival Mode]
+[13Dec2024 06:05:10.754] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: YermanPC lost connection: Disconnected
+[13Dec2024 06:05:10.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YermanPC left the game
+[13Dec2024 06:05:25.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[13Dec2024 06:05:25.293] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/helper/SupportStructures
+[13Dec2024 06:05:25.299] [Server thread/INFO] [HammerLib/]: Purging cache from 0 HL recipe registries.
+[13Dec2024 06:05:25.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[13Dec2024 06:05:25.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[13Dec2024 06:05:25.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[13Dec2024 06:05:25.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[13Dec2024 06:05:25.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:earth_orbit
+[13Dec2024 06:05:25.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:mercury_orbit
+[13Dec2024 06:05:25.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:glacio_orbit
+[13Dec2024 06:05:25.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/vtubruhlotrmobs:isengard
+[13Dec2024 06:05:25.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ulterlands:parapax
+[13Dec2024 06:05:25.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[13Dec2024 06:05:25.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:venus_orbit
+[13Dec2024 06:05:25.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:glacio
+[13Dec2024 06:05:25.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:mars
+[13Dec2024 06:05:25.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:mercury
+[13Dec2024 06:05:25.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ulterlands:ulterlands_dimension
+[13Dec2024 06:05:25.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:moon_orbit
+[13Dec2024 06:05:25.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:mars_orbit
+[13Dec2024 06:05:25.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[13Dec2024 06:05:25.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:moon
+[13Dec2024 06:05:25.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:venus
+[13Dec2024 06:05:25.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[13Dec2024 06:05:25.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (earth_orbit): All chunks are saved
+[13Dec2024 06:05:25.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mercury_orbit): All chunks are saved
+[13Dec2024 06:05:25.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (glacio_orbit): All chunks are saved
+[13Dec2024 06:05:25.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (isengard): All chunks are saved
+[13Dec2024 06:05:25.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (parapax): All chunks are saved
+[13Dec2024 06:05:25.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[13Dec2024 06:05:25.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (venus_orbit): All chunks are saved
+[13Dec2024 06:05:25.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (glacio): All chunks are saved
+[13Dec2024 06:05:25.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mars): All chunks are saved
+[13Dec2024 06:05:25.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mercury): All chunks are saved
+[13Dec2024 06:05:25.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (ulterlands_dimension): All chunks are saved
+[13Dec2024 06:05:25.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (moon_orbit): All chunks are saved
+[13Dec2024 06:05:25.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mars_orbit): All chunks are saved
+[13Dec2024 06:05:25.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[13Dec2024 06:05:25.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (moon): All chunks are saved
+[13Dec2024 06:05:25.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (venus): All chunks are saved
+[13Dec2024 06:05:25.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[13Dec2024 06:05:25.948] [Server thread/INFO] [Calio/]: Removing Dynamic Registries for: net.minecraft.server.dedicated.DedicatedServer@57bddc4f
+[13Dec2024 06:05:25.948] [Server thread/INFO] [Framework/]: Unloading server configs...
+[13Dec2024 06:05:25.952] [Config Watcher/INFO] [Puzzles Lib/]: Reloading server config for leavesbegone
