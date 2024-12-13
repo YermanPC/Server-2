@@ -4317,6 +4317,12 @@
     },
     "done": true
   },
+  "ic2:activity_card_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-13 14:00:17 +0000"
+    },
+    "done": true
+  },
   "ic2:valve_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-10 03:11:00 +0000"
