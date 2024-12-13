@@ -3878,3 +3878,50 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [13Dec2024 12:51:14.417] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=119, y=15, z=-87} BlockPos{x=118, y=15, z=-88}
 [13Dec2024 12:51:14.477] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=119, y=15, z=-87} BlockPos{x=118, y=15, z=-88}
 [13Dec2024 12:51:14.530] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=119, y=15, z=-87} BlockPos{x=118, y=15, z=-88}
+[13Dec2024 12:51:22.923] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2048ms or 40 ticks behind
+[13Dec2024 12:51:27.521] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=96, y=15, z=-86} BlockPos{x=97, y=15, z=-85}
+[13Dec2024 12:51:27.578] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=96, y=15, z=-86} BlockPos{x=97, y=15, z=-85}
+[13Dec2024 12:51:27.631] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=96, y=15, z=-86} BlockPos{x=97, y=15, z=-85}
+[13Dec2024 12:51:27.678] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=96, y=15, z=-84} BlockPos{x=97, y=15, z=-85}
+[13Dec2024 12:51:27.748] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=96, y=15, z=-84} BlockPos{x=97, y=15, z=-85}
+[13Dec2024 12:51:27.753] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=96, y=15, z=-84} BlockPos{x=97, y=15, z=-85}
+[13Dec2024 12:51:28.896] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=100, y=15, z=-88} BlockPos{x=99, y=15, z=-89}
+[13Dec2024 12:51:28.962] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=100, y=15, z=-88} BlockPos{x=99, y=15, z=-89}
+[13Dec2024 12:51:35.608] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=90, y=15, z=-83} BlockPos{x=85, y=15, z=-85}
+[13Dec2024 12:51:36.639] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=86, y=15, z=-82} BlockPos{x=88, y=15, z=-81}
+[13Dec2024 12:51:36.642] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=86, y=15, z=-82} BlockPos{x=88, y=15, z=-81}
+[13Dec2024 12:51:43.913] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=78, y=15, z=-88} BlockPos{x=79, y=15, z=-90}
+[13Dec2024 12:51:43.966] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=79, y=15, z=-88} BlockPos{x=79, y=15, z=-90}
+[13Dec2024 12:51:44.290] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=79, y=15, z=-86} BlockPos{x=78, y=15, z=-87}
+[13Dec2024 12:51:44.784] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=77, y=15, z=-84} BlockPos{x=78, y=15, z=-85}
+[13Dec2024 12:51:45.174] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=77, y=15, z=-90} BlockPos{x=77, y=15, z=-88}
+[13Dec2024 12:51:45.232] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=77, y=15, z=-90} BlockPos{x=77, y=15, z=-88}
+[13Dec2024 12:51:45.450] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=79, y=15, z=-92} BlockPos{x=78, y=15, z=-91}
+[13Dec2024 12:51:45.519] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=79, y=15, z=-92} BlockPos{x=78, y=15, z=-91}
+[13Dec2024 12:51:45.596] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=78, y=15, z=-93} BlockPos{x=78, y=15, z=-91}
+[13Dec2024 12:51:45.600] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=78, y=15, z=-93} BlockPos{x=78, y=15, z=-91}
+[13Dec2024 12:51:45.658] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=78, y=15, z=-93} BlockPos{x=78, y=15, z=-91}
+[13Dec2024 12:51:45.717] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=78, y=15, z=-93} BlockPos{x=78, y=15, z=-91}
+[13Dec2024 12:51:45.775] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=80, y=15, z=-93} BlockPos{x=78, y=15, z=-91}
+[13Dec2024 12:51:45.834] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=78, y=15, z=-94} BlockPos{x=78, y=15, z=-91}
+[13Dec2024 12:51:45.889] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=78, y=15, z=-94} BlockPos{x=78, y=15, z=-91}
+[13Dec2024 12:51:45.938] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=80, y=15, z=-94} BlockPos{x=78, y=15, z=-91}
+[13Dec2024 12:51:47.033] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[13Dec2024 12:51:47.721] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=75, y=15, z=-95} BlockPos{x=75, y=15, z=-94}
+[13Dec2024 12:51:52.273] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=76, y=15, z=-101} BlockPos{x=75, y=15, z=-102}
+[13Dec2024 12:52:22.039] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=68, y=15, z=-99} BlockPos{x=69, y=15, z=-99}
+[13Dec2024 12:52:22.119] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=68, y=15, z=-99} BlockPos{x=69, y=15, z=-99}
+[13Dec2024 12:52:22.123] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=68, y=15, z=-99} BlockPos{x=69, y=15, z=-99}
+[13Dec2024 12:52:22.176] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[13Dec2024 12:52:32.796] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=68, y=15, z=-82} BlockPos{x=66, y=15, z=-80}
+[13Dec2024 12:52:43.736] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[13Dec2024 12:53:40.834] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[13Dec2024 12:54:10.327] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[13Dec2024 12:54:34.549] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2024ms or 40 ticks behind
+[13Dec2024 12:54:56.530] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[13Dec2024 12:55:53.617] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=74, y=24, z=72} BlockPos{x=74, y=24, z=73}
+[13Dec2024 12:55:53.672] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=74, y=24, z=72} BlockPos{x=74, y=24, z=73}
+[13Dec2024 12:55:53.729] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=74, y=24, z=72} BlockPos{x=74, y=24, z=73}
+[13Dec2024 12:58:16.261] [Netty Epoll Server IO #0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting gollorum/signpost/minecraft/events/WaystoneUpdatedEvent$Type
+[13Dec2024 12:58:28.279] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[13Dec2024 13:01:29.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElCachita_HD has completed the challenge [Lawbringer]

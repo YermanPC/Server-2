@@ -1999,6 +1999,12 @@
     },
     "done": true
   },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "requirement": "2024-12-13 12:57:47 +0000"
+    },
+    "done": false
+  },
   "ic2:su_battery_0_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-09 03:12:52 +0000"
@@ -2414,6 +2420,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:book/decorations/lamp": {
+    "criteria": {
+      "has_the_recipe": "2024-12-13 12:57:01 +0000"
+    },
+    "done": true
+  },
   "ic2:circuit_1_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-09 03:12:52 +0000"
@@ -2550,6 +2562,12 @@
   "ic2:crop_library_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-11 20:23:01 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:recipes/generic/lamps": {
+    "criteria": {
+      "has_core_block": "2024-12-13 12:57:01 +0000"
     },
     "done": true
   },
@@ -3276,6 +3294,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:recipes/generic/redstonelamps": {
+    "criteria": {
+      "has_parent_recipe": "2024-12-13 12:57:01 +0000"
+    },
+    "done": false
+  },
   "ic2:aluminum_shovel_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-09 02:47:29 +0000"
@@ -3470,6 +3494,7 @@
       "minecraft:wither_skeleton": "2024-12-12 21:29:50 +0000",
       "minecraft:husk": "2024-12-09 03:36:38 +0000",
       "minecraft:cave_spider": "2024-12-09 03:07:56 +0000",
+      "minecraft:piglin": "2024-12-13 12:56:25 +0000",
       "minecraft:enderman": "2024-12-09 19:50:35 +0000",
       "minecraft:silverfish": "2024-12-10 01:29:11 +0000",
       "minecraft:stray": "2024-12-13 03:17:09 +0000",
@@ -5195,6 +5220,12 @@
       "hasItem": "2024-12-10 01:02:52 +0000"
     },
     "done": true
+  },
+  "enigmaticlegacy:recipes/generic/shroomlamps": {
+    "criteria": {
+      "has_parent_recipe": "2024-12-13 12:57:01 +0000"
+    },
+    "done": false
   },
   "ic2:solar_helmet_0_recipe_advancement": {
     "criteria": {
