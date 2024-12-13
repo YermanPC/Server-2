@@ -342,6 +342,12 @@
     },
     "done": true
   },
+  "irons_spellbooks:irons_spellbooks/root": {
+    "criteria": {
+      "inscription_table": "2024-12-13 22:09:08 +0000"
+    },
+    "done": true
+  },
   "ic2:condensator_lap_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-11 20:02:46 +0000"
@@ -472,6 +478,7 @@
       "field": "2024-12-11 01:07:15 +0000",
       "orchard": "2024-12-12 10:46:36 +0000",
       "coniferous_forest": "2024-12-10 19:19:03 +0000",
+      "forested_field": "2024-12-13 22:12:14 +0000",
       "cherry_blossom_grove": "2024-12-12 10:42:38 +0000",
       "dune_beach": "2024-12-12 10:47:03 +0000",
       "seasonal_forest": "2024-12-11 00:17:11 +0000",
@@ -482,7 +489,8 @@
       "snowy_fir_clearing": "2024-12-11 00:40:49 +0000",
       "tundra": "2024-12-10 19:26:40 +0000",
       "glowing_grotto": "2024-12-11 20:45:56 +0000",
-      "snowy_maple_woods": "2024-12-11 00:44:28 +0000"
+      "snowy_maple_woods": "2024-12-11 00:44:28 +0000",
+      "ominous_woods": "2024-12-13 22:11:41 +0000"
     },
     "done": false
   },
@@ -804,6 +812,12 @@
   "ic2:glass_cocoa_1_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-11 19:34:58 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:make_inscription_table": {
+    "criteria": {
+      "inscription_table": "2024-12-13 22:09:08 +0000"
     },
     "done": true
   },
@@ -2673,6 +2687,12 @@
   "ironfurnaces:coal": {
     "criteria": {
       "rainbowcoal": "2024-12-10 19:14:42 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/make_inscription_table": {
+    "criteria": {
+      "inscription_table": "2024-12-13 22:09:08 +0000"
     },
     "done": true
   },

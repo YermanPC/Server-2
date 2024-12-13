@@ -3862,3 +3862,15 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [13Dec2024 22:05:34.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <YermanPC> uff
 [13Dec2024 22:07:13.802] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3286ms or 65 ticks behind
 [13Dec2024 22:08:13.208] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2141ms or 42 ticks behind
+[13Dec2024 22:09:04.240] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/player/Player$BedSleepingProblem
+[13Dec2024 22:09:08.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ClementePicaro has reached the goal [Quaint Scribe]
+[13Dec2024 22:09:48.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <YermanPC> te gusta escribir anos?
+[13Dec2024 22:10:13.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ClementePicaro> SI
+[13Dec2024 22:12:24.292] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/entity/BeehiveBlockEntity$BeeReleaseStatus
+[13Dec2024 22:13:34.966] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/stal111/forbidden_arcanus/common/entity/lostsoul/LostSoul$Variant
+[13Dec2024 22:14:22.418] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/gossip/GossipType
+[13Dec2024 22:16:54.858] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Mitch'/18996, l='ServerLevel[world]', x=178.38, y=62.90, z=-843.76] died, message: 'Mitch was slain by ClementePicaro'
+[13Dec2024 22:16:54.860] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/helper/LangKey
+[13Dec2024 22:16:54.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ClementePicaro has made the advancement [Neighborhood Brawl]
+[13Dec2024 22:16:54.866] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Mitch'/18996, l='ServerLevel[world]', x=178.38, y=62.90, z=-843.76] died: Mitch was slain by ClementePicaro
+[13Dec2024 22:17:24.789] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2073ms or 41 ticks behind
