@@ -4159,3 +4159,6 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [13Dec2024 04:28:54.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [YermanPC: Gave 1    [Crafting Terminal] to YermanPC]
 [13Dec2024 04:29:13.880] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/tom/storagemod/gui/StorageTerminalMenu$SlotAction
 [13Dec2024 04:31:12.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YermanPC has made the advancement [For the Environment!]
+[13Dec2024 04:40:01.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YermanPC has made the advancement [We Need to Go Deeper]
+[13Dec2024 04:40:01.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YermanPC has made the advancement [Incendium]
+[13Dec2024 04:43:14.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <YermanPC> fasf
