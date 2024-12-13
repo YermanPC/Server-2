@@ -3819,3 +3819,34 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [13Dec2024 18:50:04.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [YermanPC: Gave 1    [Water Cell] to YermanPC]
 [13Dec2024 18:51:30.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [YermanPC: Gave 1    [Glassfiber Cable] to YermanPC]
 [13Dec2024 18:52:37.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [YermanPC: Set own game mode to Creative Mode]
+[13Dec2024 18:53:54.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [YermanPC: Set own game mode to Survival Mode]
+[13Dec2024 18:54:12.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [YermanPC: Gave 1    [MFSU] to YermanPC]
+[13Dec2024 18:54:13.745] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 94
+[13Dec2024 18:54:13.785] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 95
+[13Dec2024 18:54:13.829] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 96
+[13Dec2024 18:54:13.829] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 97
+[13Dec2024 18:54:14.058] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 98
+[13Dec2024 18:54:14.086] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 99
+[13Dec2024 18:54:14.087] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 100
+[13Dec2024 18:54:14.087] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 101
+[13Dec2024 18:54:14.087] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 102
+[13Dec2024 18:54:14.133] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 103
+[13Dec2024 18:54:14.167] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 104
+[13Dec2024 18:54:14.292] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 105
+[13Dec2024 18:54:14.337] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 106
+[13Dec2024 18:54:14.337] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 107
+[13Dec2024 18:54:14.418] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 108
+[13Dec2024 18:54:14.530] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@77f03030
+[13Dec2024 18:54:14.572] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: AssaGM[/127.61.57.82:38067] logged in with entity id 5735 at (-3454.297033509465, 162.0, 150.70185155187613)
+[13Dec2024 18:54:14.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AssaGM joined the game
+[13Dec2024 18:54:14.662] [Server thread/INFO] [Jade/]: Syncing config to AssaGM (0aa832e0-dc0d-351a-bc32-39acc5000292)
+[13Dec2024 18:54:14.688] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to AssaGM...
+[13Dec2024 18:54:14.689] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[13Dec2024 18:54:14.689] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to AssaGM
+[13Dec2024 18:54:23.898] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9327ms or 186 ticks behind
+[13Dec2024 18:54:24.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <YermanPC> fsaf
+[13Dec2024 18:54:37.792] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/entity/BeehiveBlockEntity$BeeReleaseStatus
+[13Dec2024 18:56:21.800] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting dev/felnull/imp/server/music/MusicManager$PlayListGetType
+[13Dec2024 19:01:04.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AssaGM> boe
+[13Dec2024 19:01:08.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AssaGM> tremendo backup
+[13Dec2024 19:03:05.748] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YermanPC has made the advancement [Even Hotter Topic]
