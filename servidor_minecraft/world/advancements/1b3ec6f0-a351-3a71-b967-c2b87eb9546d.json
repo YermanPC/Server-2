@@ -592,6 +592,12 @@
     },
     "done": true
   },
+  "ic2:steam_reactor_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-13 21:08:47 +0000"
+    },
+    "done": true
+  },
   "ic2:sawmill_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-09 02:52:24 +0000"
@@ -805,6 +811,12 @@
   "ic2:carbon_fiber_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-13 19:16:18 +0000"
+    },
+    "done": true
+  },
+  "ic2:fertilizer_1_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-13 21:13:34 +0000"
     },
     "done": true
   },
@@ -1484,6 +1496,12 @@
     },
     "done": true
   },
+  "ic2:plating_containment_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-13 21:08:47 +0000"
+    },
+    "done": true
+  },
   "ic2:memory_stick_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-09 03:47:47 +0000"
@@ -1813,6 +1831,12 @@
     },
     "done": true
   },
+  "ic2:scrapbox_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-13 21:13:34 +0000"
+    },
+    "done": true
+  },
   "enigmaticlegacy:recipes/generic/ender_ring": {
     "criteria": {
       "has_parent_recipe": "2024-12-09 03:15:53 +0000"
@@ -1846,6 +1870,12 @@
   "ic2:miner_remote_bronze_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-13 05:50:53 +0000"
+    },
+    "done": true
+  },
+  "ic2:plated_shield_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-13 21:08:47 +0000"
     },
     "done": true
   },
@@ -2332,6 +2362,12 @@
   "ic2:pump_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-12 02:43:21 +0000"
+    },
+    "done": true
+  },
+  "ic2:empty_quantum_armor_chestplate_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-13 21:08:47 +0000"
     },
     "done": true
   },
@@ -3431,6 +3467,12 @@
     },
     "done": true
   },
+  "ic2:normal_quantum_armor_chestplate_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-13 21:08:47 +0000"
+    },
+    "done": true
+  },
   "ic2:heat_balancer_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-12 05:55:20 +0000"
@@ -3512,6 +3554,12 @@
   "ic2:tank_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-13 18:31:24 +0000"
+    },
+    "done": true
+  },
+  "ic2:steam_chamber_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-13 21:08:47 +0000"
     },
     "done": true
   },
@@ -4032,6 +4080,12 @@
   "ic2:quantum_overclocker_upgrade_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-12 05:49:59 +0000"
+    },
+    "done": true
+  },
+  "ic2:ranged_pump_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-13 21:08:47 +0000"
     },
     "done": true
   },
@@ -5155,6 +5209,12 @@
   "ic2:ov_scanner_1_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-12 23:21:57 +0000"
+    },
+    "done": true
+  },
+  "ic2:plasma_core_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-13 21:08:47 +0000"
     },
     "done": true
   },
