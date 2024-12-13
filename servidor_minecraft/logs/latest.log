@@ -3953,3 +3953,8 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [13Dec2024 02:11:02.070] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting vazkii/quark/api/event/SimpleHarvestEvent$Source
 [13Dec2024 02:12:23.719] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting slimeknights/tconstruct/smeltery/block/entity/tank/ISmelteryTankHandler$FluidChange
 [13Dec2024 02:13:01.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <YermanPC> wow
+[13Dec2024 02:15:57.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [YermanPC: Gave 1    [Extractor] to YermanPC]
+[13Dec2024 02:21:48.367] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Doug'/19759, l='ServerLevel[world]', x=-1931.51, y=234.00, z=114.55] died, message: 'Doug was slain by AssaGM'
+[13Dec2024 02:21:48.371] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/helper/LangKey
+[13Dec2024 02:21:48.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AssaGM has made the advancement [Neighborhood Brawl]
+[13Dec2024 02:21:48.378] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Doug'/19759, l='ServerLevel[world]', x=-1931.51, y=234.00, z=114.55] died: Doug was slain by AssaGM

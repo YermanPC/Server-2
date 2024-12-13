@@ -620,6 +620,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/neighborhood_brawl": {
+    "criteria": {
+      "coded_trigger": "2024-12-13 02:21:48 +0000"
+    },
+    "done": true
+  },
   "casinocraft:recipes/decorations/wool_light_gray": {
     "criteria": {
       "has_wool": "2024-12-10 19:33:22 +0000"

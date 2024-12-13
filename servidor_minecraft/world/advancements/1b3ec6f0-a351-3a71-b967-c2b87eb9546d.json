@@ -281,6 +281,12 @@
     },
     "done": true
   },
+  "ic2:bronze_cable_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-13 02:13:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/lava_bucket": {
     "criteria": {
       "lava_bucket": "2024-12-09 18:52:00 +0000"
@@ -339,6 +345,12 @@
   "ic2:filter_tube_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-10 14:29:19 +0000"
+    },
+    "done": true
+  },
+  "ic2:isu_upgrade_kit_direct_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-13 02:15:01 +0000"
     },
     "done": true
   },
@@ -626,6 +638,12 @@
     },
     "done": true
   },
+  "ic2:esu_upgrade_kit_indirect_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-13 02:15:01 +0000"
+    },
+    "done": true
+  },
   "ic2:cfoam_wall_red_2_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-12 21:59:41 +0000"
@@ -671,6 +689,12 @@
   "minecraft:story/deflect_arrow": {
     "criteria": {
       "deflected_projectile": "2024-12-09 03:42:20 +0000"
+    },
+    "done": true
+  },
+  "ic2:esu_upgrade_kit_direct_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-13 02:15:01 +0000"
     },
     "done": true
   },
@@ -1290,6 +1314,12 @@
   "ic2:mv_battery_station_kit_direct_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-12 21:17:08 +0000"
+    },
+    "done": true
+  },
+  "ic2:fission_upgrade_kit_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-13 02:15:01 +0000"
     },
     "done": true
   },
@@ -2253,6 +2283,12 @@
     },
     "done": true
   },
+  "ic2:pesu_upgrade_kit_direct_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-13 02:15:01 +0000"
+    },
+    "done": true
+  },
   "ic2:diamond_drill_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-09 18:51:04 +0000"
@@ -3169,6 +3205,12 @@
     },
     "done": true
   },
+  "ic2:isu_upgrade_kit_indirect_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-13 02:15:01 +0000"
+    },
+    "done": true
+  },
   "ic2:lv_charging_bench_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-09 02:47:55 +0000"
@@ -3461,6 +3503,12 @@
     },
     "done": true
   },
+  "ic2:bronze_helmet_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-13 02:13:18 +0000"
+    },
+    "done": true
+  },
   "ic2:composite_leggings_1_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-09 03:17:55 +0000"
@@ -3491,6 +3539,12 @@
     },
     "done": true
   },
+  "ic2:bronze_boots_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-13 02:13:18 +0000"
+    },
+    "done": true
+  },
   "ic2:tin_sign_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-09 02:49:49 +0000"
@@ -3518,6 +3572,12 @@
   "ic2:reinforced_glass_0_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-10 14:29:19 +0000"
+    },
+    "done": true
+  },
+  "ic2:bronze_leggings_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-13 02:13:18 +0000"
     },
     "done": true
   },
@@ -3738,6 +3798,12 @@
     },
     "done": true
   },
+  "ic2:bronze_ingot_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-13 02:12:56 +0000"
+    },
+    "done": true
+  },
   "ic2:cfoam_wool_black_3_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-09 02:49:31 +0000"
@@ -3936,6 +4002,12 @@
     },
     "done": true
   },
+  "ic2:wrench_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-13 02:13:18 +0000"
+    },
+    "done": true
+  },
   "ic2:advanced_tree_tap_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-12 02:43:23 +0000"
@@ -4116,6 +4188,12 @@
     },
     "done": true
   },
+  "ic2:lapotronic_upgrade_kit_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-13 02:15:01 +0000"
+    },
+    "done": true
+  },
   "ic2:wet_cfoam_1_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-09 03:47:47 +0000"
@@ -4161,6 +4239,12 @@
   "tombstone:adventure/mysterious_gift": {
     "criteria": {
       "coded_trigger": "2024-12-09 17:47:08 +0000"
+    },
+    "done": true
+  },
+  "ic2:bronze_chest_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-13 02:13:18 +0000"
     },
     "done": true
   },
@@ -4384,6 +4468,12 @@
   "ic2:piston_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-09 02:47:55 +0000"
+    },
+    "done": true
+  },
+  "ic2:bronze_block_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-13 02:13:18 +0000"
     },
     "done": true
   },
@@ -4689,6 +4779,12 @@
   "undead_unleashed:undead_unleashed": {
     "criteria": {
       "undead_unleashed": "2024-12-09 02:46:02 +0000"
+    },
+    "done": true
+  },
+  "ic2:precision_wrench_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-13 02:15:01 +0000"
     },
     "done": true
   },
