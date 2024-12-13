@@ -4132,3 +4132,28 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [13Dec2024 03:54:55.953] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AssaGM moved wrongly!
 [13Dec2024 04:01:30.848] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Maureen'/94247, l='ServerLevel[world]', x=193.79, y=61.00, z=-840.42] died, message: 'Maureen suffocated in a wall'
 [13Dec2024 04:01:30.850] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Maureen'/94247, l='ServerLevel[world]', x=193.79, y=61.00, z=-840.42] died: Maureen suffocated in a wall
+[13Dec2024 04:20:55.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AssaGM has made the advancement [Withering Heights]
+[13Dec2024 04:21:51.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AssaGM has reached the goal [Strong Undead]
+[13Dec2024 04:25:17.991] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 94
+[13Dec2024 04:25:17.991] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 95
+[13Dec2024 04:25:18.011] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 96
+[13Dec2024 04:25:18.011] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 97
+[13Dec2024 04:25:18.141] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 98
+[13Dec2024 04:25:18.142] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 99
+[13Dec2024 04:25:18.351] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 100
+[13Dec2024 04:25:18.351] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 101
+[13Dec2024 04:25:18.351] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 102
+[13Dec2024 04:25:18.351] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 103
+[13Dec2024 04:25:18.391] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 104
+[13Dec2024 04:25:18.494] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 105
+[13Dec2024 04:25:18.495] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 106
+[13Dec2024 04:25:18.522] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 107
+[13Dec2024 04:25:18.698] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 108
+[13Dec2024 04:25:18.800] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@33338e40
+[13Dec2024 04:25:18.834] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: YermanPC[/127.51.19.16:55135] logged in with entity id 99310 at (-75.30835221711475, 106.0, -301.56897988046444)
+[13Dec2024 04:25:18.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YermanPC joined the game
+[13Dec2024 04:25:18.952] [Server thread/INFO] [Jade/]: Syncing config to YermanPC (1b3ec6f0-a351-3a71-b967-c2b87eb9546d)
+[13Dec2024 04:25:18.991] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to YermanPC...
+[13Dec2024 04:25:18.992] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[13Dec2024 04:25:18.993] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to YermanPC
+[13Dec2024 04:28:54.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [YermanPC: Gave 1    [Crafting Terminal] to YermanPC]

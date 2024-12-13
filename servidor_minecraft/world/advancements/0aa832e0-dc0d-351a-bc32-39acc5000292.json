@@ -353,6 +353,12 @@
     },
     "done": true
   },
+  "ic2:raw_uranium_block_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-13 04:23:17 +0000"
+    },
+    "done": true
+  },
   "dungeons_plus:adventure/find_warped_garden": {
     "criteria": {
       "in_structure": "2024-12-11 00:24:32 +0000"
@@ -665,6 +671,12 @@
   "ic2:cfoam_wool_light_gray_1_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-10 18:53:17 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/relics/nether_star": {
+    "criteria": {
+      "has_items": "2024-12-13 04:22:19 +0000"
     },
     "done": true
   },
@@ -1113,6 +1125,12 @@
     },
     "done": false
   },
+  "enigmaticlegacy:book/accessories/heaven_scroll": {
+    "criteria": {
+      "has_the_recipe": "2024-12-13 04:22:19 +0000"
+    },
+    "done": true
+  },
   "ic2:glass_cold_dark_coffee_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-09 18:15:16 +0000"
@@ -1235,9 +1253,10 @@
   },
   "enigmaticlegacy:recipes/generic/heaven_scroll": {
     "criteria": {
-      "has_parent_recipe": "2024-12-09 23:23:34 +0000"
+      "has_parent_recipe": "2024-12-09 23:23:34 +0000",
+      "has_items": "2024-12-13 04:22:19 +0000"
     },
-    "done": false
+    "done": true
   },
   "dungeons_arise:find_abandoned_temple": {
     "criteria": {
@@ -1652,6 +1671,12 @@
       "found_island": "2024-12-09 22:42:26 +0000"
     },
     "done": true
+  },
+  "enigmaticlegacy:recipes/generic/fabulous_scroll": {
+    "criteria": {
+      "has_parent_recipe": "2024-12-13 04:22:19 +0000"
+    },
+    "done": false
   },
   "ic2:luminator_recipe_advancement": {
     "criteria": {
@@ -2958,6 +2983,7 @@
       "minecraft:magma_cube": "2024-12-10 01:39:17 +0000",
       "minecraft:spider": "2024-12-09 18:09:12 +0000",
       "minecraft:creeper": "2024-12-09 03:31:07 +0000",
+      "minecraft:wither": "2024-12-13 04:21:51 +0000",
       "minecraft:evoker": "2024-12-10 00:53:32 +0000",
       "minecraft:slime": "2024-12-11 21:09:09 +0000",
       "minecraft:phantom": "2024-12-11 21:13:36 +0000",
@@ -3822,6 +3848,12 @@
     },
     "done": true
   },
+  "minecraft:nether/summon_wither": {
+    "criteria": {
+      "summoned": "2024-12-13 04:20:55 +0000"
+    },
+    "done": true
+  },
   "enigmaticlegacy:book/accessories/arcane_scrolls": {
     "criteria": {
       "has_the_recipe": "2024-12-09 23:23:34 +0000"
@@ -3831,6 +3863,12 @@
   "tombstone:adventure/chain_death": {
     "criteria": {
       "coded_trigger": "2024-12-09 23:11:13 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/strong_undead": {
+    "criteria": {
+      "coded_trigger": "2024-12-13 04:21:51 +0000"
     },
     "done": true
   },
