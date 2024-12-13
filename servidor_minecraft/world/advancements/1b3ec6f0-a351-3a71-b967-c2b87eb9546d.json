@@ -125,6 +125,12 @@
     },
     "done": true
   },
+  "ic2:compacted_electric_jetpack_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-13 21:22:30 +0000"
+    },
+    "done": true
+  },
   "lootr:1chest": {
     "criteria": {
       "opened_chest": "2024-12-09 03:47:13 +0000"
@@ -4293,6 +4299,12 @@
       "yellow": "2024-12-09 21:30:26 +0000"
     },
     "done": false
+  },
+  "ic2:coal_chunk_2_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-13 21:22:51 +0000"
+    },
+    "done": true
   },
   "ic2:cfoam_surface_red_0_recipe_advancement": {
     "criteria": {

@@ -3780,3 +3780,14 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [13Dec2024 20:56:22.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [YermanPC: Set own game mode to Creative Mode]
 [13Dec2024 20:57:34.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [YermanPC: Set own game mode to Survival Mode]
 [13Dec2024 21:15:21.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [YermanPC: Gave 1    [Alloy Smelter] to YermanPC]
+[13Dec2024 21:19:09.514] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting gollorum/signpost/interactions/Interactable$InteractionResult
+[13Dec2024 21:19:09.517] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting gollorum/signpost/interactions/InteractionInfo$Type
+[13Dec2024 21:19:09.520] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting gollorum/signpost/utils/ServerType
+[13Dec2024 21:23:05.576] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ic2/core/block/base/features/IClickable$ClickAction
+[13Dec2024 21:23:20.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [YermanPC: Gave 1    [Alloy Smelter] to YermanPC]
+[13Dec2024 21:23:31.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [YermanPC: Gave 1    [4x Insulated Iron Cable] to YermanPC]
+[13Dec2024 21:23:31.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [YermanPC: Gave 1    [4x Insulated Iron Cable] to YermanPC]
+[13Dec2024 21:23:32.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [YermanPC: Gave 1    [4x Insulated Iron Cable] to YermanPC]
+[13Dec2024 21:23:32.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [YermanPC: Gave 1    [4x Insulated Iron Cable] to YermanPC]
+[13Dec2024 21:23:32.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [YermanPC: Gave 1    [4x Insulated Iron Cable] to YermanPC]
+[13Dec2024 21:23:32.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [YermanPC: Gave 1    [4x Insulated Iron Cable] to YermanPC]
