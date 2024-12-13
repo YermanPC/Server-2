@@ -1663,6 +1663,12 @@
     },
     "done": true
   },
+  "dungeons_enhanced:wars_and_kingdoms": {
+    "criteria": {
+      "entered_castle": "2024-12-13 03:21:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/mine_stone": {
     "criteria": {
       "get_stone": "2024-12-09 02:48:15 +0000"
@@ -2495,7 +2501,8 @@
   },
   "dungeons_enhanced:seven_world_wonders": {
     "criteria": {
-      "entered_deep_crypt": "2024-12-09 20:52:41 +0000"
+      "entered_deep_crypt": "2024-12-09 20:52:41 +0000",
+      "entered_castle": "2024-12-13 03:21:25 +0000"
     },
     "done": false
   },
@@ -2800,6 +2807,12 @@
     },
     "done": true
   },
+  "ic2:glass_iced_tea_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-13 03:18:28 +0000"
+    },
+    "done": true
+  },
   "enigmaticlegacy:recipes/generic/the_acknowledgment": {
     "criteria": {
       "has_iron_ingot": "2024-12-09 02:46:24 +0000"
@@ -3028,6 +3041,12 @@
     },
     "done": true
   },
+  "dungeons_plus:adventure/find_snowy_temple": {
+    "criteria": {
+      "in_structure": "2024-12-13 03:16:21 +0000"
+    },
+    "done": true
+  },
   "ic2:uranium_nether_star_dual_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-11 20:23:34 +0000"
@@ -3131,6 +3150,7 @@
       "entered_deep_crypt": "2024-12-09 20:52:41 +0000",
       "entered_druid_circle": "2024-12-13 03:09:34 +0000",
       "entered_large_dungeon": "2024-12-10 01:12:46 +0000",
+      "entered_castle": "2024-12-13 03:21:25 +0000",
       "entered_watch_tower": "2024-12-10 01:11:09 +0000",
       "entered_ruined_building": "2024-12-13 03:03:50 +0000"
     },
@@ -3175,6 +3195,12 @@
   "ic2:complex_circuit_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-11 20:38:59 +0000"
+    },
+    "done": true
+  },
+  "ic2:mug_iced_tea_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-13 03:18:28 +0000"
     },
     "done": true
   },
@@ -3358,6 +3384,7 @@
       "minecraft:pillager": "2024-12-12 13:19:34 +0000",
       "minecraft:blaze": "2024-12-12 21:31:29 +0000",
       "minecraft:skeleton": "2024-12-09 03:02:08 +0000",
+      "minecraft:vindicator": "2024-12-13 03:20:24 +0000",
       "minecraft:magma_cube": "2024-12-12 16:14:59 +0000",
       "minecraft:spider": "2024-12-09 03:44:52 +0000",
       "minecraft:creeper": "2024-12-09 03:01:38 +0000",
@@ -3371,6 +3398,7 @@
       "minecraft:cave_spider": "2024-12-09 03:07:56 +0000",
       "minecraft:enderman": "2024-12-09 19:50:35 +0000",
       "minecraft:silverfish": "2024-12-10 01:29:11 +0000",
+      "minecraft:stray": "2024-12-13 03:17:09 +0000",
       "minecraft:vex": "2024-12-13 02:53:50 +0000",
       "minecraft:zombie": "2024-12-09 03:04:31 +0000",
       "minecraft:drowned": "2024-12-10 14:15:40 +0000",
@@ -3915,6 +3943,7 @@
       "minecraft:deep_cold_ocean": "2024-12-12 13:22:49 +0000",
       "minecraft:ice_spikes": "2024-12-12 16:30:39 +0000",
       "minecraft:frozen_ocean": "2024-12-12 16:22:47 +0000",
+      "minecraft:windswept_forest": "2024-12-13 03:15:58 +0000",
       "minecraft:snowy_beach": "2024-12-12 16:11:30 +0000",
       "minecraft:windswept_gravelly_hills": "2024-12-12 00:24:56 +0000",
       "minecraft:plains": "2024-12-09 02:46:54 +0000"

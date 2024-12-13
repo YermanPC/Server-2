@@ -4097,3 +4097,16 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [13Dec2024 03:14:20.153] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=216, y=47, z=211}
 [13Dec2024 03:14:20.509] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3323ms or 66 ticks behind
 [13Dec2024 03:16:21.026] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElCachita_HD has reached the goal [Snowed In]
+[13Dec2024 03:16:52.825] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2039ms or 40 ticks behind
+[13Dec2024 03:17:10.419] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2633ms or 52 ticks behind
+[13Dec2024 03:19:06.240] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/axolotl/Axolotl$Variant
+[13Dec2024 03:21:23.636] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: YermanPC lost connection: Disconnected
+[13Dec2024 03:21:23.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YermanPC left the game
+[13Dec2024 03:21:25.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElCachita_HD has made the advancement [Forgotten Wars and Kingdoms]
+[13Dec2024 03:23:10.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AssaGM> xaero-waypoint:Jacaranda:J:-1686:70:-1225:13:false:0:Internal-overworld-waypoints
+[13Dec2024 03:26:00.914] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Brog the Bulwark'/77561, l='ServerLevel[world]', x=-231.51, y=87.00, z=755.55] died: Brog the Bulwark was slain by ElCachita_HD
+[13Dec2024 03:26:11.427] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=35, y=-58, z=-32}
+[13Dec2024 03:26:50.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] assa estafador
+[13Dec2024 03:26:56.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] mugre
+[13Dec2024 03:27:03.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] igual
+[13Dec2024 03:27:13.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] zorra
