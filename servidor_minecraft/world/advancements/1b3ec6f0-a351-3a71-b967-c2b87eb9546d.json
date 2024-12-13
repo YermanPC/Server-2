@@ -185,6 +185,12 @@
     },
     "done": true
   },
+  "ic2:vacuum_canner_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-13 18:32:34 +0000"
+    },
+    "done": true
+  },
   "enigmaticlegacy:recipes/generic/tome_uncrafting/tattered_tome": {
     "criteria": {
       "has_items": "2024-12-10 00:50:19 +0000"
@@ -433,6 +439,12 @@
   "ic2:macerator_upgrade_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-09 20:23:59 +0000"
+    },
+    "done": true
+  },
+  "ic2:restoring_fertilizer_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-13 18:35:14 +0000"
     },
     "done": true
   },
@@ -991,6 +1003,12 @@
   "ic2:hydrated_charcoal_dust_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-09 18:26:04 +0000"
+    },
+    "done": true
+  },
+  "ic2:build_mfsu": {
+    "criteria": {
+      "hasItem": "2024-12-13 18:38:41 +0000"
     },
     "done": true
   },
@@ -1663,6 +1681,12 @@
     },
     "done": true
   },
+  "ic2:refinery_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-13 18:31:24 +0000"
+    },
+    "done": true
+  },
   "ic2:mv_battery_station_kit_indirect_gold_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-09 02:47:55 +0000"
@@ -2021,6 +2045,12 @@
     },
     "done": true
   },
+  "ic2:pressure_pipe_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-13 18:30:37 +0000"
+    },
+    "done": true
+  },
   "ic2:cfoam_red_0_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-12 21:59:41 +0000"
@@ -2245,6 +2275,12 @@
     },
     "done": true
   },
+  "ic2:obsidian_lava_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-13 18:35:14 +0000"
+    },
+    "done": true
+  },
   "ic2:batbox_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-09 02:47:55 +0000"
@@ -2272,6 +2308,12 @@
   "ic2:plant_ball_seed_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-09 03:43:00 +0000"
+    },
+    "done": true
+  },
+  "ic2:uu_expansion_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-13 18:32:34 +0000"
     },
     "done": true
   },
@@ -2369,6 +2411,12 @@
   "ic2:villager_o_mat_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-13 05:42:19 +0000"
+    },
+    "done": true
+  },
+  "ic2:solar_turbine_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-13 18:32:34 +0000"
     },
     "done": true
   },
@@ -2907,6 +2955,12 @@
     },
     "done": true
   },
+  "ic2:windmill_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-13 18:32:34 +0000"
+    },
+    "done": true
+  },
   "ic2:heat_balancer_spread_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-12 05:55:20 +0000"
@@ -3290,6 +3344,12 @@
   "ic2:4x_insulated_iron_cable_1x_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-12 05:20:32 +0000"
+    },
+    "done": true
+  },
+  "ic2:tank_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-13 18:31:24 +0000"
     },
     "done": true
   },
@@ -3897,6 +3957,12 @@
     },
     "done": true
   },
+  "ic2:fuel_boiler_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-13 18:35:55 +0000"
+    },
+    "done": true
+  },
   "ic2:activity_card_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-09 03:45:24 +0000"
@@ -3987,6 +4053,12 @@
     },
     "done": true
   },
+  "ic2:mfsu_minecart_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-13 18:38:41 +0000"
+    },
+    "done": true
+  },
   "quark:get_all_blossom_saplings": {
     "criteria": {
       "blue": "2024-12-09 22:45:55 +0000",
@@ -4070,6 +4142,12 @@
   "enigmaticlegacy:recipes/generic/bonus_wool_recipes": {
     "criteria": {
       "has_white_wool": "2024-12-09 02:49:25 +0000"
+    },
+    "done": true
+  },
+  "ic2:stabilized_machine_block_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-13 18:32:34 +0000"
     },
     "done": true
   },
@@ -4196,6 +4274,12 @@
   "ic2:lemon_cake_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-09 03:41:12 +0000"
+    },
+    "done": true
+  },
+  "ic2:hv_chargepad_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-13 18:38:41 +0000"
     },
     "done": true
   },
@@ -5086,6 +5170,12 @@
       "longbow": "2024-12-11 00:10:43 +0000"
     },
     "done": false
+  },
+  "ic2:tank_module_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-13 18:31:24 +0000"
+    },
+    "done": true
   },
   "enigmaticlegacy:recipes/generic/tome_uncrafting/withered_tome": {
     "criteria": {

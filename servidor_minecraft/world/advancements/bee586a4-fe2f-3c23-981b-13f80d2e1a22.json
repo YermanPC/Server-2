@@ -2137,6 +2137,12 @@
     },
     "done": true
   },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "requirement": "2024-12-13 18:40:11 +0000"
+    },
+    "done": false
+  },
   "enigmaticlegacy:recipes/generic/the_twist": {
     "criteria": {
       "has_parent_recipe": "2024-12-10 19:14:42 +0000"
@@ -2151,9 +2157,10 @@
   },
   "enigmaticlegacy:recipes/generic/xp_scroll": {
     "criteria": {
-      "has_parent_recipe": "2024-12-11 21:01:54 +0000"
+      "has_parent_recipe": "2024-12-11 21:01:54 +0000",
+      "has_items": "2024-12-13 18:35:27 +0000"
     },
-    "done": false
+    "done": true
   },
   "enigmaticlegacy:recipes/generic/lore_fragment": {
     "criteria": {
@@ -2538,6 +2545,12 @@
   "ic2:reactor_planner_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-11 19:34:29 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/accessories/xp_scroll": {
+    "criteria": {
+      "has_the_recipe": "2024-12-13 18:35:27 +0000"
     },
     "done": true
   },

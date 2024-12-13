@@ -3798,3 +3798,15 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [13Dec2024 18:31:23.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [YermanPC: Gave 1    [Machine Tank] to YermanPC]
 [13Dec2024 18:31:47.399] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting vazkii/quark/base/handler/SortingHandler$ItemType
 [13Dec2024 18:32:29.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [YermanPC: Gave 1    [Charged Electrolyzer] to YermanPC]
+[13Dec2024 18:34:32.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [YermanPC: Gave 1    [Fluid Tube] to YermanPC]
+[13Dec2024 18:35:13.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [YermanPC: Gave 64    [Water Cell] to YermanPC]
+[13Dec2024 18:35:44.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [YermanPC: Gave 64    [Water Cell] to YermanPC]
+[13Dec2024 18:35:54.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [YermanPC: Gave 1    [Personal Tank] to YermanPC]
+[13Dec2024 18:36:19.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [YermanPC: Gave 64    [Fluid Tube] to YermanPC]
+[13Dec2024 18:36:45.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [YermanPC: Gave 1    [Machine Tank] to YermanPC]
+[13Dec2024 18:37:25.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [YermanPC: Set own game mode to Creative Mode]
+[13Dec2024 18:38:41.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YermanPC has made the advancement [Just Too Much]
+[13Dec2024 18:40:00.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [YermanPC: Gave 64    [Water Cell] to YermanPC]
+[13Dec2024 18:41:02.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [YermanPC: Gave 64    [Water Cell] to YermanPC]
+[13Dec2024 18:41:27.994] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/gossip/GossipType
+[13Dec2024 18:41:51.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [YermanPC: Set own game mode to Survival Mode]
