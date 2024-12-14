@@ -401,7 +401,8 @@
       "entered_tower_of_the_undead": "2024-12-13 23:29:15 +0000",
       "entered_stables": "2024-12-11 20:50:59 +0000",
       "entered_deep_crypt": "2024-12-11 00:21:42 +0000",
-      "entered_large_dungeon": "2024-12-12 18:35:39 +0000"
+      "entered_large_dungeon": "2024-12-12 18:35:39 +0000",
+      "entered_ruined_building": "2024-12-13 23:53:16 +0000"
     },
     "done": false
   },
@@ -729,6 +730,12 @@
     },
     "done": true
   },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-13 23:58:36 +0000"
+    },
+    "done": false
+  },
   "ic2:tfbp_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-11 20:02:46 +0000"
@@ -981,6 +988,12 @@
     },
     "done": true
   },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-13 23:58:36 +0000"
+    },
+    "done": false
+  },
   "ic2:cobblegen_upgrade_1_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-11 00:24:02 +0000"
@@ -1215,6 +1228,12 @@
     },
     "done": true
   },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-13 23:58:36 +0000"
+    },
+    "done": false
+  },
   "ic2:aluminum_axe_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-10 19:20:36 +0000"
@@ -1262,6 +1281,12 @@
       "found_island": "2024-12-12 10:35:39 +0000"
     },
     "done": true
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-13 23:58:36 +0000"
+    },
+    "done": false
   },
   "enigmaticlegacy:book/enchantments/generic": {
     "criteria": {
@@ -1322,6 +1347,12 @@
       "hasItem": "2024-12-11 00:14:40 +0000"
     },
     "done": true
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-13 23:58:36 +0000"
+    },
+    "done": false
   },
   "ic2:efficient_sawblade_upgrade_recipe_advancement": {
     "criteria": {
@@ -1586,6 +1617,12 @@
       "hasItem": "2024-12-11 21:13:36 +0000"
     },
     "done": true
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-13 23:58:36 +0000"
+    },
+    "done": false
   },
   "ic2:memory_expansion_recipe_advancement": {
     "criteria": {
@@ -2127,6 +2164,12 @@
     },
     "done": true
   },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-13 23:58:36 +0000"
+    },
+    "done": false
+  },
   "ic2:generator_1_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-10 19:29:11 +0000"
@@ -2301,6 +2344,12 @@
     },
     "done": true
   },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-13 23:58:36 +0000"
+    },
+    "done": false
+  },
   "tombstone:adventure/first_knowledge": {
     "criteria": {
       "coded_trigger": "2024-12-10 19:41:53 +0000"
@@ -2363,7 +2412,7 @@
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "requirement": "2024-12-13 23:51:35 +0000"
+      "log_spam_fixer": "2024-12-13 23:58:36 +0000"
     },
     "done": false
   },
@@ -2941,6 +2990,12 @@
     },
     "done": true
   },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-13 23:58:36 +0000"
+    },
+    "done": false
+  },
   "dungeons_enhanced:seven_world_wonders": {
     "criteria": {
       "entered_deep_crypt": "2024-12-11 00:21:42 +0000"
@@ -2971,6 +3026,12 @@
     },
     "done": true
   },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-13 23:58:36 +0000"
+    },
+    "done": false
+  },
   "enigmaticlegacy:recipes/generic/cursed_scroll": {
     "criteria": {
       "has_parent_recipe": "2024-12-11 21:01:54 +0000"
@@ -2982,6 +3043,12 @@
       "hasItem": "2024-12-10 19:20:31 +0000"
     },
     "done": true
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-13 23:58:36 +0000"
+    },
+    "done": false
   },
   "corail_dt:recipes/corail_dt/disk_4_1": {
     "criteria": {
